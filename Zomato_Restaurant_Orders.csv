@@ -1,0 +1,1001 @@
+order_id,customer_id,order_date,order_time,delivery_time,total_cost,item_count,payment_method,customer_rating,restaurant_id,restaurant_name,city,area,cuisine,avg_rating,total_ratings,price_range,delivery_available
+38221dfc,ef2b0995,2024-02-10,16:47,79,1344.17,5,UPI,3.8,760d1a28,Restaurant_457,Mumbai,Area_E,Indian,4.1,3434,Medium,No
+04b2dc08,bad21b62,2024-01-15,17:17,63,1672.1,4,"Net Banking",2.5,502053dd,Restaurant_343,Bangalore,Area_B,Thai,4.2,3264,Low,No
+6e1098fe,308d0b15,2024-05-06,9:51,32,992.86,1,Wallet,2,74d2ed66,Restaurant_336,Chennai,Area_E,Mexican,4.8,1100,High,Yes
+d32f543e,a9e0d903,2024-02-02,6:29,31,1033.8,3,"Credit Card",3.5,d56c5b5e,Restaurant_487,Delhi,Area_C,Thai,3.9,1584,High,No
+db1a2c5f,639c9f46,2024-07-28,2:40,50,1365.96,9,Wallet,1.6,c867f4c3,Restaurant_326,Delhi,Area_D,Chinese,3.1,1320,Low,Yes
+f9b9c14d,4fc9bd6b,2024-12-04,12:55,31,918.36,6,COD,3.3,c2dd51cf,Restaurant_361,Chennai,Area_D,Chinese,3.3,3385,High,No
+617e3e23,3c5aacd7,2024-12-08,2:37,85,732.02,4,"Net Banking",4.7,f5e8e8a9,Restaurant_458,Delhi,Area_B,Chinese,3.1,1087,Medium,Yes
+d09cc1e9,bb87ba85,2024-09-14,11:11,17,618.44,10,UPI,2.9,e11f3ddf,Restaurant_263,Bangalore,Area_B,Mexican,3.6,786,Medium,Yes
+2f3bde66,7f1e90e9,2024-01-27,1:36,54,462.92,8,Wallet,1.4,bfbb1501,Restaurant_2,Mumbai,Area_A,Chinese,4.1,2773,High,No
+553fea61,cb7a4d52,2024-02-18,17:08,17,317.6,9,Wallet,2.2,8a592a8a,Restaurant_121,Chennai,Area_D,Italian,3.2,3440,High,No
+2b1a8b3c,ca99ce50,2024-12-14,14:59,86,1343.94,5,UPI,4.2,ce114fee,Restaurant_262,Bangalore,Area_D,Mexican,2.5,1388,Medium,No
+4a6b7549,f5d06841,2024-03-16,19:05,23,1065.32,7,"Credit Card",2.9,bc4f828e,Restaurant_45,Bangalore,Area_B,Indian,2.9,2555,Low,No
+5b594f80,c8530ddc,2024-08-10,6:20,89,889.19,10,COD,2.7,9.18E+07,Restaurant_338,Delhi,Area_B,Thai,3.6,2240,Medium,No
+7280c654,ad976efe,2024-09-03,8:40,65,1082.97,8,"Net Banking",2.6,62249dbf,Restaurant_337,Kolkata,Area_A,Italian,4.5,2651,Medium,Yes
+b929b9a8,2617e33e,2024-09-13,8:09,87,1438.23,8,COD,2.7,9ac148bf,Restaurant_147,Delhi,Area_C,Mexican,2.6,1468,High,Yes
+f1064510,aa6e3b9c,2024-11-18,6:25,53,916.43,4,UPI,2.7,4d9244b9,Restaurant_431,Kolkata,Area_C,Chinese,2.9,4143,Low,Yes
+21d00a48,494ce647,2024-04-16,21:26,70,577.11,10,UPI,2.1,9ff72da6,Restaurant_173,Mumbai,Area_B,Indian,4.6,2224,Medium,Yes
+ea5a81aa,7c329a1c,2024-08-04,7:10,48,797.58,2,COD,4.7,14f8c226,Restaurant_432,Delhi,Area_B,Mexican,4.6,1023,Medium,Yes
+7f09dd22,00750b8c,2024-01-05,13:52,65,1829.31,2,Wallet,1.3,eab30c2f,Restaurant_470,Chennai,Area_C,Indian,4,4628,Low,Yes
+e020448d,c0885418,2024-07-27,4:05,39,1604.65,9,COD,2.9,94e70589,Restaurant_48,Mumbai,Area_A,Chinese,4.8,2131,High,Yes
+97d9c034,08022a84,2024-06-28,0:04,23,1389.15,8,UPI,3.7,28450860,Restaurant_479,Mumbai,Area_E,Thai,4.1,197,Low,Yes
+493d455b,77db289e,2024-05-17,11:46,21,225.25,3,UPI,3.5,bf0d16e8,Restaurant_399,Kolkata,Area_E,Chinese,2.9,3843,High,Yes
+53e4c78f,68a17f17,2024-10-27,16:25,15,1170.99,7,"Net Banking",4.6,d0b43dbe,Restaurant_413,Kolkata,Area_C,Italian,4.2,2282,Medium,No
+7d544897,da50cd1f,2024-01-06,0:56,25,1489.01,7,COD,2.7,e6f5e6b1,Restaurant_54,Mumbai,Area_C,Thai,4.8,3055,High,Yes
+d5fbbc19,d3c28f0e,2024-07-25,2:06,74,527.85,7,"Credit Card",3.1,d4eb642a,Restaurant_52,Kolkata,Area_C,Chinese,2.5,4944,Low,Yes
+e06eadb7,e37c9348,2024-12-01,23:34,86,1566.55,9,UPI,3.6,6a557120,Restaurant_395,Bangalore,Area_A,Indian,3.4,3177,Low,No
+e142d877,c0a7f6e4,2024-10-21,18:05,59,1901.4,3,UPI,2.5,20fd72ee,Restaurant_64,Delhi,Area_A,Thai,3.3,4037,High,Yes
+26aa6d23,25c684c1,2024-09-28,23:01,29,299.2,6,UPI,2,5e9ad80d,Restaurant_37,Delhi,Area_C,Thai,3.6,4385,Low,No
+ef862104,94c75dc9,2024-07-13,23:29,76,1066.17,2,COD,2.7,228796c5,Restaurant_319,Delhi,Area_E,Indian,4,3495,Medium,Yes
+ee75bcda,815240b5,2024-04-01,10:49,67,510.73,8,"Net Banking",3.2,96c583bb,Restaurant_318,Bangalore,Area_A,Thai,3,2572,Medium,Yes
+04692a8a,26c5b8b1,2024-01-09,1:48,82,788.83,3,"Net Banking",4.9,d2a546bc,Restaurant_258,Mumbai,Area_E,Thai,4.7,3806,High,No
+83845749,e85c7846,2024-01-21,16:38,81,1917.09,2,"Net Banking",2.5,369bf88e,Restaurant_33,Bangalore,Area_D,Thai,3.4,1133,Low,No
+e4aa3944,4744adb3,2024-07-22,1:40,43,880.75,2,"Credit Card",4.1,c71efa45,Restaurant_120,Mumbai,Area_C,Chinese,4.3,2859,Medium,No
+55cd421c,81f67200,2024-08-04,2:28,22,1842.33,1,COD,4.8,9f137e8a,Restaurant_404,Bangalore,Area_B,Italian,4.2,851,High,Yes
+da0b703b,0c7ac64e,2024-11-06,6:30,21,1327.12,3,Wallet,1.7,7a6b060d,Restaurant_89,Chennai,Area_B,Mexican,2.9,2787,High,Yes
+e7d7c3c8,78ecf57c,2024-07-01,8:50,21,428.82,3,"Credit Card",2.3,9ff72da6,Restaurant_173,Mumbai,Area_B,Indian,4.6,2224,Medium,Yes
+42e1767d,63c1dcb8,2024-11-24,22:00,18,1883.86,3,Wallet,4.2,62026a9a,Restaurant_382,Bangalore,Area_B,Thai,3.8,4439,High,No
+d8c6c563,0c93b1d9,2024-02-08,23:42,22,902.9,1,Wallet,4,ab601722,Restaurant_79,Mumbai,Area_E,Mexican,4.5,1115,High,No
+fffbc150,076ea892,2024-02-13,20:15,54,303.11,1,COD,1.7,2a7a8abf,Restaurant_351,Mumbai,Area_E,Thai,4.2,2497,High,No
+0be22cfe,82b6752c,2024-01-12,4:23,64,1650.2,4,COD,1.2,0ae349c2,Restaurant_429,Mumbai,Area_B,Italian,2.9,571,Low,Yes
+389a499d,f33023de,2024-09-11,5:03,22,1226.41,3,UPI,1.2,51bc9499,Restaurant_17,Mumbai,Area_A,Thai,5,936,Low,Yes
+31e0ca56,5c50cbd7,2024-07-18,17:12,74,426.35,10,UPI,2.8,dddddf29,Restaurant_180,Kolkata,Area_D,Chinese,2.7,3242,Medium,Yes
+9b1737fb,e5253af5,2024-09-03,0:29,42,305.12,1,UPI,2.6,cb476aae,Restaurant_358,Delhi,Area_D,Chinese,5,2512,Medium,No
+dc48db49,8fb283ef,2024-04-04,13:01,33,662.03,9,COD,2.1,79617b25,Restaurant_23,Delhi,Area_C,Thai,2.5,4170,High,Yes
+654e77cf,970bfdcf,2024-01-19,10:45,18,1456.34,8,Wallet,2.7,fe75f9a6,Restaurant_427,Bangalore,Area_B,Mexican,3.7,2337,Low,No
+5c68f49e,c9ad6b1e,2024-10-15,1:17,89,1960.73,9,UPI,2.7,ce8f2030,Restaurant_307,Delhi,Area_C,Italian,3.5,2995,High,Yes
+a14cc5b7,0300315c,2024-03-25,22:36,49,1401.7,1,"Net Banking",1.2,c1244b75,Restaurant_25,Delhi,Area_C,Mexican,3.6,874,High,No
+f3959143,50fe7891,2024-09-01,18:47,19,1789.66,5,Wallet,1.8,b62af499,Restaurant_453,Mumbai,Area_E,Italian,2.8,902,Low,Yes
+96356b53,535a2da5,2024-01-13,13:12,27,1347.07,3,Wallet,1.9,f2bb6dd3,Restaurant_151,Mumbai,Area_D,Italian,2.6,4022,Low,Yes
+90413c16,6accc025,2024-02-12,20:21,51,665.34,4,UPI,2.6,97ba5c47,Restaurant_304,Bangalore,Area_A,Thai,2.9,595,High,Yes
+b837b9a6,9629a26a,2024-04-02,22:02,81,1844.65,3,UPI,3.5,f6a4fedc,Restaurant_368,Mumbai,Area_C,Thai,2.5,2663,Medium,No
+735edc53,0319a1ea,2024-02-26,18:46,48,468.88,4,UPI,2.7,2f6d7840,Restaurant_104,Kolkata,Area_C,Chinese,4.8,1428,High,Yes
+915b5bf3,f75f61bc,2024-11-11,2:12,75,597.44,8,UPI,4.8,5a47cc33,Restaurant_5,Delhi,Area_E,Chinese,4.5,3826,Medium,No
+80bced47,c46a32ef,2024-12-20,2:35,28,930.85,5,"Net Banking",4.6,5f0a9f32,Restaurant_105,Bangalore,Area_B,Chinese,3.2,2200,High,Yes
+67c376d5,c74bfa16,2024-11-01,7:17,18,1274.69,2,"Net Banking",3.4,a8e96359,Restaurant_158,Bangalore,Area_C,Chinese,2.9,4733,High,No
+9839802,15338b57,2024-11-15,5:57,31,1402.69,5,UPI,2.7,02df79eb,Restaurant_15,Mumbai,Area_E,Italian,4.9,4486,High,Yes
+f11acb64,57a6f3bc,2024-04-10,17:00,82,145.45,4,COD,2,8bb9a4b0,Restaurant_0,Mumbai,Area_A,Mexican,3.6,3062,Medium,No
+4e123c01,327dda03,2024-09-12,11:14,71,1453.11,9,"Credit Card",4.3,4290a87b,Restaurant_174,Kolkata,Area_A,Indian,3.3,3119,High,No
+5845b21e,ad000800,2024-03-02,3:38,60,1525.71,4,Wallet,1.3,3d59878b,Restaurant_260,Chennai,Area_E,Thai,4.6,1335,Low,No
+7db29269,d7f8bd00,2024-12-02,18:00,89,1159.33,1,"Credit Card",4.9,c317908c,Restaurant_443,Chennai,Area_D,Mexican,3,2832,Medium,Yes
+46075c8e,b0444c04,2024-02-03,6:42,20,1650.55,2,UPI,5,2f6d7840,Restaurant_104,Kolkata,Area_C,Chinese,4.8,1428,High,Yes
+11b5078c,a5c4b5fa,2024-12-24,21:47,67,601.19,9,"Credit Card",2.1,fcd19837,Restaurant_184,Kolkata,Area_B,Thai,2.9,4456,Low,No
+855cfa79,1470cf4c,2024-08-12,20:52,83,580.71,4,"Net Banking",3.3,78805df4,Restaurant_412,Chennai,Area_D,Mexican,3.5,4961,High,No
+8575f654,f7b07849,2024-10-08,10:14,54,158.09,3,UPI,4.3,10504ca1,Restaurant_426,Kolkata,Area_B,Mexican,4.4,1400,Low,No
+6a3ac339,64353689,2024-05-27,11:46,52,218.69,9,UPI,3.8,2850b98f,Restaurant_204,Kolkata,Area_B,Thai,4.8,2772,High,Yes
+0dca1354,7da65901,2024-08-15,1:18,56,1641.44,7,"Credit Card",2,1d9ef47d,Restaurant_266,Mumbai,Area_A,Thai,4.1,1731,Low,Yes
+1d5eb064,205ed738,2024-04-24,7:05,76,252.85,9,"Net Banking",3.2,60723d0e,Restaurant_88,Chennai,Area_A,Thai,3.3,2168,High,No
+77a058c1,6.66E+06,2024-05-26,10:49,89,507.44,2,UPI,2.6,59b862ed,Restaurant_341,Bangalore,Area_B,Mexican,3.6,800,Low,Yes
+25e708ff,92a9cf5a,2024-01-14,2:50,90,1392.52,9,UPI,1.6,4e7b5c84,Restaurant_259,Mumbai,Area_B,Mexican,4.3,3998,High,Yes
+eb26c5bc,e0df9267,2024-09-15,7:40,21,573.7,3,COD,2,e224a5ea,Restaurant_240,Mumbai,Area_A,Mexican,5,2978,High,No
+4e33a5e2,43282269,2024-03-28,4:41,15,381.85,10,"Credit Card",2.5,5fef57bb,Restaurant_471,Mumbai,Area_A,Italian,2.6,1936,High,No
+8bf3418d,1f9c316e,2024-04-19,0:22,71,1817.71,5,Wallet,2.7,9ff72da6,Restaurant_173,Mumbai,Area_B,Indian,4.6,2224,Medium,Yes
+ccb955f3,b686bb95,2024-07-13,22:31,32,1655.93,2,Wallet,1.1,7dbcbb29,Restaurant_480,Bangalore,Area_B,Mexican,3.8,268,High,No
+86e65064,bc346923,2024-12-20,15:50,43,1530.83,9,Wallet,4.9,8c077be2,Restaurant_485,Mumbai,Area_D,Chinese,3.2,1999,Low,Yes
+d75cb2ba,d9aea012,2024-08-01,6:09,85,668.7,8,"Credit Card",1.8,52758fa7,Restaurant_233,Bangalore,Area_D,Indian,2.7,3706,Low,Yes
+d3593377,f093388c,2024-10-16,15:29,21,746.32,10,"Credit Card",1.6,fcc5c2d6,Restaurant_310,Chennai,Area_B,Italian,3.4,2140,Low,No
+3ff5e752,0c596921,2024-08-01,19:44,44,1018.39,8,UPI,1.6,a638af19,Restaurant_297,Kolkata,Area_A,Mexican,2.6,4934,Medium,Yes
+82b862a0,51b87c53,2024-02-08,1:34,70,179.28,2,COD,2.8,f146994a,Restaurant_483,Kolkata,Area_A,Indian,4.3,4202,Medium,No
+7a726224,671b39b7,2024-05-24,12:47,22,497.47,2,"Credit Card",3.5,b09f66d7,Restaurant_109,Bangalore,Area_B,Chinese,4.3,3618,Low,Yes
+d0b45d1b,17c1b6d4,2024-08-15,8:04,88,1812.33,9,"Credit Card",1.4,427b24bc,Restaurant_496,Delhi,Area_C,Mexican,3.2,804,Medium,Yes
+ccab1083,066e2ac0,2024-12-24,19:45,56,1380.02,10,COD,2.8,70c91766,Restaurant_339,Kolkata,Area_B,Chinese,4.4,4620,Medium,Yes
+198c7387,6e43118a,2024-09-25,12:30,40,274.44,6,"Credit Card",4,1969672f,Restaurant_402,Chennai,Area_D,Indian,4.4,2776,Low,Yes
+8b153582,de583843,2024-12-19,21:26,56,1449.41,8,"Net Banking",2.9,8058c87e,Restaurant_199,Chennai,Area_D,Italian,3,3073,Low,No
+920929cb,481e38f8,2024-07-17,4:39,73,1348.82,1,UPI,4.6,5b2f1c9a,Restaurant_498,Kolkata,Area_A,Chinese,4.7,1844,Low,No
+fc38741d,944ad2d8,2024-05-10,21:42,23,1143.67,6,"Net Banking",3.2,04dc9812,Restaurant_39,Delhi,Area_A,Mexican,3.7,2680,Medium,Yes
+66c8a4c8,1a64e403,2024-12-03,5:20,45,1308.12,4,Wallet,4.4,faff1bf4,Restaurant_251,Mumbai,Area_C,Thai,4.9,2667,Medium,Yes
+ef0a4ea6,011a44cb,2024-03-05,14:17,43,1780.97,8,"Credit Card",1.7,ccb7be4e,Restaurant_469,Kolkata,Area_E,Italian,4.5,3725,Low,Yes
+e6f70fc1,038c894c,2024-03-01,2:23,53,769.76,8,"Credit Card",2.3,83c9c7f5,Restaurant_436,Mumbai,Area_A,Italian,3.5,813,High,Yes
+43c1a7fa,3027dc87,2024-03-22,9:39,15,1625.7,9,"Credit Card",4.1,b0b312af,Restaurant_488,Kolkata,Area_C,Thai,2.7,3406,Medium,Yes
+60cdd1f2,4074e8a3,2024-01-04,18:05,36,1720.77,4,COD,4.1,7cfc6e28,Restaurant_63,Bangalore,Area_E,Italian,4,449,High,No
+67dc077f,430667d9,2024-09-16,9:39,68,1683.54,8,COD,4.9,1c6eb160,Restaurant_43,Chennai,Area_D,Chinese,3.5,300,Medium,Yes
+78640174,2caa871e,2024-07-24,21:25,77,1464.79,5,"Net Banking",1.1,8a76a7ee,Restaurant_238,Delhi,Area_B,Italian,4.4,3314,Medium,No
+fe1f1fba,14c633c2,2024-12-01,0:41,18,1796.56,3,UPI,5,dbcaa61c,Restaurant_31,Bangalore,Area_D,Mexican,2.5,2851,High,No
+5e544f95,14f583e6,2024-09-15,9:07,63,1943.01,9,"Net Banking",4.8,71ea6563,Restaurant_19,Bangalore,Area_B,Chinese,4.6,1786,High,No
+20608576,f9c14863,2024-08-28,11:04,66,874.24,6,"Credit Card",3.3,1c2e3e38,Restaurant_400,Kolkata,Area_D,Thai,2.8,4990,Medium,Yes
+238c39d4,18cd8d36,2024-10-04,0:25,51,1380,9,Wallet,5,77f59689,Restaurant_467,Delhi,Area_A,Mexican,4.5,2341,Low,No
+c9f31cf5,888c6d8e,2024-06-09,18:16,54,832.97,6,"Net Banking",4.3,49d9a0f2,Restaurant_324,Bangalore,Area_E,Chinese,3.3,1907,Low,No
+3c3b209c,2c1c8fd9,2024-01-09,20:17,43,1194.58,9,COD,1.7,cfb0cf14,Restaurant_452,Bangalore,Area_C,Indian,3.5,936,High,No
+69122b31,7a97d5bd,2024-04-09,15:17,76,978.62,10,"Credit Card",2.5,026ab181,Restaurant_357,Bangalore,Area_E,Italian,3.6,3178,Low,Yes
+d6146db5,b535c11e,2024-07-28,8:12,79,312.95,2,Wallet,3,06bbd4b4,Restaurant_390,Kolkata,Area_D,Italian,2.8,3196,Medium,No
+7745be5b,568f3f7d,2024-08-11,17:26,65,794.62,8,Wallet,2.2,c1f72d98,Restaurant_125,Chennai,Area_A,Chinese,3.6,3130,Low,No
+ab19e60b,fb4e6c20,2024-01-02,11:25,23,906.22,1,COD,4.7,6903437e,Restaurant_298,Mumbai,Area_E,Thai,3.1,2660,Low,No
+063eefa4,be805eb6,2024-07-17,9:51,16,1036.39,4,Wallet,4.1,ee9f310d,Restaurant_231,Mumbai,Area_C,Mexican,4.9,1313,Medium,Yes
+c6a470a4,b38bf731,2024-05-14,5:45,16,333.49,9,UPI,4.5,71098659,Restaurant_440,Bangalore,Area_C,Mexican,4.3,4219,High,No
+1bccc8ff,fe14cbc5,2024-07-19,6:45,54,823.83,7,"Credit Card",2.6,c1f112de,Restaurant_144,Chennai,Area_C,Indian,3.1,1042,High,No
+49faa5d4,e9beb11a,2024-05-23,9:40,68,841.92,8,UPI,3.4,6e1843fb,Restaurant_212,Bangalore,Area_D,Thai,4.5,3678,Low,No
+f5a2e0aa,b9f91a68,2024-05-13,6:00,56,1737.29,10,COD,3,ee9f310d,Restaurant_231,Mumbai,Area_C,Mexican,4.9,1313,Medium,Yes
+efaeaec1,01a5db71,2024-12-07,14:16,57,242.97,2,"Net Banking",2,5e9ad80d,Restaurant_37,Delhi,Area_C,Thai,3.6,4385,Low,No
+a94b1aeb,1dca8cac,2024-01-10,16:43,71,1701.87,5,"Credit Card",3.2,ce863def,Restaurant_181,Bangalore,Area_B,Thai,3.1,801,Medium,Yes
+feedfa64,a7be49e8,2024-03-08,9:45,80,435.43,8,UPI,3,67baa4fe,Restaurant_289,Delhi,Area_E,Mexican,4,122,Low,No
+b45f38bb,1e3479e9,2024-01-08,19:21,20,1838.28,7,UPI,3.3,3b052e56,Restaurant_106,Kolkata,Area_C,Thai,3.5,315,Low,Yes
+75625d97,7de30f4f,2024-12-21,0:43,87,536.18,4,Wallet,2.6,f32a3aad,Restaurant_68,Bangalore,Area_A,Indian,4.5,2879,High,No
+2b3e7fb5,88d0040e,2024-01-25,7:20,33,832.42,10,UPI,1.4,24efe3fc,Restaurant_208,Kolkata,Area_E,Italian,4,1103,High,No
+675eccf2,933fccbe,2024-10-14,22:29,45,308.62,7,COD,2.2,52758fa7,Restaurant_233,Bangalore,Area_D,Indian,2.7,3706,Low,Yes
+7afbb478,9ac25578,2024-10-15,13:09,73,546.81,5,Wallet,4.3,2.74E+12,Restaurant_51,Chennai,Area_C,Mexican,3.8,2655,Medium,Yes
+062f8d5c,c09dbb30,2024-12-26,8:41,32,736.79,7,"Credit Card",4.3,f4fb2de3,Restaurant_16,Mumbai,Area_E,Indian,3,2251,Low,Yes
+ce5fbad2,fa56fc42,2024-11-23,1:43,39,1055.17,10,"Net Banking",3.2,92f9c1c0,Restaurant_137,Chennai,Area_B,Indian,4.9,3813,Medium,Yes
+119995c3,e15f16e7,2024-05-21,22:30,73,1447.81,2,"Credit Card",1.6,78dddfb3,Restaurant_286,Delhi,Area_C,Indian,4.9,746,High,Yes
+29b6ffbc,5b79a107,2024-08-15,10:28,23,150.5,9,UPI,4.7,d0fd93ce,Restaurant_10,Bangalore,Area_A,Mexican,4.5,2575,Medium,Yes
+2a1a831f,60643122,2024-05-26,5:57,36,438.8,10,COD,4.6,bc4f828e,Restaurant_45,Bangalore,Area_B,Indian,2.9,2555,Low,No
+d7e8551f,fc98861c,2024-04-11,18:23,41,1920.21,9,Wallet,4.4,08ba20de,Restaurant_127,Bangalore,Area_B,Indian,4.4,3888,High,Yes
+dbb9aa85,85cb02c6,2024-09-02,14:41,21,265.38,8,UPI,2.7,4c130690,Restaurant_375,Mumbai,Area_B,Thai,3,3574,Medium,Yes
+20158e4c,c2a80a80,2024-04-15,0:23,75,184.81,8,COD,1.4,3ef529e5,Restaurant_466,Chennai,Area_A,Mexican,3.2,4595,High,Yes
+5369eabd,c5ea268f,2024-07-05,11:25,48,1814.88,5,"Credit Card",1.3,606db467,Restaurant_348,Delhi,Area_C,Indian,2.5,1168,Medium,Yes
+2cc0f588,fbe89ca3,2024-06-13,18:36,57,1894.01,2,"Net Banking",2.9,b7d2e9fd,Restaurant_172,Bangalore,Area_D,Mexican,4.5,2927,Medium,Yes
+7c088505,017a4259,2024-08-09,14:37,35,1170.88,7,"Net Banking",4.9,b37bb876,Restaurant_335,Delhi,Area_C,Thai,4.1,3383,Medium,No
+2c46c707,0e94b64b,2024-10-01,10:44,67,799.6,1,UPI,2.8,1bc05c14,Restaurant_276,Delhi,Area_B,Italian,4.9,2832,Medium,No
+93485977,6939da39,2024-01-25,5:11,34,1886.86,9,Wallet,1.4,bff0bb92,Restaurant_200,Chennai,Area_D,Italian,4.4,1365,High,No
+d86d3f67,0be82912,2024-11-23,11:46,64,1759.42,6,Wallet,4.8,0969abfd,Restaurant_193,Chennai,Area_C,Mexican,3.4,1965,High,Yes
+c06a5c27,c3e6d3b2,2024-06-09,12:51,55,1999.82,7,COD,2.2,89c96872,Restaurant_373,Bangalore,Area_E,Chinese,4.9,3381,High,Yes
+14d627aa,6470a316,2024-09-09,11:51,34,1527.27,5,Wallet,3.3,e6f5e6b1,Restaurant_54,Mumbai,Area_C,Thai,4.8,3055,High,Yes
+564f2e82,a0c66069,2024-04-18,17:44,76,496.21,2,Wallet,1.4,d2c59e6e,Restaurant_66,Delhi,Area_B,Indian,4.7,1912,Medium,No
+f4552f3b,1bac6e72,2024-06-07,3:58,40,1513.88,4,"Net Banking",3.3,71d4a52a,Restaurant_261,Bangalore,Area_D,Mexican,3.2,3991,Medium,No
+e953cfea,6a586047,2024-02-09,7:41,24,381.5,2,COD,1.9,9c80db76,Restaurant_28,Kolkata,Area_D,Italian,4.2,1694,High,Yes
+ee51b9fc,5dcf1440,2024-09-17,2:02,42,991.5,1,UPI,3.4,ba31dffb,Restaurant_8,Mumbai,Area_A,Mexican,2.9,4229,Medium,No
+220aab4f,2d3dc562,2024-12-18,20:29,69,1131.79,8,Wallet,4.2,fcd19837,Restaurant_184,Kolkata,Area_B,Thai,2.9,4456,Low,No
+70c0b45d,dfaa14dd,2024-11-13,2:24,58,1028.69,1,COD,2.6,0c921430,Restaurant_461,Chennai,Area_B,Mexican,3.3,1912,High,No
+82150bf8,2eea9f4e,2024-06-27,13:44,37,1191.86,3,UPI,4.3,b8ee95cd,Restaurant_367,Kolkata,Area_A,Thai,2.8,813,Medium,Yes
+9f00e65d,e98818ef,2024-06-04,23:47,60,362.39,3,UPI,3.2,4f2f2dc8,Restaurant_3,Chennai,Area_D,Mexican,5,4172,High,Yes
+b18f9fcd,1.78E+12,2024-01-08,0:55,68,243.8,1,"Net Banking",2.5,dbcaa61c,Restaurant_31,Bangalore,Area_D,Mexican,2.5,2851,High,No
+6e37706c,bd84d3e8,2024-10-17,18:43,40,989.98,4,COD,2.3,e224a5ea,Restaurant_240,Mumbai,Area_A,Mexican,5,2978,High,No
+0ac0e45c,71b5ecdc,2024-01-13,16:31,87,1267.27,5,"Credit Card",3.7,c317908c,Restaurant_443,Chennai,Area_D,Mexican,3,2832,Medium,Yes
+4c7279ed,46043af0,2024-02-22,12:14,43,397.79,3,COD,1.9,7a6b060d,Restaurant_89,Chennai,Area_B,Mexican,2.9,2787,High,Yes
+6e95b630,ee69a6a1,2024-07-28,14:49,37,1323.34,2,COD,3.6,63fa9210,Restaurant_347,Chennai,Area_D,Italian,4.3,1008,Low,Yes
+274bfb68,c6503b79,2024-08-19,19:42,79,1489.51,6,"Net Banking",2.2,227aba32,Restaurant_100,Chennai,Area_C,Thai,4.5,4775,High,No
+8cd9aedc,3a8b7259,2024-01-05,20:40,78,1559.84,7,"Credit Card",2.4,427b24bc,Restaurant_496,Delhi,Area_C,Mexican,3.2,804,Medium,Yes
+205674d7,319d1605,2024-11-21,19:13,56,704.92,10,Wallet,1.2,7975f2ee,Restaurant_494,Kolkata,Area_C,Italian,4.7,2639,High,No
+824e1ae4,a6a3041a,2024-10-24,18:01,71,1497.21,1,"Net Banking",1.6,b2cf0b3d,Restaurant_107,Chennai,Area_A,Chinese,3.1,2091,High,Yes
+f8183ba9,47916940,2024-01-02,7:14,37,1807.17,2,Wallet,3,da9a321e,Restaurant_303,Delhi,Area_C,Mexican,2.9,1987,Low,Yes
+e26b6e57,e58340c2,2024-10-11,13:41,50,1734.19,7,UPI,4,63fa9210,Restaurant_347,Chennai,Area_D,Italian,4.3,1008,Low,Yes
+4cc7d4b4,0773bad5,2024-11-20,2:38,33,155.42,7,"Net Banking",4.3,b37bb876,Restaurant_335,Delhi,Area_C,Thai,4.1,3383,Medium,No
+d54d98b8,93fa0b9f,2024-03-22,9:48,34,239.84,1,"Net Banking",3.2,fd9d762b,Restaurant_329,Delhi,Area_D,Mexican,4.5,2716,Low,No
+23472c9d,b1d43888,2024-07-02,2:16,55,1669.28,2,COD,1,bd857157,Restaurant_210,Mumbai,Area_B,Mexican,3.3,3819,High,No
+13f4dfb4,ac8b3f44,2024-07-25,9:22,32,1168.44,2,"Net Banking",2.8,67baa4fe,Restaurant_289,Delhi,Area_E,Mexican,4,122,Low,No
+66bdae4f,838ab68c,2024-10-16,9:33,43,987.94,4,Wallet,2.9,d2c59e6e,Restaurant_66,Delhi,Area_B,Indian,4.7,1912,Medium,No
+a524dd55,a41e1a0b,2024-06-10,6:21,71,1848.68,9,"Credit Card",4.6,d2c59e6e,Restaurant_66,Delhi,Area_B,Indian,4.7,1912,Medium,No
+22abb79c,45142b71,2024-05-02,5:08,58,1024.83,7,"Net Banking",2.2,d92b984c,Restaurant_401,Delhi,Area_D,Chinese,4.2,4468,High,No
+5f377c66,23984f15,2024-09-04,17:10,24,436.1,3,COD,2,9bff4316,Restaurant_95,Bangalore,Area_D,Indian,2.7,3241,Low,Yes
+2a3f8d37,173255bc,2024-09-19,17:10,87,762.11,4,"Net Banking",3.9,3da5daa9,Restaurant_34,Mumbai,Area_D,Indian,4.7,4710,High,Yes
+244b7a57,bd4dfd64,2024-08-05,22:45,62,1523.66,8,Wallet,2.7,ec9059b5,Restaurant_288,Bangalore,Area_D,Chinese,4.1,4259,Low,Yes
+b9fa3a4f,7d29934f,2024-08-15,4:43,78,1099.78,1,"Net Banking",1.5,b37bb876,Restaurant_335,Delhi,Area_C,Thai,4.1,3383,Medium,No
+09be8cfb,49a7c91b,2024-10-05,10:00,64,553.38,9,"Net Banking",4.4,f00f0b93,Restaurant_178,Delhi,Area_A,Indian,4.9,2399,Low,Yes
+7fa49915,d551cade,2024-01-22,22:57,87,941.75,7,"Credit Card",3.1,4c130690,Restaurant_375,Mumbai,Area_B,Thai,3,3574,Medium,Yes
+41f985f6,1967fd30,2024-11-21,22:53,20,312.27,7,Wallet,4.6,754bea84,Restaurant_366,Mumbai,Area_E,Indian,3.9,4397,High,No
+a1647102,f469d5b8,2024-08-14,0:57,47,235.77,6,"Credit Card",4.6,eb174c1f,Restaurant_69,Mumbai,Area_A,Thai,2.5,484,Medium,Yes
+9343099e,20df0cba,2024-10-16,1:59,23,504.83,10,COD,4.7,8d06cc24,Restaurant_141,Delhi,Area_D,Thai,4.8,4957,High,Yes
+a38384f6,9ffe6248,2024-03-11,2:29,66,913.38,1,"Net Banking",2.9,49d9a0f2,Restaurant_324,Bangalore,Area_E,Chinese,3.3,1907,Low,No
+49cfd04d,f3d4ead0,2024-06-27,3:15,65,1544.09,4,Wallet,2.6,62249dbf,Restaurant_337,Kolkata,Area_A,Italian,4.5,2651,Medium,Yes
+ec2a169a,7ecf9419,2024-08-22,21:17,50,1958.74,8,Wallet,3.7,ee9f310d,Restaurant_231,Mumbai,Area_C,Mexican,4.9,1313,Medium,Yes
+97d0cccd,18292ac0,2024-11-13,8:20,29,742.57,7,"Net Banking",3.5,dd2f2051,Restaurant_435,Kolkata,Area_D,Chinese,2.7,3935,Low,Yes
+73415eeb,b3d766b6,2024-09-15,19:34,20,638.23,3,UPI,1.3,ea525a43,Restaurant_394,Kolkata,Area_D,Indian,4,3021,Low,No
+151b16ca,962efdbd,2024-06-15,14:49,65,851.93,2,COD,4.7,7421de9a,Restaurant_119,Kolkata,Area_B,Chinese,3.7,2362,Medium,No
+add32980,b9a2a9a6,2024-04-28,16:08,79,344.62,2,COD,4.2,cb90b2ce,Restaurant_354,Mumbai,Area_E,Indian,4.3,2213,High,Yes
+76fa83a5,6e8d697f,2024-09-22,14:40,26,1015.29,8,Wallet,2.1,242460cc,Restaurant_256,Mumbai,Area_B,Indian,3.9,2197,Low,No
+a47997b1,a41e9662,2024-08-19,5:50,58,1564.91,2,"Credit Card",4.8,674dfaa6,Restaurant_227,Chennai,Area_E,Italian,3.5,1049,Medium,No
+ebd1d581,37b68bc0,2024-08-27,20:45,74,250.01,5,UPI,1.6,75c47f5f,Restaurant_143,Mumbai,Area_B,Chinese,3.1,3460,High,No
+66b80e5d,5e8ea34f,2024-04-12,2:05,42,944.33,2,"Credit Card",4.4,2f6d7840,Restaurant_104,Kolkata,Area_C,Chinese,4.8,1428,High,Yes
+e79c084d,a520e3ed,2024-11-25,22:31,60,1146.19,9,"Net Banking",1.5,a961a847,Restaurant_183,Kolkata,Area_C,Thai,4,4835,Medium,No
+65929fe2,a26f010d,2024-11-12,20:55,60,200.76,9,COD,5,537b38f9,Restaurant_168,Chennai,Area_B,Mexican,3,3110,High,Yes
+c43029a2,bcb0af16,2024-04-05,2:20,16,998.02,1,"Credit Card",4.9,951b096d,Restaurant_82,Chennai,Area_A,Chinese,4.4,1232,Low,Yes
+2.38E+58,5bb18c32,2024-10-03,13:05,56,417.89,2,COD,2.4,bbd3019c,Restaurant_489,Delhi,Area_E,Indian,3.4,3895,Medium,Yes
+d1526fb8,63ed5fd4,2024-03-28,23:08,90,641.96,7,COD,4.4,26db3a08,Restaurant_136,Delhi,Area_A,Italian,4.7,4760,High,Yes
+1ad2c9e0,a88641ca,2024-05-17,9:42,27,234.46,6,"Net Banking",2.7,991915d7,Restaurant_165,Bangalore,Area_B,Italian,2.7,1473,Low,No
+91ad3a0c,cadd37fd,2024-08-20,0:07,74,1855.92,5,COD,3.3,fb67202e,Restaurant_411,Bangalore,Area_A,Italian,4.9,3081,Medium,Yes
+8193ebdb,a2cd81a1,2024-03-21,21:47,71,1129.2,7,"Net Banking",2.5,b7445b6d,Restaurant_84,Chennai,Area_E,Thai,4,429,Medium,No
+8e6a3ed0,34de1615,2024-02-10,10:20,90,1138.14,4,UPI,2.5,49d9a0f2,Restaurant_324,Bangalore,Area_E,Chinese,3.3,1907,Low,No
+36ece9d2,5517effe,2024-03-25,15:01,75,1595.89,3,COD,4.6,f146994a,Restaurant_483,Kolkata,Area_A,Indian,4.3,4202,Medium,No
+9b653457,2c7ec4f0,2024-03-28,13:55,40,607.5,6,Wallet,2.4,eb6fce5b,Restaurant_356,Kolkata,Area_A,Chinese,3.3,4660,Low,No
+f9262afb,d7cbcda6,2024-11-04,10:32,82,1874.58,6,"Net Banking",3.2,5eafb4ee,Restaurant_247,Bangalore,Area_A,Italian,4.7,309,High,Yes
+0993f74c,d0e8fbc2,2024-11-07,4:09,90,636.43,8,COD,4.8,179a3485,Restaurant_414,Mumbai,Area_A,Mexican,2.9,783,Medium,No
+7a9ebaa5,33afc5b2,2024-06-01,16:00,83,335.48,1,Wallet,1.5,fc36ce35,Restaurant_12,Kolkata,Area_E,Italian,4.1,1356,Low,Yes
+a17333a8,f3d9746b,2024-01-24,3:54,34,281.58,5,"Credit Card",2,1c45fac8,Restaurant_283,Kolkata,Area_B,Thai,4.1,3805,Low,Yes
+f165e212,139e0ad5,2024-12-14,0:32,62,760.98,7,COD,4.9,aa054739,Restaurant_85,Kolkata,Area_E,Italian,5,362,Medium,No
+9dca8c9d,d79cb804,2024-03-18,21:37,36,1604.01,6,"Credit Card",3.8,dde6dac9,Restaurant_94,Mumbai,Area_D,Chinese,3.8,796,Low,Yes
+de809c35,31b6a807,2024-12-21,4:25,81,406.54,1,UPI,3.4,81aa2acc,Restaurant_478,Kolkata,Area_B,Chinese,3.8,3740,Medium,Yes
+e84b4516,521f84be,2024-06-23,4:29,46,1929.44,2,"Credit Card",3.7,9fffa8c9,Restaurant_139,Chennai,Area_A,Thai,3.2,1162,High,No
+c8121f34,ba182842,2024-04-21,8:18,21,100.98,8,"Credit Card",1.2,71af43be,Restaurant_97,Delhi,Area_E,Thai,4.2,604,Low,No
+019cf758,0c4a35ee,2024-12-15,4:06,40,1896.08,8,"Credit Card",3.5,3e7f7fbe,Restaurant_24,Bangalore,Area_C,Thai,4.7,356,Low,Yes
+d8c56f60,a9eab786,2024-01-19,16:17,32,1529.38,2,UPI,2.6,15626d86,Restaurant_309,Delhi,Area_C,Thai,4.3,227,Low,Yes
+5da16ea5,bad7631c,2024-11-16,0:55,32,896.19,1,"Credit Card",2.4,84e6c455,Restaurant_138,Bangalore,Area_B,Chinese,3.1,1616,Low,Yes
+de6fdc9e,d6469936,2024-12-12,18:42,89,1449.27,7,Wallet,2.5,eb6fce5b,Restaurant_356,Kolkata,Area_A,Chinese,3.3,4660,Low,No
+80e7dd6e,c413cca1,2024-11-15,13:28,49,1274.92,7,"Credit Card",4.3,abc00ee0,Restaurant_87,Bangalore,Area_A,Italian,3.9,4928,High,No
+73509750,cd0e39f1,2024-10-25,2:44,73,175.73,2,"Net Banking",1.8,cd2a813f,Restaurant_456,Delhi,Area_D,Italian,4,1301,High,Yes
+5f3f5286,ccdb85db,2024-02-10,1:41,63,1548.83,3,Wallet,1.8,dddddf29,Restaurant_180,Kolkata,Area_D,Chinese,2.7,3242,Medium,Yes
+3f7f6d83,6586141,2024-07-09,6:20,29,1733.61,8,"Credit Card",4.2,bd3013d9,Restaurant_253,Mumbai,Area_D,Thai,4,3374,Medium,No
+7c22280f,60675c69,2024-09-10,15:21,78,297.71,1,UPI,3.3,a80c0410,Restaurant_135,Kolkata,Area_A,Chinese,3.6,3389,High,No
+1e379692,5ba4e78e,2024-08-23,12:21,54,1656.59,6,COD,1.3,5b2f1c9a,Restaurant_498,Kolkata,Area_A,Chinese,4.7,1844,Low,No
+c8017551,f31aa357,2024-03-27,21:47,24,1118.65,6,COD,1.3,3988bf2c,Restaurant_162,Delhi,Area_E,Italian,4.9,2222,Medium,No
+0a4a120b,766d07ea,2024-06-19,19:35,63,397.06,9,"Net Banking",4.4,8a11d347,Restaurant_112,Bangalore,Area_A,Thai,3.9,3041,Low,Yes
+1148c6b8,1e31105d,2024-09-25,13:44,51,526.92,1,COD,4.1,7cd438d2,Restaurant_482,Kolkata,Area_D,Chinese,4.1,3285,High,No
+d8483324,133f42dd,2024-07-27,8:14,74,972.93,10,COD,4.7,ea525a43,Restaurant_394,Kolkata,Area_D,Indian,4,3021,Low,No
+2085981c,5251266d,2024-07-20,22:20,67,1767.62,5,Wallet,2.8,ce8f2030,Restaurant_307,Delhi,Area_C,Italian,3.5,2995,High,Yes
+d7ac973f,cf452a7f,2024-04-25,15:32,78,1020.73,5,"Credit Card",4.1,404f0685,Restaurant_239,Mumbai,Area_E,Italian,3.7,327,Medium,Yes
+ca9b7beb,40c09a96,2024-02-04,13:11,52,297.24,10,UPI,3.7,bf2eb8e4,Restaurant_306,Delhi,Area_B,Indian,3.5,3314,Low,Yes
+f6537c93,9b3d04a9,2024-09-17,5:59,46,528.07,5,"Credit Card",2.9,f6a4fedc,Restaurant_368,Mumbai,Area_C,Thai,2.5,2663,Medium,No
+328f1721,828c7848,2024-07-26,8:28,73,1254.11,1,"Net Banking",4.3,bc4f828e,Restaurant_45,Bangalore,Area_B,Indian,2.9,2555,Low,No
+bad211d0,e514b8db,2024-11-13,20:26,51,1267.23,4,"Credit Card",2.2,67a95931,Restaurant_46,Bangalore,Area_B,Thai,5,1912,High,No
+9de99df6,8ade3862,2024-02-05,16:59,80,256.5,8,"Credit Card",1.6,10504ca1,Restaurant_426,Kolkata,Area_B,Mexican,4.4,1400,Low,No
+a54dd5c1,3e550da7,2024-09-19,19:30,64,468.58,6,UPI,1,77f59689,Restaurant_467,Delhi,Area_A,Mexican,4.5,2341,Low,No
+a32bc45c,f18748e8,2024-04-25,15:49,43,686.55,7,"Credit Card",4.3,83c9c7f5,Restaurant_436,Mumbai,Area_A,Italian,3.5,813,High,Yes
+ef46a04c,891997f7,2024-06-10,7:43,82,1969.77,7,COD,3.6,a59b82a8,Restaurant_197,Delhi,Area_D,Italian,3.5,3967,Low,No
+7bece8b1,a079b975,2024-08-16,2:43,81,1684.55,9,"Credit Card",2.1,b96de83c,Restaurant_345,Mumbai,Area_A,Italian,3.1,4744,Low,No
+57322bb0,b7b2756b,2024-07-08,22:14,47,589.74,8,COD,3.5,3131321b,Restaurant_308,Delhi,Area_D,Chinese,2.7,792,Medium,Yes
+dd702488,5b93d061,2024-05-24,15:46,88,1085.28,4,"Net Banking",3.4,a05e429d,Restaurant_83,Kolkata,Area_C,Thai,4.4,1822,Low,Yes
+5879560a,c939be5a,2024-11-15,6:16,86,583.91,7,"Net Banking",3.5,368c8202,Restaurant_493,Chennai,Area_B,Italian,2.6,1957,High,Yes
+857a9dee,979745a1,2024-01-08,20:01,81,338.57,4,"Net Banking",2.9,733a1a91,Restaurant_223,Bangalore,Area_A,Chinese,4.7,3518,Low,No
+c15e600b,e039e203,2024-11-11,2:28,38,1352.28,7,Wallet,4.2,a51eaacf,Restaurant_126,Bangalore,Area_E,Thai,2.7,2832,Low,No
+d4b21e94,6877ab29,2024-10-20,10:32,50,1547.26,4,Wallet,1.5,8f988f4e,Restaurant_244,Mumbai,Area_C,Chinese,4.7,1746,High,Yes
+093edc85,8f6d5424,2024-04-28,19:46,20,1543.05,3,COD,4.5,1935fe99,Restaurant_342,Chennai,Area_C,Indian,2.8,1259,High,No
+f35c51cf,33898721,2024-12-21,8:31,63,1613.33,5,COD,1.7,d4eb642a,Restaurant_52,Kolkata,Area_C,Chinese,2.5,4944,Low,Yes
+29eb94e6,52313503,2024-03-26,4:51,16,1417.75,5,Wallet,1.5,d3016f90,Restaurant_14,Mumbai,Area_B,Mexican,2.5,3949,High,No
+509f52a0,b13cc03c,2024-09-14,14:47,25,280.31,5,UPI,2.4,c1f112de,Restaurant_144,Chennai,Area_C,Indian,3.1,1042,High,No
+580a9fef,f4e6abf3,2024-09-21,12:47,84,1592.87,7,UPI,2.6,75c47f5f,Restaurant_143,Mumbai,Area_B,Chinese,3.1,3460,High,No
+36b7d1df,8.31E+12,2024-07-20,11:47,37,461.11,10,COD,2.7,4b7d8a2a,Restaurant_154,Bangalore,Area_E,Italian,3.1,4354,Low,No
+40df7d9f,1a93c1bc,2024-08-17,10:56,17,1745.64,9,Wallet,3.5,e2cb1c1a,Restaurant_377,Chennai,Area_C,Italian,3,2437,Low,Yes
+23dde920,e52e4002,2024-02-05,18:44,44,1197.13,9,Wallet,3.8,59b862ed,Restaurant_341,Bangalore,Area_B,Mexican,3.6,800,Low,Yes
+0ffd9b5b,f5fbbb00,2024-08-05,4:41,69,1013.48,10,Wallet,1.6,a726efd4,Restaurant_459,Bangalore,Area_D,Thai,3.5,859,Low,Yes
+a9fa89b8,482d0db7,2024-09-03,19:08,70,1082.73,1,"Credit Card",3.5,2c3d36ef,Restaurant_317,Chennai,Area_A,Indian,3.2,4301,High,Yes
+ecbe4478,5b708a40,2024-11-13,4:15,90,1618.95,9,Wallet,2.7,bbd3019c,Restaurant_489,Delhi,Area_E,Indian,3.4,3895,Medium,Yes
+cda3b3b8,63d0378a,2024-02-12,7:44,25,1324.86,7,COD,1.7,0fd878e4,Restaurant_296,Delhi,Area_C,Thai,2.7,3605,High,Yes
+756be1b7,101ddf3d,2024-08-27,2:11,43,1549.28,3,Wallet,2.7,c230886a,Restaurant_269,Bangalore,Area_A,Italian,4.7,2186,Medium,No
+1eabc084,c9f46e28,2024-11-23,20:13,78,1789.63,1,UPI,4.6,42142ee5,Restaurant_311,Mumbai,Area_D,Mexican,3.8,2226,High,Yes
+70940187,be9e6af1,2024-04-22,16:57,82,1896.35,10,Wallet,2.1,9bff4316,Restaurant_95,Bangalore,Area_D,Indian,2.7,3241,Low,Yes
+532df88e,0cc802a2,2024-10-25,20:14,83,942.02,10,Wallet,2.4,9c80db76,Restaurant_28,Kolkata,Area_D,Italian,4.2,1694,High,Yes
+c518aa57,08c05802,2024-08-04,23:07,18,1548.14,7,UPI,3,d3016f90,Restaurant_14,Mumbai,Area_B,Mexican,2.5,3949,High,No
+2634b45b,26e005a5,2024-08-01,5:54,26,759.17,1,UPI,3.6,4622bca4,Restaurant_32,Chennai,Area_D,Chinese,4.3,1236,High,No
+f9535032,afa4c48f,2024-11-10,9:20,84,112.81,5,"Net Banking",2.4,c00f73d6,Restaurant_188,Kolkata,Area_A,Italian,2.8,1821,Low,Yes
+17eb544b,fe10288d,2024-04-20,12:41,61,912.03,8,COD,4.2,da6baa40,Restaurant_114,Mumbai,Area_E,Italian,3.1,1339,Low,Yes
+0b9ffe94,9074a0b1,2024-06-01,15:16,33,1574.93,3,COD,1.7,1c54225b,Restaurant_281,Mumbai,Area_B,Italian,3.8,2410,Medium,Yes
+695a5213,db26772b,2024-08-06,19:27,47,467.5,3,UPI,4,fa055ed4,Restaurant_203,Mumbai,Area_A,Thai,3.6,1911,Low,Yes
+6606b895,f1d80850,2024-03-24,6:05,25,1921.63,9,Wallet,4.8,64003853,Restaurant_11,Bangalore,Area_D,Italian,3.1,2915,Low,No
+f57ce91c,4843b261,2024-10-26,15:17,36,126.7,1,"Credit Card",2.9,032e886d,Restaurant_363,Bangalore,Area_B,Mexican,3.8,369,Medium,Yes
+70579daf,c58e8258,2024-09-08,21:56,28,1434.95,10,UPI,3.2,b7d188df,Restaurant_194,Bangalore,Area_B,Italian,3,2570,Low,Yes
+d17aa833,f48a9c63,2024-03-09,13:19,31,1426.24,2,COD,4.2,fc6028ff,Restaurant_206,Bangalore,Area_B,Chinese,2.9,4044,High,No
+096ef80c,353c3aed,2024-03-12,8:03,87,768.49,9,COD,4.8,55c18a95,Restaurant_360,Delhi,Area_E,Indian,2.7,191,High,Yes
+1e3f4a98,2a728dd0,2024-01-20,8:58,90,1172.79,4,"Net Banking",4.1,fb67202e,Restaurant_411,Bangalore,Area_A,Italian,4.9,3081,Medium,Yes
+e8fe75c2,7fefbd31,2024-03-20,9:29,67,891.64,5,UPI,3.6,79e303d1,Restaurant_248,Chennai,Area_D,Indian,4.5,216,High,No
+94727db0,4c7538c6,2024-05-24,0:33,28,1599.46,10,COD,2.2,ea525a43,Restaurant_394,Kolkata,Area_D,Indian,4,3021,Low,No
+16f84594,5262e957,2024-07-17,17:45,67,1807.04,9,"Credit Card",1.2,ccb7be4e,Restaurant_469,Kolkata,Area_E,Italian,4.5,3725,Low,Yes
+b1226ac0,c8a0d246,2024-11-03,6:16,58,1064.86,3,UPI,1.9,dbcaa61c,Restaurant_31,Bangalore,Area_D,Mexican,2.5,2851,High,No
+7922ba1d,e68ca43f,2024-10-20,10:03,45,496.31,10,"Credit Card",1.3,c71efa45,Restaurant_120,Mumbai,Area_C,Chinese,4.3,2859,Medium,No
+4368ff4e,a46ad963,2024-03-23,18:13,30,1691.53,1,"Net Banking",1.2,9abef4df,Restaurant_77,Chennai,Area_A,Italian,3.2,4158,Medium,No
+7134c1d2,f32e99e7,2024-05-09,14:05,16,565.48,8,UPI,1.1,4d8c2e99,Restaurant_472,Bangalore,Area_B,Chinese,3.8,4525,High,Yes
+bd382dca,791a7f9e,2024-08-01,5:27,25,1767.37,1,Wallet,3.7,51bc9499,Restaurant_17,Mumbai,Area_A,Thai,5,936,Low,Yes
+59f9a730,fc6d3089,2024-11-03,7:24,16,1059.25,10,UPI,4.1,4e9bfa3e,Restaurant_226,Chennai,Area_D,Thai,3.8,3113,Low,Yes
+a99da0e5,b01998b8,2024-03-12,22:43,44,860.9,1,UPI,3.6,2.74E+12,Restaurant_51,Chennai,Area_C,Mexican,3.8,2655,Medium,Yes
+27e436a0,6a6e66fb,2024-09-17,1:54,68,1418.62,7,Wallet,3.8,9f137e8a,Restaurant_404,Bangalore,Area_B,Italian,4.2,851,High,Yes
+1970f2cc,39aa449a,2024-07-03,23:51,17,766.18,9,UPI,4.2,3b052e56,Restaurant_106,Kolkata,Area_C,Thai,3.5,315,Low,Yes
+53550dbb,45037f9e,2024-06-05,15:43,56,1050.63,8,UPI,2.7,71764226,Restaurant_434,Mumbai,Area_E,Italian,2.9,505,Low,No
+3537b5fa,a89be24e,2024-05-23,13:31,69,1915.03,2,"Net Banking",1.2,ea525a43,Restaurant_394,Kolkata,Area_D,Indian,4,3021,Low,No
+69eab47f,ad5d17a3,2024-04-03,1:23,50,1284.26,9,Wallet,4.1,f4fb2de3,Restaurant_16,Mumbai,Area_E,Indian,3,2251,Low,Yes
+39576cd5,c94375cf,2024-10-09,6:18,54,1911.04,5,Wallet,4.1,2bf57503,Restaurant_255,Chennai,Area_A,Indian,3.5,4108,Low,Yes
+449fb4a6,8c21fc45,2024-06-15,2:02,21,1230.78,4,COD,4.8,8a592a8a,Restaurant_121,Chennai,Area_D,Italian,3.2,3440,High,No
+ad9705b2,419ac920,2024-09-01,21:46,64,542.2,2,"Net Banking",4,df911fc2,Restaurant_362,Bangalore,Area_B,Indian,4.6,2865,Medium,No
+28746ea2,e058eeab,2024-04-19,15:46,15,1602.1,8,COD,3.8,52758fa7,Restaurant_233,Bangalore,Area_D,Indian,2.7,3706,Low,Yes
+096ab5f2,0402e375,2024-03-10,16:12,80,1525.86,3,COD,4.2,14fc6669,Restaurant_423,Mumbai,Area_D,Indian,3.7,2754,High,Yes
+891c3a90,a26a0d94,2024-12-18,18:55,15,1982.97,7,Wallet,4.1,59e6659c,Restaurant_442,Delhi,Area_C,Indian,4.2,2624,Medium,Yes
+2e12c3d1,04e23054,2024-07-22,5:36,75,1033.57,9,"Net Banking",3.6,49c4ff0d,Restaurant_372,Delhi,Area_D,Italian,2.6,3231,Medium,Yes
+b3862472,27d0f046,2024-08-16,7:33,38,448.3,2,"Credit Card",4.9,e224a5ea,Restaurant_240,Mumbai,Area_A,Mexican,5,2978,High,No
+a2870762,fcfbf131,2024-08-17,4:19,38,151.32,9,"Credit Card",1.7,d9c56a1e,Restaurant_18,Kolkata,Area_D,Indian,4.4,752,Low,No
+e1a549e4,24394b2f,2024-07-12,8:49,39,1957.69,6,"Net Banking",3.9,2c3cc546,Restaurant_430,Mumbai,Area_B,Mexican,3.7,161,High,No
+9ce0a155,9061b1df,2024-03-21,14:00,71,1582.27,7,Wallet,4.3,24ada0ba,Restaurant_115,Chennai,Area_D,Chinese,4.8,4236,Low,No
+9373052,349f094b,2024-02-05,5:06,30,1121.43,3,COD,4.3,405ed20c,Restaurant_145,Chennai,Area_A,Indian,4.1,3397,Low,Yes
+43b3a3bd,f3b7b481,2024-10-12,16:54,18,1481.54,2,UPI,2.7,8b12bcad,Restaurant_406,Chennai,Area_C,Italian,3.9,4142,Medium,No
+0bc89079,361a58e0,2024-10-14,0:24,20,121.55,2,"Net Banking",4.1,100a811e,Restaurant_103,Kolkata,Area_C,Mexican,3.4,3920,Low,No
+fcabb297,74fd6894,2024-07-22,6:15,79,1380.4,4,UPI,4.1,502053dd,Restaurant_343,Bangalore,Area_B,Thai,4.2,3264,Low,No
+c3381e53,119d61cd,2024-03-27,10:06,79,993.62,7,COD,4.3,b28ed1b8,Restaurant_355,Kolkata,Area_E,Italian,3.6,909,Medium,Yes
+e5a0aa9d,7f9d14b1,2024-09-26,12:20,32,386.14,1,Wallet,4,5e9ad80d,Restaurant_37,Delhi,Area_C,Thai,3.6,4385,Low,No
+28019310,24a98a27,2024-08-22,21:21,41,603.25,6,UPI,1.5,19eb698a,Restaurant_381,Chennai,Area_B,Mexican,3.4,427,Low,No
+0c3b0168,b2f42876,2024-09-01,21:20,37,1568.01,6,COD,1.5,02b6d096,Restaurant_157,Kolkata,Area_A,Indian,2.9,3845,High,Yes
+2659e386,59a36023,2024-11-26,13:40,53,907.75,1,UPI,1.4,8180e6e2,Restaurant_133,Delhi,Area_D,Chinese,3.2,4448,Medium,Yes
+69095c0e,18a4d717,2024-08-27,18:44,29,737.91,6,COD,3.7,df911fc2,Restaurant_362,Bangalore,Area_B,Indian,4.6,2865,Medium,No
+a7ecbb58,ee0be69e,2024-02-24,6:42,76,1267.71,2,"Credit Card",2.8,84e6c455,Restaurant_138,Bangalore,Area_B,Chinese,3.1,1616,Low,Yes
+4a7ef7ca,afa95b27,2024-03-27,4:51,21,1865.08,7,COD,4.7,2c3cc546,Restaurant_430,Mumbai,Area_B,Mexican,3.7,161,High,No
+2b09d252,3aa9b824,2024-08-19,19:32,62,751.26,3,UPI,2.6,cdc4d7ec,Restaurant_385,Delhi,Area_D,Mexican,5,864,Low,Yes
+9b69cf52,1b082e19,2024-11-19,20:03,62,1849.55,8,COD,1.9,f39c0c05,Restaurant_99,Kolkata,Area_B,Thai,4.6,4274,High,Yes
+7f02495e,84d432e2,2024-04-09,11:33,77,877.69,8,Wallet,3.3,bd3013d9,Restaurant_253,Mumbai,Area_D,Thai,4,3374,Medium,No
+57363c96,62fa6ad0,2024-03-25,1:09,90,916.73,9,COD,3.3,5e9ad80d,Restaurant_37,Delhi,Area_C,Thai,3.6,4385,Low,No
+9fd4adbf,d5971dcf,2024-12-22,12:18,36,1446.83,5,COD,1.8,5eafb4ee,Restaurant_247,Bangalore,Area_A,Italian,4.7,309,High,Yes
+c5105a5d,7216e671,2024-02-27,1:13,28,752.56,7,"Credit Card",2.4,ce8f2030,Restaurant_307,Delhi,Area_C,Italian,3.5,2995,High,Yes
+78677c1d,84211b7f,2024-08-24,8:21,16,1549.09,5,Wallet,4.9,59e6659c,Restaurant_442,Delhi,Area_C,Indian,4.2,2624,Medium,Yes
+1ee0fabd,8ab0e353,2024-12-13,4:22,57,1172.73,8,UPI,3.4,2c3cc546,Restaurant_430,Mumbai,Area_B,Mexican,3.7,161,High,No
+eac9a32a,32378b08,2024-09-01,8:33,53,1694.11,8,"Net Banking",3.8,b7d188df,Restaurant_194,Bangalore,Area_B,Italian,3,2570,Low,Yes
+c050ebdb,412a3f9d,2024-02-14,7:08,87,937.84,10,COD,3.3,8f988f4e,Restaurant_244,Mumbai,Area_C,Chinese,4.7,1746,High,Yes
+4afc6d6d,692e134c,2024-04-23,3:33,28,1535.16,5,Wallet,3,ab27a46b,Restaurant_302,Bangalore,Area_A,Chinese,4.7,2260,Medium,Yes
+6172c54c,b75e1e8c,2024-02-03,15:53,23,1316.57,7,"Credit Card",3.3,674dfaa6,Restaurant_227,Chennai,Area_E,Italian,3.5,1049,Medium,No
+6373649c,1998c41f,2024-11-27,15:33,41,753.43,6,"Credit Card",3.5,fd976e0e,Restaurant_219,Delhi,Area_E,Indian,3.5,1653,Medium,No
+3d72cee6,6bef0cb0,2024-02-27,20:21,36,1181.74,7,"Net Banking",4,02b6d096,Restaurant_157,Kolkata,Area_A,Indian,2.9,3845,High,Yes
+9.70E+06,ebde0167,2024-11-17,13:24,35,503.91,1,UPI,4.5,fcd19837,Restaurant_184,Kolkata,Area_B,Thai,2.9,4456,Low,No
+cbaad427,984ba6b9,2024-11-15,21:52,19,1925.66,1,"Net Banking",1.4,2c501d10,Restaurant_246,Mumbai,Area_C,Indian,3,4064,Low,Yes
+191bf969,33d9adc3,2024-02-15,17:35,55,724.05,7,Wallet,4.6,0e7248ea,Restaurant_295,Delhi,Area_C,Thai,4.4,2482,High,No
+4c24c330,02bcecf4,2024-04-16,21:28,77,1710.05,6,"Net Banking",3.1,e11f3ddf,Restaurant_263,Bangalore,Area_B,Mexican,3.6,786,Medium,Yes
+6fa74522,1c9f5267,2024-01-13,6:00,38,1777.82,9,Wallet,3.6,f146994a,Restaurant_483,Kolkata,Area_A,Indian,4.3,4202,Medium,No
+8aa32595,662beda1,2024-04-18,2:02,61,1053.77,2,COD,3.2,b62af499,Restaurant_453,Mumbai,Area_E,Italian,2.8,902,Low,Yes
+7a014079,7b5c8b9e,2024-10-05,5:31,21,1879.84,7,"Credit Card",2,ab27a46b,Restaurant_302,Bangalore,Area_A,Chinese,4.7,2260,Medium,Yes
+47b61cab,963f8ec0,2024-01-10,21:02,39,199.27,8,Wallet,2.4,c1f72d98,Restaurant_125,Chennai,Area_A,Chinese,3.6,3130,Low,No
+7ad808dd,c3c395b5,2024-03-02,1:36,69,1046.55,5,"Credit Card",3.4,8a11d347,Restaurant_112,Bangalore,Area_A,Thai,3.9,3041,Low,Yes
+37c09269,3f37f417,2024-05-14,9:08,72,880.52,7,Wallet,4.4,f6a4fedc,Restaurant_368,Mumbai,Area_C,Thai,2.5,2663,Medium,No
+b99c6b08,3612cacb,2024-09-24,10:11,79,500.49,4,"Credit Card",1.2,0f558c3e,Restaurant_215,Bangalore,Area_A,Indian,4.8,4634,High,No
+b65da0cd,c0eb33f0,2024-02-28,11:24,84,1244.6,7,COD,2.7,2a6752ed,Restaurant_152,Delhi,Area_D,Mexican,4,4705,Low,No
+c85cef6e,15eaed43,2024-09-13,12:25,67,137.89,6,"Credit Card",4,c867f4c3,Restaurant_326,Delhi,Area_D,Chinese,3.1,1320,Low,Yes
+be9db407,42253056,2024-06-26,19:15,40,962.13,2,COD,2.6,60ebcd14,Restaurant_416,Delhi,Area_B,Indian,2.9,2148,High,No
+cee29f7a,83cc82b3,2024-11-12,0:51,16,1038.5,4,"Net Banking",4.1,ec9059b5,Restaurant_288,Bangalore,Area_D,Chinese,4.1,4259,Low,Yes
+bad78a7e,58ea35ca,2024-10-09,3:54,55,1713.64,6,Wallet,2.3,da6baa40,Restaurant_114,Mumbai,Area_E,Italian,3.1,1339,Low,Yes
+3e4c131e,a3560b99,2024-03-18,3:14,85,1478.45,3,UPI,4.3,9a241a8f,Restaurant_36,Delhi,Area_D,Thai,3.8,4774,Medium,No
+8e531de3,d2c08462,2024-05-19,8:43,62,1174.55,6,UPI,2.2,d3016f90,Restaurant_14,Mumbai,Area_B,Mexican,2.5,3949,High,No
+475166c3,e6e8146c,2024-03-26,21:58,32,542.79,4,"Credit Card",2.2,1935fe99,Restaurant_342,Chennai,Area_C,Indian,2.8,1259,High,No
+81dfd1f9,6b56c53f,2024-02-14,20:32,53,274.4,8,UPI,4.7,2fb269f9,Restaurant_245,Delhi,Area_E,Indian,3.9,1135,High,No
+952f248a,68e63b6d,2024-09-17,17:06,19,1022.58,9,UPI,2.3,bbd3019c,Restaurant_489,Delhi,Area_E,Indian,3.4,3895,Medium,Yes
+d45209cc,df4ef707,2024-10-22,17:57,17,370.6,5,COD,3.2,dbcaa61c,Restaurant_31,Bangalore,Area_D,Mexican,2.5,2851,High,No
+d4328b0c,90dced1d,2024-02-27,23:51,57,983.42,3,"Credit Card",1.3,3b052e56,Restaurant_106,Kolkata,Area_C,Thai,3.5,315,Low,Yes
+519bcd9d,fc304888,2024-07-19,10:24,60,1756.62,8,COD,1.3,79617b25,Restaurant_23,Delhi,Area_C,Thai,2.5,4170,High,Yes
+8b5dfc8d,606e490a,2024-03-04,9:25,45,681.93,4,COD,4.2,a961a847,Restaurant_183,Kolkata,Area_C,Thai,4,4835,Medium,No
+a8e08bbe,78e99885,2024-06-02,7:21,24,1091.07,3,COD,3.7,2a6752ed,Restaurant_152,Delhi,Area_D,Mexican,4,4705,Low,No
+30703fa5,62c58b14,2024-02-24,1:22,15,310.3,2,UPI,3.3,0e7248ea,Restaurant_295,Delhi,Area_C,Thai,4.4,2482,High,No
+aeb8f67c,f29b4c6d,2024-02-18,22:09,75,1152.15,3,"Credit Card",1.4,90de9501,Restaurant_153,Mumbai,Area_B,Italian,3.3,4164,Low,No
+54ee9007,b2b50aa0,2024-05-11,10:46,52,1270.81,8,Wallet,2.3,4bfd980c,Restaurant_124,Bangalore,Area_B,Mexican,4,3359,High,No
+9.29E+34,7fdc9a0b,2024-06-18,3:22,21,198.72,6,COD,1.9,4fbd9363,Restaurant_425,Mumbai,Area_A,Italian,3,176,Medium,No
+e2d8bfd5,28547bc3,2024-09-12,20:35,49,1699.79,7,"Credit Card",2.7,49c4ff0d,Restaurant_372,Delhi,Area_D,Italian,2.6,3231,Medium,Yes
+f6dfff3f,2461e3d9,2024-08-11,19:26,18,1223.35,2,UPI,3.6,24efe3fc,Restaurant_208,Kolkata,Area_E,Italian,4,1103,High,No
+39333ff5,4ffa482c,2024-11-05,2:16,23,573.05,10,COD,3.7,87ba0b62,Restaurant_439,Mumbai,Area_A,Mexican,2.6,734,Low,No
+ec4b4f4b,958321aa,2024-02-25,17:15,87,186.58,3,UPI,2,4f2f2dc8,Restaurant_3,Chennai,Area_D,Mexican,5,4172,High,Yes
+424331da,7bae1202,2024-05-08,19:03,63,429.02,6,Wallet,4.1,e1850efc,Restaurant_313,Kolkata,Area_E,Italian,3.2,3490,Low,Yes
+327a5d4a,924800d1,2024-10-18,5:36,19,315.91,4,"Net Banking",4.1,75c47f5f,Restaurant_143,Mumbai,Area_B,Chinese,3.1,3460,High,No
+976c6eec,0c1d5265,2024-11-01,15:40,29,1413.71,1,"Net Banking",1.6,1cc20309,Restaurant_61,Chennai,Area_E,Mexican,4.5,4276,High,No
+3a52f97c,6512138b,2024-08-03,16:13,63,1669.17,7,UPI,1.6,ccb7be4e,Restaurant_469,Kolkata,Area_E,Italian,4.5,3725,Low,Yes
+fc1584e9,baad3e69,2024-09-22,4:24,86,1607.74,3,"Net Banking",1.4,8133dda0,Restaurant_340,Chennai,Area_C,Indian,3.4,2034,Medium,Yes
+9056f05d,afb01352,2024-04-15,6:47,22,940.54,6,UPI,1.2,81aa2acc,Restaurant_478,Kolkata,Area_B,Chinese,3.8,3740,Medium,Yes
+df2b3fcf,ebc6700f,2024-12-16,19:38,35,668.84,5,Wallet,3.6,35c24305,Restaurant_65,Chennai,Area_C,Thai,4.7,2676,Medium,No
+4c988780,82903677,2024-11-04,11:34,28,948.5,5,UPI,3.6,400ea5d4,Restaurant_315,Mumbai,Area_D,Thai,3.5,3600,High,No
+a5c590f2,9f8d81b5,2024-08-23,3:27,18,1648.06,5,UPI,2.5,5aba5a33,Restaurant_417,Mumbai,Area_A,Thai,3.5,2022,High,No
+b5d16459,7829ffae,2024-06-02,1:00,73,812.77,10,Wallet,2.7,e726f2d8,Restaurant_195,Chennai,Area_E,Thai,4.9,1493,High,Yes
+0b8d8970,82281fcd,2024-11-14,22:14,20,1622.85,6,"Credit Card",2.8,02df79eb,Restaurant_15,Mumbai,Area_E,Italian,4.9,4486,High,Yes
+867379f7,0b654436,2024-07-25,13:23,65,1267.71,5,"Net Banking",3.8,78565057,Restaurant_316,Chennai,Area_E,Thai,3,3550,High,No
+ae72edf5,afa2dba4,2024-06-12,13:22,90,1795.55,10,"Net Banking",3.1,19b0294a,Restaurant_441,Kolkata,Area_B,Thai,3.2,3875,Medium,No
+a0b0bad8,d05b1feb,2024-03-18,6:59,76,514.25,10,"Credit Card",4.4,5ef3c1b1,Restaurant_40,Mumbai,Area_C,Italian,2.6,4800,Low,Yes
+cc626187,3fa0e4bc,2024-11-13,22:41,53,341.57,1,"Credit Card",4.8,59e6659c,Restaurant_442,Delhi,Area_C,Indian,4.2,2624,Medium,Yes
+57cad613,30ebca3c,2024-10-06,15:13,28,796.05,8,UPI,1.9,eb85c060,Restaurant_393,Kolkata,Area_C,Thai,4.9,931,Medium,Yes
+fec15c72,7d743e7a,2024-04-20,8:50,32,215.78,3,"Credit Card",4.8,6f8a9f60,Restaurant_484,Mumbai,Area_E,Thai,3.2,933,Medium,No
+4de8af34,87af1562,2024-11-16,1:32,55,203.56,10,Wallet,4.9,fc2e99c5,Restaurant_333,Mumbai,Area_E,Thai,2.6,4484,High,No
+4717bbe8,d51d53aa,2024-02-01,6:32,81,1387.92,5,"Credit Card",2,8ff329e1,Restaurant_58,Kolkata,Area_C,Thai,4.2,1807,Low,Yes
+ccb9e965,8ae07ecf,2024-03-18,0:05,20,1942.87,5,UPI,1,da6baa40,Restaurant_114,Mumbai,Area_E,Italian,3.1,1339,Low,Yes
+b6e8841e,5d23c35d,2024-03-06,18:10,34,1626.1,5,"Credit Card",3.4,4910ebd8,Restaurant_76,Chennai,Area_E,Italian,4.5,1655,Low,Yes
+5141f74f,c84c7263,2024-10-15,0:05,83,1856.66,9,Wallet,2.7,220de01b,Restaurant_492,Mumbai,Area_E,Thai,3.3,2402,Low,No
+727e4df8,aba2f600,2024-11-01,20:55,58,470.25,4,COD,1,10504ca1,Restaurant_426,Kolkata,Area_B,Mexican,4.4,1400,Low,No
+39b2e3ed,9e8b46ae,2024-04-26,8:15,17,222.28,2,COD,1.1,59b862ed,Restaurant_341,Bangalore,Area_B,Mexican,3.6,800,Low,Yes
+ad5b309d,107da1fa,2024-11-15,4:35,28,588.21,9,Wallet,2.1,2555af08,Restaurant_474,Kolkata,Area_C,Mexican,2.8,124,High,No
+71fc6a71,d43b60cc,2024-02-26,6:30,53,1844.29,5,COD,3.1,d115b7b9,Restaurant_72,Delhi,Area_A,Chinese,4.7,4577,High,No
+258c0fee,d0405b85,2024-01-18,11:23,47,1504.57,2,"Net Banking",4,29c8feb1,Restaurant_198,Mumbai,Area_D,Mexican,4,2977,High,No
+152a3bdf,f55f0357,2024-10-10,21:04,52,1164.55,8,"Credit Card",2.2,bd857157,Restaurant_210,Mumbai,Area_B,Mexican,3.3,3819,High,No
+0b80a9e7,3ef179d2,2024-05-16,18:58,17,1110.1,5,UPI,3,f6a4fedc,Restaurant_368,Mumbai,Area_C,Thai,2.5,2663,Medium,No
+eb6e3c08,9679c985,2024-07-17,1:47,84,1260.15,9,"Net Banking",4.6,fcc5c2d6,Restaurant_310,Chennai,Area_B,Italian,3.4,2140,Low,No
+4bc4794d,3bd2e8fe,2024-10-13,6:09,44,101.67,10,COD,1.9,e1850efc,Restaurant_313,Kolkata,Area_E,Italian,3.2,3490,Low,Yes
+7725aedc,dd070536,2024-08-02,3:40,33,1517.38,7,Wallet,3.5,4da1655b,Restaurant_55,Delhi,Area_A,Chinese,2.7,827,Medium,Yes
+5a46f039,9d676b73,2024-04-15,15:52,86,1835.1,9,UPI,1.1,a6e2078c,Restaurant_75,Chennai,Area_D,Thai,3.9,3426,High,No
+17beec36,2965b48e,2024-05-12,19:23,87,1117.12,6,"Credit Card",4,427b24bc,Restaurant_496,Delhi,Area_C,Mexican,3.2,804,Medium,Yes
+9da41219,f8969634,2024-07-19,18:42,77,1529.44,7,"Net Banking",1.1,23075295,Restaurant_314,Mumbai,Area_E,Indian,4.8,3976,Medium,No
+ee9f6ba7,7d209885,2024-04-14,20:31,83,1035.05,2,"Credit Card",2.8,fc2e99c5,Restaurant_333,Mumbai,Area_E,Thai,2.6,4484,High,No
+b9aabe4e,204950d6,2024-01-20,1:45,56,1381.64,8,Wallet,3.8,b37bb876,Restaurant_335,Delhi,Area_C,Thai,4.1,3383,Medium,No
+5dab25ab,1c170c09,2024-03-04,15:15,25,1033.25,1,"Credit Card",3.1,f32a3aad,Restaurant_68,Bangalore,Area_A,Indian,4.5,2879,High,No
+c1db8211,5a8b9e99,2024-10-07,23:19,15,1367.65,3,"Credit Card",2.9,606db467,Restaurant_348,Delhi,Area_C,Indian,2.5,1168,Medium,Yes
+d99813df,641b2964,2024-01-13,18:04,68,707.76,7,UPI,1.7,d0fd93ce,Restaurant_10,Bangalore,Area_A,Mexican,4.5,2575,Medium,Yes
+e0fe7c9a,b8912162,2024-07-23,7:15,31,818.9,9,"Credit Card",3.2,5bf5607c,Restaurant_26,Mumbai,Area_B,Chinese,4.9,1334,Low,Yes
+bd71a992,fec6c2d4,2024-04-06,1:47,76,1653.26,1,"Net Banking",3.5,9a241a8f,Restaurant_36,Delhi,Area_D,Thai,3.8,4774,Medium,No
+5b3e4a7d,f22dd01d,2024-06-04,5:02,48,1226.91,9,UPI,1.7,0969abfd,Restaurant_193,Chennai,Area_C,Mexican,3.4,1965,High,Yes
+fb05b409,ed428fdc,2024-07-28,3:58,36,1320.69,5,"Credit Card",3.7,8d06cc24,Restaurant_141,Delhi,Area_D,Thai,4.8,4957,High,Yes
+7.27E+40,13e9d414,2024-02-01,4:53,86,1871.66,3,COD,2.1,da6baa40,Restaurant_114,Mumbai,Area_E,Italian,3.1,1339,Low,Yes
+74c83e7e,93cb9da9,2024-06-12,0:47,29,883.05,8,"Net Banking",3.6,c1244b75,Restaurant_25,Delhi,Area_C,Mexican,3.6,874,High,No
+3af51215,0d0900cc,2024-06-17,9:43,17,713.8,1,"Credit Card",4.7,f5e8e8a9,Restaurant_458,Delhi,Area_B,Chinese,3.1,1087,Medium,Yes
+1a6395ea,46339b13,2024-08-19,14:17,70,1488.48,4,UPI,4.4,f6a4fedc,Restaurant_368,Mumbai,Area_C,Thai,2.5,2663,Medium,No
+69b2b288,9d8714bb,2024-05-02,17:08,26,1044.38,10,"Net Banking",4.5,612e24e0,Restaurant_217,Kolkata,Area_E,Italian,2.7,427,Low,Yes
+5b31289a,2dbf86cb,2024-09-26,8:26,31,679.31,2,"Net Banking",4.9,f4fb2de3,Restaurant_16,Mumbai,Area_E,Indian,3,2251,Low,Yes
+845d13de,47eff71a,2024-03-27,10:59,69,1669.66,2,"Credit Card",3.7,12205eb5,Restaurant_370,Chennai,Area_D,Mexican,2.7,392,High,No
+c57fd55c,8c48fe98,2024-05-12,6:25,53,1027.78,6,"Credit Card",4.5,3de9ffca,Restaurant_448,Delhi,Area_C,Italian,4.2,2774,High,No
+6f08a446,fdeae3ba,2024-05-26,13:14,33,1128.59,1,Wallet,4.9,2.74E+12,Restaurant_51,Chennai,Area_C,Mexican,3.8,2655,Medium,Yes
+523f0519,33d9d30c,2024-08-13,5:46,18,549.89,6,UPI,3.5,72e541fb,Restaurant_163,Delhi,Area_E,Thai,3.7,4685,High,No
+cd4b8f4a,7f6d818c,2024-06-17,20:19,81,897.11,2,UPI,1.3,f5f0a3d7,Restaurant_376,Chennai,Area_E,Mexican,4.3,842,High,Yes
+5bf1d19a,ef3e5055,2024-04-03,12:31,85,1799.96,9,COD,1.2,8f1605c1,Restaurant_170,Chennai,Area_C,Chinese,4.9,3800,Medium,Yes
+01ed9abd,9f13fb8c,2024-11-16,21:10,88,1474.77,7,"Net Banking",2.2,dddddf29,Restaurant_180,Kolkata,Area_D,Chinese,2.7,3242,Medium,Yes
+17f14ac9,7d29206d,2024-02-02,20:35,80,1801.24,10,UPI,2,8c3f5029,Restaurant_166,Delhi,Area_C,Italian,2.8,4563,Medium,No
+db9fb1ad,47848806,2024-07-04,5:35,65,279.45,9,Wallet,2.7,71764226,Restaurant_434,Mumbai,Area_E,Italian,2.9,505,Low,No
+6ef8d671,e5f9fe3d,2024-12-03,10:50,77,405.62,4,"Credit Card",3.4,df911fc2,Restaurant_362,Bangalore,Area_B,Indian,4.6,2865,Medium,No
+c60cf33c,911dab90,2024-05-16,15:42,79,1127.29,3,UPI,3.9,0e24dd86,Restaurant_265,Bangalore,Area_A,Mexican,4.7,1731,Medium,No
+89cc3be7,2f6b026a,2024-05-06,21:00,16,1105.66,4,Wallet,1.3,15626d86,Restaurant_309,Delhi,Area_C,Thai,4.3,227,Low,Yes
+2beab989,c43b1365,2024-06-25,21:59,86,1424.73,5,"Net Banking",1.1,a638af19,Restaurant_297,Kolkata,Area_A,Mexican,2.6,4934,Medium,Yes
+f69f51fe,383b8070,2024-12-01,5:29,47,696.55,4,"Net Banking",3.6,0969abfd,Restaurant_193,Chennai,Area_C,Mexican,3.4,1965,High,Yes
+a8cc36b5,55d6d49f,2024-12-16,14:41,77,615.98,8,"Net Banking",1.5,f8088575,Restaurant_182,Delhi,Area_A,Chinese,4.5,3352,Medium,No
+ccc170ef,fae9dc95,2024-05-07,0:58,39,1092.46,7,COD,1.9,d4eb642a,Restaurant_52,Kolkata,Area_C,Chinese,2.5,4944,Low,Yes
+a8fa757e,daf4d2d7,2024-10-12,6:26,37,1886.37,8,UPI,1.3,400c131f,Restaurant_455,Mumbai,Area_D,Thai,3.3,820,High,No
+b17b0290,f175d0b8,2024-11-03,3:49,56,1660.54,9,"Net Banking",4.4,6c38f66f,Restaurant_499,Mumbai,Area_B,Italian,2.9,1457,Low,Yes
+07c0eaff,c2e4212b,2024-02-05,15:44,64,392.29,10,"Net Banking",1.1,179a3485,Restaurant_414,Mumbai,Area_A,Mexican,2.9,783,Medium,No
+9205470,a6cb8ae6,2024-12-02,4:15,88,1035.29,5,UPI,4.9,bf2eb8e4,Restaurant_306,Delhi,Area_B,Indian,3.5,3314,Low,Yes
+761ca31a,96d3d2ef,2024-12-27,13:20,31,292.12,7,COD,3.3,d4eb642a,Restaurant_52,Kolkata,Area_C,Chinese,2.5,4944,Low,Yes
+d2c2e019,63dce335,2024-06-07,2:29,39,1371.26,5,"Credit Card",2.4,8e495fe4,Restaurant_190,Bangalore,Area_D,Mexican,3,1563,High,No
+7d7af251,fe2f03bc,2024-11-19,15:32,54,1329.18,6,COD,2.5,9ff72da6,Restaurant_173,Mumbai,Area_B,Indian,4.6,2224,Medium,Yes
+d305f60d,a6177d28,2024-06-12,7:49,30,292.86,4,"Credit Card",1.8,bc4f828e,Restaurant_45,Bangalore,Area_B,Indian,2.9,2555,Low,No
+22a1433b,a42734ae,2024-09-03,5:35,43,683.35,1,"Net Banking",4.2,c059c9d3,Restaurant_242,Chennai,Area_B,Thai,3.9,578,Low,Yes
+a4162723,0aceb5a7,2024-05-04,1:45,64,1775.29,6,"Net Banking",4.5,bc4f828e,Restaurant_45,Bangalore,Area_B,Indian,2.9,2555,Low,No
+afed2145,3d474b52,2024-02-15,0:20,57,901.27,3,"Net Banking",3.4,1ccce844,Restaurant_320,Bangalore,Area_B,Mexican,2.7,856,Medium,Yes
+c800ed10,79d001f9,2024-11-19,9:54,26,1887.94,3,"Credit Card",1.6,bf914634,Restaurant_387,Bangalore,Area_B,Mexican,3.7,1969,Medium,No
+4d484407,ed48c2f7,2024-08-25,23:00,86,1655.74,3,"Net Banking",2.1,55c18a95,Restaurant_360,Delhi,Area_E,Indian,2.7,191,High,Yes
+7a131018,3fa4d617,2024-03-18,20:17,76,280.49,8,Wallet,3.8,e09f0465,Restaurant_6,Bangalore,Area_D,Indian,3.2,1517,High,Yes
+9edf8a8f,4133c15f,2024-11-17,1:29,51,111.96,1,COD,1.3,73572274,Restaurant_299,Chennai,Area_D,Chinese,4.5,4548,Medium,No
+87035b88,1c750bdc,2024-11-09,17:56,90,140.3,7,COD,2.3,bd7c2a0c,Restaurant_56,Mumbai,Area_E,Thai,4.6,2336,Low,Yes
+a67e53f8,6da7ba02,2024-10-19,1:33,64,1236.9,4,Wallet,1.2,59a3bc14,Restaurant_408,Mumbai,Area_A,Indian,4.2,3725,Low,No
+f04ccbe2,832e9b35,2024-02-14,21:44,38,939.74,8,UPI,1.8,81c4c182,Restaurant_477,Bangalore,Area_A,Chinese,2.6,4436,Medium,No
+ad0366db,1c8872d5,2024-06-28,6:36,61,1552.25,8,UPI,1.1,ea5d7890,Restaurant_186,Delhi,Area_E,Italian,4.4,3842,Medium,Yes
+f8d8ac16,559a3902,2024-03-10,7:02,61,236.16,5,UPI,2.9,c1f112de,Restaurant_144,Chennai,Area_C,Indian,3.1,1042,High,No
+92fbc985,61f14305,2024-08-16,20:34,56,768.17,6,COD,2.4,587046b8,Restaurant_250,Delhi,Area_D,Italian,2.9,1646,Medium,Yes
+5f3cf481,854062d2,2024-09-28,3:55,38,355.34,5,Wallet,1.2,d0b43dbe,Restaurant_413,Kolkata,Area_C,Italian,4.2,2282,Medium,No
+07f74fe3,14582a5d,2024-04-27,13:43,53,1768.1,10,COD,2.2,9e422e29,Restaurant_475,Kolkata,Area_E,Italian,3.3,1198,Low,No
+0b21f9c2,e1c383c8,2024-09-07,3:31,42,564.94,7,"Credit Card",4.3,5440dc43,Restaurant_62,Kolkata,Area_D,Indian,3.6,4899,High,Yes
+002e2737,be7e533a,2024-02-03,22:54,81,177.48,1,COD,3.2,e11f3ddf,Restaurant_263,Bangalore,Area_B,Mexican,3.6,786,Medium,Yes
+f3a6b6be,16cdbde3,2024-01-26,16:40,87,1583.22,10,Wallet,2.4,f502ff48,Restaurant_378,Bangalore,Area_D,Mexican,3.2,2879,High,No
+d37c3a8f,06ee0dde,2024-12-22,14:23,17,1773.97,5,"Net Banking",1.6,bc4f828e,Restaurant_45,Bangalore,Area_B,Indian,2.9,2555,Low,No
+5ea2ee4f,44b1d33f,2024-07-27,14:55,59,430.98,6,COD,5,75c47f5f,Restaurant_143,Mumbai,Area_B,Chinese,3.1,3460,High,No
+ae79885f,af8c4963,2024-06-27,13:44,17,780.61,2,"Net Banking",4.5,5a38fde9,Restaurant_101,Chennai,Area_C,Indian,4.5,1292,High,No
+b748e185,9d8b480e,2024-08-10,8:33,21,463.05,8,COD,1.5,1c6eb160,Restaurant_43,Chennai,Area_D,Chinese,3.5,300,Medium,Yes
+9134d36a,d6ec102f,2024-08-28,18:21,18,591.24,8,Wallet,2.5,ccb7be4e,Restaurant_469,Kolkata,Area_E,Italian,4.5,3725,Low,Yes
+bde06203,b8527cfd,2024-06-01,17:02,34,1061.42,3,Wallet,2.2,8133dda0,Restaurant_340,Chennai,Area_C,Indian,3.4,2034,Medium,Yes
+f27bcb36,d0bebfe3,2024-12-24,1:26,56,520.06,10,Wallet,4.3,4622bca4,Restaurant_32,Chennai,Area_D,Chinese,4.3,1236,High,No
+070e9c23,89da82a2,2024-06-09,3:55,54,1055.67,3,"Net Banking",2.8,2.74E+12,Restaurant_51,Chennai,Area_C,Mexican,3.8,2655,Medium,Yes
+33771661,5bafe920,2024-03-01,8:41,56,1107.74,8,"Credit Card",2.5,e66a8f3a,Restaurant_211,Chennai,Area_B,Indian,4.7,519,Low,No
+4701be93,a9bbcc73,2024-06-20,9:25,34,1194.31,8,UPI,4.6,b7d188df,Restaurant_194,Bangalore,Area_B,Italian,3,2570,Low,Yes
+4dc0a7ee,e8e19771,2024-01-23,19:27,68,487,4,"Credit Card",1.2,4fbd9363,Restaurant_425,Mumbai,Area_A,Italian,3,176,Medium,No
+bdd1b01c,11c429bf,2024-10-11,1:33,80,1136.41,6,COD,1.3,a8d593a1,Restaurant_148,Kolkata,Area_B,Mexican,2.6,4667,Low,Yes
+9.56E+80,a34a6c57,2024-09-24,20:14,18,421.5,3,"Net Banking",4.2,f2bb6dd3,Restaurant_151,Mumbai,Area_D,Italian,2.6,4022,Low,Yes
+d50ddc0a,c88a5cae,2024-07-28,16:22,66,1162.26,7,"Credit Card",2,c230886a,Restaurant_269,Bangalore,Area_A,Italian,4.7,2186,Medium,No
+ed6af750,99875776,2024-07-04,19:09,25,384.71,3,UPI,1.7,220de01b,Restaurant_492,Mumbai,Area_E,Thai,3.3,2402,Low,No
+ea84d413,c7186b78,2024-05-01,12:58,63,1307.19,2,"Net Banking",2.2,6fa56b71,Restaurant_91,Kolkata,Area_A,Mexican,2.9,3079,Low,Yes
+fa8ccc3a,71e99286,2024-11-03,10:06,74,1563.03,5,"Net Banking",2.5,651ac35d,Restaurant_160,Chennai,Area_D,Indian,4,2615,High,No
+9e958aff,76c2d89c,2024-06-16,12:54,56,1111.67,6,Wallet,3.8,90de9501,Restaurant_153,Mumbai,Area_B,Italian,3.3,4164,Low,No
+bec09952,ccedc5c4,2024-09-17,20:55,69,1815.56,2,"Credit Card",2.8,62249dbf,Restaurant_337,Kolkata,Area_A,Italian,4.5,2651,Medium,Yes
+133f27b6,4f2866d8,2024-03-03,11:50,42,1710.94,10,"Credit Card",4.2,2850b98f,Restaurant_204,Kolkata,Area_B,Thai,4.8,2772,High,Yes
+faccda9e,4c157a16,2024-12-05,12:28,50,509.69,9,UPI,4.8,328df228,Restaurant_421,Delhi,Area_C,Chinese,3.1,612,Low,No
+eedce0a0,8ebcdc6f,2024-06-02,21:46,86,1254.49,8,"Net Banking",1.1,a05e429d,Restaurant_83,Kolkata,Area_C,Thai,4.4,1822,Low,Yes
+87bf1289,2a4c78e2,2024-08-22,22:10,16,1865.48,7,"Net Banking",1.4,19eb698a,Restaurant_381,Chennai,Area_B,Mexican,3.4,427,Low,No
+861d745a,1bba4199,2024-07-17,6:18,69,1941.33,6,"Credit Card",1.8,328df228,Restaurant_421,Delhi,Area_C,Chinese,3.1,612,Low,No
+db288cc5,a57ef74a,2024-05-17,13:15,63,855.9,5,"Net Banking",4,cf8681ce,Restaurant_398,Bangalore,Area_B,Chinese,4.1,2631,Medium,Yes
+6b988632,6305c60d,2024-07-18,1:27,84,317.07,8,UPI,1,d56c5b5e,Restaurant_487,Delhi,Area_C,Thai,3.9,1584,High,No
+3.83E+93,f9aedf8b,2024-11-07,8:44,62,1498.33,2,"Credit Card",1.4,f6a4fedc,Restaurant_368,Mumbai,Area_C,Thai,2.5,2663,Medium,No
+d7f63fe8,a04d2bd5,2024-08-23,15:33,30,966.48,2,"Credit Card",2.9,39189b6c,Restaurant_216,Delhi,Area_E,Indian,4,1908,High,Yes
+b16750b5,01dfc600,2024-09-20,20:41,85,601.42,7,"Net Banking",1.5,b96de83c,Restaurant_345,Mumbai,Area_A,Italian,3.1,4744,Low,No
+b87f9181,b00e3b97,2024-05-16,2:40,66,240.36,9,Wallet,2.2,c318e94b,Restaurant_237,Bangalore,Area_D,Indian,3.1,3352,Medium,No
+5f236296,2addd1db,2024-02-01,17:36,53,1022.01,10,COD,2.3,93c01c5b,Restaurant_305,Chennai,Area_A,Italian,3.1,4388,Medium,No
+ab8a8932,644edf0f,2024-07-10,11:30,59,1808.13,2,COD,4.7,1c45fac8,Restaurant_283,Kolkata,Area_B,Thai,4.1,3805,Low,Yes
+cf50ea17,43f77adf,2024-06-11,8:02,29,1677.37,7,COD,4.3,0e24dd86,Restaurant_265,Bangalore,Area_A,Mexican,4.7,1731,Medium,No
+03762b23,534f6a97,2024-12-16,6:48,76,1818.22,10,Wallet,1.1,4e7b5c84,Restaurant_259,Mumbai,Area_B,Mexican,4.3,3998,High,Yes
+a2a00728,e290897a,2024-09-21,23:49,60,415.69,10,"Net Banking",3.3,bd857157,Restaurant_210,Mumbai,Area_B,Mexican,3.3,3819,High,No
+0f5dfd58,af3dd6db,2024-07-25,14:02,33,166.82,10,COD,1.9,4b0b530b,Restaurant_369,Kolkata,Area_D,Mexican,4.6,935,Low,No
+b01d3e71,9ecf2fcf,2024-07-10,7:24,33,961.45,2,UPI,3.3,2aca810f,Restaurant_9,Mumbai,Area_D,Chinese,3.7,4174,Medium,No
+7b6c8b93,daaf9016,2024-02-11,11:00,22,214.25,6,COD,2.1,5eafb4ee,Restaurant_247,Bangalore,Area_A,Italian,4.7,309,High,Yes
+c5247dde,58ce8ec0,2024-05-16,19:55,58,1485.92,3,UPI,2.6,8180e6e2,Restaurant_133,Delhi,Area_D,Chinese,3.2,4448,Medium,Yes
+18721469,27e8b0f5,2024-05-16,22:59,19,435.01,9,UPI,4.3,eb4d18c6,Restaurant_270,Delhi,Area_C,Mexican,2.9,1436,High,Yes
+6bea8361,b4e05900,2024-08-03,0:20,19,1265.55,5,"Net Banking",4.4,fd976e0e,Restaurant_219,Delhi,Area_E,Indian,3.5,1653,Medium,No
+f52ddf9c,9bc1bbec,2024-05-24,23:17,58,841.74,3,Wallet,1.7,5bf5607c,Restaurant_26,Mumbai,Area_B,Chinese,4.9,1334,Low,Yes
+a0516690,58a6896d,2024-12-16,5:17,24,1107.26,7,"Net Banking",1.8,a8d593a1,Restaurant_148,Kolkata,Area_B,Mexican,2.6,4667,Low,Yes
+d57af1ed,5e366c29,2024-05-23,14:03,84,823.63,10,COD,1.5,9.18E+07,Restaurant_338,Delhi,Area_B,Thai,3.6,2240,Medium,No
+ac8cc816,5e7080d2,2024-03-02,17:55,89,819,4,COD,3.8,59e6659c,Restaurant_442,Delhi,Area_C,Indian,4.2,2624,Medium,Yes
+e5bd1a91,8c8af647,2024-02-01,3:37,36,853.28,2,UPI,1.1,45de4a55,Restaurant_497,Delhi,Area_E,Indian,4.4,3572,Medium,No
+80f07e97,862d9e01,2024-07-12,16:47,47,1045.11,9,Wallet,3.3,0b69f56b,Restaurant_438,Kolkata,Area_B,Chinese,4.3,2842,Medium,Yes
+0e359bc7,c6447780,2024-03-22,3:41,57,1692.23,7,Wallet,2.9,6af133bb,Restaurant_146,Delhi,Area_E,Chinese,4.9,4062,Low,Yes
+4ba501e1,3d32ff96,2024-01-02,6:51,25,1695.54,1,"Credit Card",1.1,10504ca1,Restaurant_426,Kolkata,Area_B,Mexican,4.4,1400,Low,No
+4b8629dc,f030eb0c,2024-01-14,15:32,37,399.17,2,"Net Banking",3.7,4acc3617,Restaurant_264,Chennai,Area_B,Chinese,4.4,752,Medium,No
+86a66b55,4374631f,2024-02-14,1:36,67,843.39,8,UPI,2.6,0dad23ff,Restaurant_179,Kolkata,Area_B,Indian,4.8,2083,Low,No
+b0456b44,9a36931d,2024-09-28,13:02,29,926.27,2,UPI,1.3,5e9ad80d,Restaurant_37,Delhi,Area_C,Thai,3.6,4385,Low,No
+c235b8e6,c57ccb14,2024-10-10,10:30,73,1814.04,5,"Credit Card",3.8,9abef4df,Restaurant_77,Chennai,Area_A,Italian,3.2,4158,Medium,No
+f731a511,af4f9915,2024-11-03,0:42,85,909.35,5,UPI,4.5,02b6d096,Restaurant_157,Kolkata,Area_A,Indian,2.9,3845,High,Yes
+2823821e,4188bf5a,2024-12-04,23:49,27,1507.85,2,COD,1.7,1ccce844,Restaurant_320,Bangalore,Area_B,Mexican,2.7,856,Medium,Yes
+66a10061,85d2032f,2024-06-22,12:04,21,819.39,1,"Credit Card",1.4,d0b43dbe,Restaurant_413,Kolkata,Area_C,Italian,4.2,2282,Medium,No
+5a29abb7,c054dc8c,2024-06-28,12:48,76,472.29,4,Wallet,4.8,d92b984c,Restaurant_401,Delhi,Area_D,Chinese,4.2,4468,High,No
+b5478d4f,2a5ebfec,2024-10-18,9:59,84,1343.19,2,UPI,2.2,951b096d,Restaurant_82,Chennai,Area_A,Chinese,4.4,1232,Low,Yes
+17098a63,a65a4870,2024-06-08,3:29,30,874.89,4,UPI,3.9,bd7c2a0c,Restaurant_56,Mumbai,Area_E,Thai,4.6,2336,Low,Yes
+ae451ade,18c30237,2024-04-18,16:20,19,144.91,5,"Net Banking",3.5,d0b43dbe,Restaurant_413,Kolkata,Area_C,Italian,4.2,2282,Medium,No
+87a642fe,7f8eda62,2024-04-28,0:02,76,1525.69,10,COD,4.2,6ca2cb4a,Restaurant_196,Mumbai,Area_C,Thai,2.7,4433,Medium,Yes
+5ca60a3b,4db261aa,2024-02-23,7:42,16,386.31,4,"Net Banking",4.5,ee6e78d8,Restaurant_391,Delhi,Area_E,Indian,4.4,2207,Medium,Yes
+5cc50da7,8f241621,2024-10-02,0:15,26,1553.38,6,"Credit Card",4.2,6fa56b71,Restaurant_91,Kolkata,Area_A,Mexican,2.9,3079,Low,Yes
+0079fe33,c06d14c8,2024-10-20,8:01,87,1002.44,4,"Credit Card",3.7,5a47cc33,Restaurant_5,Delhi,Area_E,Chinese,4.5,3826,Medium,No
+4e371ab3,4cb9c578,2024-02-21,12:08,87,1853.93,7,"Net Banking",3,4d8c2e99,Restaurant_472,Bangalore,Area_B,Chinese,3.8,4525,High,Yes
+a4ffe4f2,2e1d6864,2024-05-21,5:44,64,898.62,1,COD,4.7,6fa56b71,Restaurant_91,Kolkata,Area_A,Mexican,2.9,3079,Low,Yes
+b33702ee,c434009d,2024-07-01,6:53,82,957.71,9,"Credit Card",1.6,67a95931,Restaurant_46,Bangalore,Area_B,Thai,5,1912,High,No
+4b43be7f,e6e14628,2024-06-07,18:07,88,439.35,4,Wallet,2.1,d932d6bf,Restaurant_325,Kolkata,Area_B,Indian,3.2,4164,Medium,Yes
+611f5d8e,d19a62e4,2024-05-22,23:05,31,1285.64,8,"Net Banking",2.6,b9c58717,Restaurant_205,Kolkata,Area_C,Mexican,3.1,1643,High,No
+36fea861,cc52a368,2024-02-15,22:22,70,419.49,1,UPI,1.8,5eafb4ee,Restaurant_247,Bangalore,Area_A,Italian,4.7,309,High,Yes
+2af9a74b,8a683078,2024-10-20,9:44,28,408.24,2,UPI,1.6,d7b287a8,Restaurant_352,Delhi,Area_B,Indian,2.9,2205,High,Yes
+68c65482,f61fc6db,2024-01-07,9:29,45,533.27,4,Wallet,4.2,7cd438d2,Restaurant_482,Kolkata,Area_D,Chinese,4.1,3285,High,No
+b1c8e232,260cf33d,2024-06-13,2:38,58,1722.83,4,"Credit Card",3.7,bc4f828e,Restaurant_45,Bangalore,Area_B,Indian,2.9,2555,Low,No
+543ddf2b,91ace5cb,2024-04-25,4:49,61,1171.57,2,UPI,2.2,440ffda9,Restaurant_486,Chennai,Area_B,Chinese,3.3,4185,Medium,Yes
+3e88d3f8,e0e92318,2024-10-27,22:11,17,106.14,5,"Net Banking",4.3,28bc6e8d,Restaurant_47,Delhi,Area_C,Mexican,2.7,2222,Medium,No
+6d5fd836,f3674d75,2024-09-03,6:23,46,1848.37,8,Wallet,2.4,5440dc43,Restaurant_62,Kolkata,Area_D,Indian,3.6,4899,High,Yes
+bf0c88b3,0f9b8a86,2024-03-20,19:00,86,1381.4,8,UPI,3,3ce70391,Restaurant_433,Delhi,Area_E,Mexican,3.7,4775,Low,Yes
+87f51ddf,79d52f33,2024-05-09,14:27,63,134.73,1,"Net Banking",2.2,bfbb1501,Restaurant_2,Mumbai,Area_A,Chinese,4.1,2773,High,No
+5d434bec,0984bcbc,2024-12-20,2:54,53,712.26,5,"Net Banking",1.6,f39c0c05,Restaurant_99,Kolkata,Area_B,Thai,4.6,4274,High,Yes
+036d74d1,c07f9c38,2024-05-24,9:05,18,1999.05,7,"Credit Card",1.1,a80c0410,Restaurant_135,Kolkata,Area_A,Chinese,3.6,3389,High,No
+e6c593f1,b4906175,2024-11-19,3:08,53,572.8,9,"Net Banking",5,b05fd083,Restaurant_131,Delhi,Area_B,Indian,4.6,1664,High,Yes
+736ea1d0,82ee618b,2024-03-03,16:31,87,1223.62,2,Wallet,1.8,92f9c1c0,Restaurant_137,Chennai,Area_B,Indian,4.9,3813,Medium,Yes
+7f509ee9,a001488e,2024-12-07,21:52,15,356.71,4,Wallet,4.7,97ba5c47,Restaurant_304,Bangalore,Area_A,Thai,2.9,595,High,Yes
+44396f02,d8c7ea2a,2024-08-19,5:29,47,838.68,4,COD,2.1,bff0bb92,Restaurant_200,Chennai,Area_D,Italian,4.4,1365,High,No
+7329ae06,51d4b3b0,2024-10-10,23:25,31,433.41,4,"Net Banking",1.3,5a38fde9,Restaurant_101,Chennai,Area_C,Indian,4.5,1292,High,No
+64f18f04,aff783a0,2024-02-07,16:24,18,522.17,10,UPI,2.5,c318e94b,Restaurant_237,Bangalore,Area_D,Indian,3.1,3352,Medium,No
+850df2e3,8840bd81,2024-04-20,10:31,68,363.16,3,"Credit Card",1.6,ee6e78d8,Restaurant_391,Delhi,Area_E,Indian,4.4,2207,Medium,Yes
+9fbeb055,f01f608b,2024-02-26,14:03,28,1144.5,2,COD,4.5,fb67202e,Restaurant_411,Bangalore,Area_A,Italian,4.9,3081,Medium,Yes
+0462707f,50ac351f,2024-02-16,9:54,69,364.53,10,COD,4.9,870f6ec5,Restaurant_284,Kolkata,Area_C,Thai,2.9,1064,Medium,No
+f977a9a3,dd8953b3,2024-02-06,1:24,76,514.26,9,Wallet,4.9,2a6752ed,Restaurant_152,Delhi,Area_D,Mexican,4,4705,Low,No
+70909958,093fa0c7,2024-08-05,15:59,77,332.56,3,COD,1.1,606db467,Restaurant_348,Delhi,Area_C,Indian,2.5,1168,Medium,Yes
+1f6d8134,07c3df6b,2024-07-20,19:19,83,351.39,3,"Net Banking",3.1,6fa56b71,Restaurant_91,Kolkata,Area_A,Mexican,2.9,3079,Low,Yes
+b02c5524,e8ae2c60,2024-01-02,17:42,29,1215.53,5,"Credit Card",1.8,e224a5ea,Restaurant_240,Mumbai,Area_A,Mexican,5,2978,High,No
+8062b007,9dfc8f1d,2024-09-04,15:03,20,764.96,8,"Credit Card",3.7,1c2e3e38,Restaurant_400,Kolkata,Area_D,Thai,2.8,4990,Medium,Yes
+8a231ba0,c9b55df1,2024-04-02,15:00,52,692.17,10,"Net Banking",4.9,c19c6dfd,Restaurant_67,Chennai,Area_E,Mexican,4.7,1917,Medium,Yes
+9ecdddb6,396183ca,2024-08-28,6:54,29,1259.76,8,"Net Banking",5,e49bc174,Restaurant_229,Mumbai,Area_E,Indian,5,5000,High,No
+2660eea7,f10da5b3,2024-01-18,15:24,58,1954.77,6,COD,4.9,4d50d203,Restaurant_86,Kolkata,Area_C,Mexican,4,664,Medium,Yes
+2a9592f7,1ed050e5,2024-11-24,10:40,63,301.39,3,UPI,1.4,fc36ce35,Restaurant_12,Kolkata,Area_E,Italian,4.1,1356,Low,Yes
+e5059506,1bb0bd9e,2024-12-28,2:59,77,984.54,9,"Credit Card",3.5,84e6c455,Restaurant_138,Bangalore,Area_B,Chinese,3.1,1616,Low,Yes
+f6ab2ee9,a0c6f878,2024-08-08,17:58,32,1057.85,6,"Net Banking",1.2,2850b98f,Restaurant_204,Kolkata,Area_B,Thai,4.8,2772,High,Yes
+7a29bc58,2fbbf599,2024-03-05,1:03,34,1598.27,3,"Net Banking",4.9,e8ffd0d6,Restaurant_444,Bangalore,Area_A,Chinese,4.6,4244,Medium,No
+c1ee75a4,758674f4,2024-08-27,16:02,54,1257.08,9,COD,4.4,e11f3ddf,Restaurant_263,Bangalore,Area_B,Mexican,3.6,786,Medium,Yes
+8eee41ed,e506fca2,2024-05-07,20:14,24,320.03,8,Wallet,4.1,8f1605c1,Restaurant_170,Chennai,Area_C,Chinese,4.9,3800,Medium,Yes
+397e5b9c,38a50e0b,2024-09-09,23:29,43,1277.18,5,Wallet,2.3,c00f73d6,Restaurant_188,Kolkata,Area_A,Italian,2.8,1821,Low,Yes
+0842a985,4380fb0d,2024-09-20,7:54,31,109.98,5,UPI,3.1,c2dd51cf,Restaurant_361,Chennai,Area_D,Chinese,3.3,3385,High,No
+1e6a49a9,2f78af74,2024-02-03,2:42,15,1106.95,9,COD,2,2c89fe67,Restaurant_300,Delhi,Area_B,Chinese,3.1,3848,Low,Yes
+a0df1779,48a75b76,2024-07-17,22:58,25,1645.74,9,"Credit Card",2.5,032e886d,Restaurant_363,Bangalore,Area_B,Mexican,3.8,369,Medium,Yes
+1690be0b,f9c58f1c,2024-05-25,6:03,19,497.39,2,"Credit Card",3.2,3ef529e5,Restaurant_466,Chennai,Area_A,Mexican,3.2,4595,High,Yes
+48cd99bc,49737bb5,2024-10-03,7:39,19,1330.31,8,"Credit Card",2.8,59e6659c,Restaurant_442,Delhi,Area_C,Indian,4.2,2624,Medium,Yes
+11c31352,367d08e5,2024-07-18,4:55,63,1577.24,6,COD,2.7,228796c5,Restaurant_319,Delhi,Area_E,Indian,4,3495,Medium,Yes
+302c8ffd,506ec15b,2024-09-07,2:59,44,984.4,9,"Net Banking",3.1,ff28abb5,Restaurant_388,Mumbai,Area_B,Chinese,3.9,4121,Low,Yes
+1e4fb3d1,39ab2522,2024-02-03,23:45,63,117.87,2,COD,1.3,b2dc7803,Restaurant_70,Kolkata,Area_E,Mexican,4.4,806,High,No
+2d1569ea,ec02d78b,2024-06-07,0:00,27,1905.95,9,"Credit Card",3.6,cfb0cf14,Restaurant_452,Bangalore,Area_C,Indian,3.5,936,High,No
+985a155b,a4114d30,2024-04-14,6:43,74,1383.87,4,UPI,3.1,404f0685,Restaurant_239,Mumbai,Area_E,Italian,3.7,327,Medium,Yes
+891e4380,f13e676a,2024-03-15,23:07,72,1812.85,2,"Net Banking",1.1,bf914634,Restaurant_387,Bangalore,Area_B,Mexican,3.7,1969,Medium,No
+80a83655,b96a62e5,2024-07-09,3:26,86,617.46,1,Wallet,3.1,6c64aa30,Restaurant_140,Kolkata,Area_D,Chinese,4.7,2367,Low,Yes
+c680722c,cc43c2bd,2024-05-28,4:22,83,1326.71,8,"Net Banking",2,dd2f2051,Restaurant_435,Kolkata,Area_D,Chinese,2.7,3935,Low,Yes
+cbabb754,b088ecae,2024-07-06,0:57,85,1931.85,8,"Net Banking",3.6,5e9ad80d,Restaurant_37,Delhi,Area_C,Thai,3.6,4385,Low,No
+5c531cef,a188a96a,2024-01-16,18:59,87,133.07,10,"Credit Card",3.6,ab601722,Restaurant_79,Mumbai,Area_E,Mexican,4.5,1115,High,No
+513954fb,4b41fb60,2024-11-04,7:42,45,1049.66,2,Wallet,2,3da5daa9,Restaurant_34,Mumbai,Area_D,Indian,4.7,4710,High,Yes
+f29100a0,d4bfbb85,2024-11-04,6:09,36,279.42,3,"Credit Card",3,71764226,Restaurant_434,Mumbai,Area_E,Italian,2.9,505,Low,No
+60a7e3db,be7f156a,2024-11-27,19:06,27,347.97,6,UPI,3.4,c2dd51cf,Restaurant_361,Chennai,Area_D,Chinese,3.3,3385,High,No
+fd7b129d,8dc11ef8,2024-02-09,15:36,62,1056.27,7,COD,2.4,44837d80,Restaurant_344,Bangalore,Area_A,Thai,3.7,2852,Medium,No
+571170b9,99269ca4,2024-01-22,20:54,64,1125.1,4,"Credit Card",2,8a592a8a,Restaurant_121,Chennai,Area_D,Italian,3.2,3440,High,No
+c328b02d,e1622e88,2024-10-10,17:38,84,836.06,6,UPI,4.9,3988bf2c,Restaurant_162,Delhi,Area_E,Italian,4.9,2222,Medium,No
+a1725626,a9602f5a,2024-05-07,2:21,74,1375.02,2,COD,3.6,20fd72ee,Restaurant_64,Delhi,Area_A,Thai,3.3,4037,High,Yes
+eb37396c,9c452698,2024-08-16,21:26,82,835.75,2,Wallet,3,3ebed339,Restaurant_225,Mumbai,Area_A,Chinese,4.9,2362,High,Yes
+ecb2ce4d,c06aa388,2024-02-19,15:11,81,317.53,3,COD,3.1,0acdd646,Restaurant_122,Kolkata,Area_B,Indian,3.1,2429,High,Yes
+d9b67a0b,6d1e6512,2024-07-23,13:10,35,1852.38,3,"Net Banking",4.2,c030655d,Restaurant_110,Bangalore,Area_C,Mexican,4.7,2005,Low,Yes
+71e78f38,d26af5ad,2024-09-25,8:00,44,635.16,8,COD,3.4,e224a5ea,Restaurant_240,Mumbai,Area_A,Mexican,5,2978,High,No
+a714fd55,5904c51e,2024-05-19,11:11,38,592.92,5,"Net Banking",3.4,39189b6c,Restaurant_216,Delhi,Area_E,Indian,4,1908,High,Yes
+2e64fe01,ed23094b,2024-05-14,3:24,62,288.61,4,Wallet,1.9,bf2eb8e4,Restaurant_306,Delhi,Area_B,Indian,3.5,3314,Low,Yes
+b26462b1,55056170,2024-01-05,16:59,75,407.1,3,UPI,4.6,0ae349c2,Restaurant_429,Mumbai,Area_B,Italian,2.9,571,Low,Yes
+10248d44,3f830029,2024-11-16,10:22,65,1977.13,7,UPI,4.6,da9a321e,Restaurant_303,Delhi,Area_C,Mexican,2.9,1987,Low,Yes
+651dd7ca,e3bcc1a2,2024-04-16,15:51,31,337.36,2,"Net Banking",3.7,8133dda0,Restaurant_340,Chennai,Area_C,Indian,3.4,2034,Medium,Yes
+660e239a,4056808b,2024-05-22,15:23,37,1365.75,10,COD,2.8,3751ee4c,Restaurant_392,Kolkata,Area_C,Italian,2.6,4828,Low,No
+0675a984,ec726095,2024-01-27,10:06,81,359.04,4,COD,3.1,cdc4d7ec,Restaurant_385,Delhi,Area_D,Mexican,5,864,Low,Yes
+148930b8,44494412,2024-05-17,23:01,65,179.19,7,"Credit Card",1.9,2c3cc546,Restaurant_430,Mumbai,Area_B,Mexican,3.7,161,High,No
+26523c04,7946c5b5,2024-05-19,17:37,30,798.64,10,"Net Banking",1.3,59b862ed,Restaurant_341,Bangalore,Area_B,Mexican,3.6,800,Low,Yes
+32730726,21a38294,2024-04-04,18:49,39,183.15,5,Wallet,3.3,179a3485,Restaurant_414,Mumbai,Area_A,Mexican,2.9,783,Medium,No
+e27a29b7,f9f9400d,2024-06-02,21:43,52,1360.55,2,Wallet,4.7,dbcaa61c,Restaurant_31,Bangalore,Area_D,Mexican,2.5,2851,High,No
+df45dfc8,8d461a4c,2024-06-10,6:00,45,279.61,3,"Net Banking",1.4,d115b7b9,Restaurant_72,Delhi,Area_A,Chinese,4.7,4577,High,No
+2e7f02c4,33af0894,2024-05-26,17:18,88,352.06,9,"Credit Card",2.4,57c584c5,Restaurant_396,Delhi,Area_E,Italian,3.7,4133,Medium,No
+3d481f18,9525c38a,2024-05-14,17:22,61,835.28,4,"Net Banking",2.2,dddddf29,Restaurant_180,Kolkata,Area_D,Chinese,2.7,3242,Medium,Yes
+b318d8c2,a4bd4fd0,2024-07-14,11:25,31,1767.17,9,"Credit Card",1.6,08ba20de,Restaurant_127,Bangalore,Area_B,Indian,4.4,3888,High,Yes
+11094b07,eef9f466,2024-04-14,20:38,66,745.32,4,UPI,1.7,951b096d,Restaurant_82,Chennai,Area_A,Chinese,4.4,1232,Low,Yes
+6e9b95da,7b67fcce,2024-01-25,2:46,71,1531.63,3,Wallet,4.6,ccb7be4e,Restaurant_469,Kolkata,Area_E,Italian,4.5,3725,Low,Yes
+90d14039,d74734d2,2024-11-09,16:05,39,1124.7,9,COD,4.4,9f137e8a,Restaurant_404,Bangalore,Area_B,Italian,4.2,851,High,Yes
+5fad3dec,0a7d39a9,2024-08-28,7:09,41,743.52,2,UPI,4.1,7cfc6e28,Restaurant_63,Bangalore,Area_E,Italian,4,449,High,No
+390bc496,f5aaa93f,2024-02-07,23:34,32,790.17,6,"Credit Card",2,59b862ed,Restaurant_341,Bangalore,Area_B,Mexican,3.6,800,Low,Yes
+7ac8feab,2341585e,2024-09-18,8:02,87,170.36,7,COD,2.9,40dc81ce,Restaurant_254,Mumbai,Area_E,Chinese,3.9,1248,Low,No
+811262c2,c321118d,2024-03-10,13:28,65,878.73,10,Wallet,3.2,5593bbfb,Restaurant_4,Chennai,Area_C,Mexican,2.6,2769,Medium,No
+50952bcf,8c33acf7,2024-10-13,20:11,76,293.08,2,"Credit Card",3.5,0f558c3e,Restaurant_215,Bangalore,Area_A,Indian,4.8,4634,High,No
+f4bd8361,40ecf21e,2024-01-02,20:17,63,1903.86,8,"Net Banking",4.3,127057ad,Restaurant_491,Mumbai,Area_B,Mexican,3.7,1986,Medium,Yes
+a792d05c,6dceb96f,2024-05-03,14:45,60,1725.62,5,Wallet,3.5,4ce7afad,Restaurant_44,Bangalore,Area_E,Chinese,3.9,106,Low,Yes
+9c5363ef,7efe8c4e,2024-04-20,3:20,46,1484.5,5,Wallet,2.7,2f6d7840,Restaurant_104,Kolkata,Area_C,Chinese,4.8,1428,High,Yes
+8d95e4b3,726e1411,2024-04-24,19:52,86,903.66,2,Wallet,4,bf5bf6cd,Restaurant_189,Mumbai,Area_A,Mexican,4.9,3144,High,No
+0f48e499,29df6962,2024-10-26,2:15,84,1714.32,3,Wallet,1.1,c2e70208,Restaurant_371,Delhi,Area_E,Chinese,4.8,3656,Medium,Yes
+e4653892,8b25e3dc,2024-12-28,18:40,37,1356.56,4,COD,2.3,c3e33687,Restaurant_113,Mumbai,Area_C,Thai,4.1,294,Low,No
+9d7707c1,fe7b8f7f,2024-05-25,0:06,34,498.27,4,COD,1.2,c00f73d6,Restaurant_188,Kolkata,Area_A,Italian,2.8,1821,Low,Yes
+438c0e0e,c2d7d789,2024-09-13,15:03,79,1706.52,2,UPI,4.8,8d06cc24,Restaurant_141,Delhi,Area_D,Thai,4.8,4957,High,Yes
+0ea6f49b,ceef16aa,2024-08-24,5:00,44,672.65,4,COD,4.3,cb90b2ce,Restaurant_354,Mumbai,Area_E,Indian,4.3,2213,High,Yes
+33852b88,1d1954be,2024-05-13,1:52,71,1692.78,2,"Net Banking",4.5,c2e70208,Restaurant_371,Delhi,Area_E,Chinese,4.8,3656,Medium,Yes
+0571ba24,630081f2,2024-07-08,13:55,83,1959.01,9,UPI,4.9,289a82f6,Restaurant_53,Bangalore,Area_D,Mexican,3.4,3798,Medium,No
+89a44aec,e70b8d08,2024-06-12,19:10,37,107.29,3,"Net Banking",1.9,7713a3e9,Restaurant_149,Chennai,Area_C,Mexican,4.7,2033,Medium,Yes
+d9ba61bf,0883b2f7,2024-01-06,8:05,71,849.88,1,Wallet,2.8,344d4945,Restaurant_142,Mumbai,Area_C,Italian,3.6,386,Low,Yes
+50d1215d,faf89270,2024-02-10,5:21,76,1049.86,1,COD,4.4,90de9501,Restaurant_153,Mumbai,Area_B,Italian,3.3,4164,Low,No
+1d70f36c,3f386557,2024-06-19,3:52,24,1002.97,9,Wallet,3.3,49c4ff0d,Restaurant_372,Delhi,Area_D,Italian,2.6,3231,Medium,Yes
+8a7a8e7c,94e419b0,2024-01-28,4:34,69,1896.3,3,"Net Banking",1.5,bd857157,Restaurant_210,Mumbai,Area_B,Mexican,3.3,3819,High,No
+325b93f3,e3e8fbbc,2024-06-12,23:55,44,1396.82,7,Wallet,2.5,1d9ef47d,Restaurant_266,Mumbai,Area_A,Thai,4.1,1731,Low,Yes
+b85253ea,33161449,2024-06-21,16:41,82,166.23,4,"Credit Card",2.3,03e3a6e7,Restaurant_446,Delhi,Area_C,Indian,3.8,3892,High,Yes
+a468328f,d8c1ab9e,2024-10-26,19:57,72,1845.76,6,"Credit Card",1.3,6c64aa30,Restaurant_140,Kolkata,Area_D,Chinese,4.7,2367,Low,Yes
+70b42b5b,72d7919b,2024-11-07,9:19,31,849.38,10,UPI,2.3,2a6752ed,Restaurant_152,Delhi,Area_D,Mexican,4,4705,Low,No
+86c519c7,c31c1c11,2024-07-22,23:20,26,1394.17,10,"Net Banking",4.9,23075295,Restaurant_314,Mumbai,Area_E,Indian,4.8,3976,Medium,No
+df6c1064,fc628c85,2024-05-07,4:58,26,984.36,7,"Credit Card",1.9,f4fb2de3,Restaurant_16,Mumbai,Area_E,Indian,3,2251,Low,Yes
+883688b4,990ef59d,2024-11-16,14:32,75,1036.75,10,"Credit Card",3.1,528a4810,Restaurant_50,Delhi,Area_B,Thai,4.4,3686,Low,Yes
+32d56d91,e6349372,2024-06-27,15:56,18,1882.36,7,"Credit Card",4.3,fa055ed4,Restaurant_203,Mumbai,Area_A,Thai,3.6,1911,Low,Yes
+282de244,649fc7c4,2024-09-09,14:11,69,688.68,1,"Net Banking",5,5593bbfb,Restaurant_4,Chennai,Area_C,Mexican,2.6,2769,Medium,No
+f8f8f337,e8c540d7,2024-11-21,21:18,69,665.97,4,"Credit Card",3.3,e3fef5a1,Restaurant_415,Chennai,Area_C,Thai,3.1,3147,High,Yes
+7eeb8041,171eb699,2024-11-05,19:21,64,1458.43,5,"Net Banking",2.3,26db3a08,Restaurant_136,Delhi,Area_A,Italian,4.7,4760,High,Yes
+16e5f641,684f3cc1,2024-11-02,3:29,54,1896.17,5,Wallet,3.1,b09f66d7,Restaurant_109,Bangalore,Area_B,Chinese,4.3,3618,Low,Yes
+54dd167a,ed608aa7,2024-06-19,16:04,63,158.16,8,Wallet,2.1,331effe2,Restaurant_224,Kolkata,Area_D,Italian,3.3,3452,Medium,No
+548b34de,474bc585,2024-09-28,1:15,76,540.19,3,Wallet,3.2,405ed20c,Restaurant_145,Chennai,Area_A,Indian,4.1,3397,Low,Yes
+76484422,8ee20aff,2024-06-14,5:57,88,107.96,5,Wallet,1.4,4290a87b,Restaurant_174,Kolkata,Area_A,Indian,3.3,3119,High,No
+e4276644,5c1bd04a,2024-12-21,3:18,29,403.75,7,"Credit Card",1.1,870f6ec5,Restaurant_284,Kolkata,Area_C,Thai,2.9,1064,Medium,No
+f5aa9e3a,96ad9d0d,2024-12-04,3:44,62,1206.89,2,"Credit Card",4.6,bf914634,Restaurant_387,Bangalore,Area_B,Mexican,3.7,1969,Medium,No
+f2051863,b5e86517,2024-02-23,1:31,76,1864.78,10,UPI,1.5,7b3b0da2,Restaurant_241,Mumbai,Area_D,Chinese,4.8,3490,High,Yes
+1762fbce,29883cdd,2024-02-18,7:49,35,707.13,4,Wallet,2.5,7a6b060d,Restaurant_89,Chennai,Area_B,Mexican,2.9,2787,High,Yes
+f99d602b,84cfe46f,2024-11-08,11:36,89,1224.45,3,UPI,2,57c584c5,Restaurant_396,Delhi,Area_E,Italian,3.7,4133,Medium,No
+8595c7f0,8f3b895e,2024-08-22,10:52,39,251.23,2,COD,3,9abef4df,Restaurant_77,Chennai,Area_A,Italian,3.2,4158,Medium,No
+6e54f307,bd43d7cd,2024-09-26,6:59,59,1937.06,2,COD,2.2,5aa4df12,Restaurant_409,Bangalore,Area_C,Mexican,3.1,2782,High,No
+633908fa,8f1cfd17,2024-03-27,1:41,52,788.53,2,COD,1.9,97ba5c47,Restaurant_304,Bangalore,Area_A,Thai,2.9,595,High,Yes
+8bb44a51,b839fca3,2024-12-26,10:42,69,1202.55,2,UPI,1.5,eb6fce5b,Restaurant_356,Kolkata,Area_A,Chinese,3.3,4660,Low,No
+1d6a0034,d983f2bc,2024-01-15,18:09,88,1118.64,6,"Credit Card",3.8,a05e429d,Restaurant_83,Kolkata,Area_C,Thai,4.4,1822,Low,Yes
+b3bc150a,95e073dd,2024-08-26,15:42,21,159.91,7,UPI,3.2,2ca4738c,Restaurant_490,Bangalore,Area_B,Thai,4,3258,Medium,No
+56ac85cb,9c627e44,2024-11-16,8:31,19,738.15,7,"Net Banking",2.2,5eafb4ee,Restaurant_247,Bangalore,Area_A,Italian,4.7,309,High,Yes
+85247cf0,bee0f5f7,2024-12-18,6:22,22,157.18,7,"Net Banking",4.4,8b12bcad,Restaurant_406,Chennai,Area_C,Italian,3.9,4142,Medium,No
+4075cfee,5e07f4e3,2024-02-04,12:43,88,935.2,8,UPI,2.3,34cfd9fa,Restaurant_93,Kolkata,Area_A,Italian,2.6,106,High,No
+ecb81691,87b1b13a,2024-02-20,15:59,45,1263.16,6,COD,3.6,ccf81718,Restaurant_243,Kolkata,Area_D,Thai,3,4241,Medium,Yes
+aa98e117,c9b1a26f,2024-07-26,12:18,19,1163.53,5,"Credit Card",2.3,92f9c1c0,Restaurant_137,Chennai,Area_B,Indian,4.9,3813,Medium,Yes
+a931add1,2bd146fd,2024-05-15,10:18,67,147,8,COD,3.9,e49bc174,Restaurant_229,Mumbai,Area_E,Indian,5,5000,High,No
+dfef5bf8,556b16bf,2024-06-15,21:09,89,1273.16,5,COD,4.7,b09f66d7,Restaurant_109,Bangalore,Area_B,Chinese,4.3,3618,Low,Yes
+a87d9396,35f3a7ff,2024-01-04,21:39,80,483.37,2,"Net Banking",1.3,4d9244b9,Restaurant_431,Kolkata,Area_C,Chinese,2.9,4143,Low,Yes
+e00bf04f,919ce04e,2024-04-17,7:47,56,774.77,2,"Credit Card",4.1,2c3d36ef,Restaurant_317,Chennai,Area_A,Indian,3.2,4301,High,Yes
+6667148,a34ffa19,2024-09-01,1:42,50,898.55,2,Wallet,1.6,b2cf0b3d,Restaurant_107,Chennai,Area_A,Chinese,3.1,2091,High,Yes
+f184b2bf,5010648a,2024-09-10,17:18,19,1452.39,7,"Net Banking",2.3,f5c4c840,Restaurant_38,Mumbai,Area_C,Italian,4.2,2275,Medium,Yes
+996905de,3140123f,2024-02-10,14:32,70,1049.18,8,UPI,4.3,c059c9d3,Restaurant_242,Chennai,Area_B,Thai,3.9,578,Low,Yes
+1084c1c0,56e74e02,2024-01-05,18:06,51,174.74,7,UPI,1.6,3cf3f01c,Restaurant_383,Bangalore,Area_E,Italian,3.1,4929,High,Yes
+206d5357,6df8ec7c,2024-06-12,5:12,58,770.42,4,Wallet,2.6,f5e8e8a9,Restaurant_458,Delhi,Area_B,Chinese,3.1,1087,Medium,Yes
+42f50ba7,5aa67d6a,2024-06-28,1:20,82,555.71,10,COD,4.2,84e6c455,Restaurant_138,Bangalore,Area_B,Chinese,3.1,1616,Low,Yes
+53a504c5,c113a47a,2024-01-19,9:19,33,1646.44,9,Wallet,4.9,e6f5e6b1,Restaurant_54,Mumbai,Area_C,Thai,4.8,3055,High,Yes
+13a219a1,cbe233b7,2024-10-22,14:02,87,293.5,9,COD,3.6,d15946a3,Restaurant_73,Kolkata,Area_A,Chinese,2.6,688,High,Yes
+91bebc31,2485b60c,2024-06-13,9:08,39,423.98,6,COD,1.5,58def9e8,Restaurant_349,Mumbai,Area_A,Mexican,2.5,2246,High,Yes
+102b1c94,f9543e55,2024-11-15,16:37,84,1379.02,5,Wallet,2.6,2c3cc546,Restaurant_430,Mumbai,Area_B,Mexican,3.7,161,High,No
+cac43712,dc3751c9,2024-12-22,18:18,28,1164,2,Wallet,4.7,dddddf29,Restaurant_180,Kolkata,Area_D,Chinese,2.7,3242,Medium,Yes
+2.74E+06,b75f7e69,2024-02-23,9:25,81,1693.97,4,"Credit Card",2.3,2850b98f,Restaurant_204,Kolkata,Area_B,Thai,4.8,2772,High,Yes
+8fd60f24,cb26fc9f,2024-02-14,5:16,53,642.58,2,UPI,1.7,427b24bc,Restaurant_496,Delhi,Area_C,Mexican,3.2,804,Medium,Yes
+a7ee41d1,dc427395,2024-11-28,9:14,56,630.51,5,UPI,1.9,1c6eb160,Restaurant_43,Chennai,Area_D,Chinese,3.5,300,Medium,Yes
+16229d91,0c82008f,2024-08-23,0:10,88,395.95,9,UPI,1.1,81bc33da,Restaurant_364,Bangalore,Area_B,Indian,3,2512,Medium,No
+86540bb7,1c079da8,2024-10-15,15:57,21,1140.47,3,COD,4.7,eb6fce5b,Restaurant_356,Kolkata,Area_A,Chinese,3.3,4660,Low,No
+c9e7b3a1,3a00a75e,2024-02-13,20:39,35,907.75,3,UPI,1.6,f5f0a3d7,Restaurant_376,Chennai,Area_E,Mexican,4.3,842,High,Yes
+de32e2ba,a143b485,2024-12-08,1:40,24,1004.22,7,COD,3.5,a8d593a1,Restaurant_148,Kolkata,Area_B,Mexican,2.6,4667,Low,Yes
+d1ec7d22,71edee6d,2024-05-20,19:25,32,239.87,1,"Credit Card",2.2,03e3a6e7,Restaurant_446,Delhi,Area_C,Indian,3.8,3892,High,Yes
+d1612d85,6aa6f339,2024-06-03,22:25,30,1173.9,3,UPI,4.9,6af133bb,Restaurant_146,Delhi,Area_E,Chinese,4.9,4062,Low,Yes
+977cf3c5,1bada56d,2024-12-22,16:02,38,1156.36,3,COD,3.2,f8088575,Restaurant_182,Delhi,Area_A,Chinese,4.5,3352,Medium,No
+68534ee9,36115b10,2024-03-22,2:20,38,892.31,2,Wallet,4.9,2.74E+12,Restaurant_51,Chennai,Area_C,Mexican,3.8,2655,Medium,Yes
+705a3b77,1.61E+10,2024-08-01,9:55,18,128.03,10,"Net Banking",3.9,b7445b6d,Restaurant_84,Chennai,Area_E,Thai,4,429,Medium,No
+5.84E+127,ebfed12a,2024-12-28,23:41,43,512.11,2,COD,3,c1f112de,Restaurant_144,Chennai,Area_C,Indian,3.1,1042,High,No
+afaf7883,3f561343,2024-11-26,17:20,27,1130.28,10,COD,3.7,2c89fe67,Restaurant_300,Delhi,Area_B,Chinese,3.1,3848,Low,Yes
+b22cf3c6,7d1567dc,2024-06-01,8:58,42,1552.97,5,UPI,2.5,defef2cd,Restaurant_155,Bangalore,Area_E,Chinese,2.8,1443,High,No
+400fa499,c87096ec,2024-08-09,7:42,77,1291.13,6,UPI,3.2,4fbd9363,Restaurant_425,Mumbai,Area_A,Italian,3,176,Medium,No
+4808c04c,812817ba,2024-07-05,17:51,43,1098.11,7,COD,3.6,0e24dd86,Restaurant_265,Bangalore,Area_A,Mexican,4.7,1731,Medium,No
+fbc0dde2,b3799ba3,2024-06-05,6:47,79,1442.45,4,"Net Banking",3.5,e54e0518,Restaurant_191,Mumbai,Area_A,Italian,2.6,4884,High,No
+ca120a97,aab95988,2024-05-23,1:44,68,1008.34,9,"Credit Card",1.1,9a241a8f,Restaurant_36,Delhi,Area_D,Thai,3.8,4774,Medium,No
+b3243460,79b7b13b,2024-03-13,19:26,26,1526.66,10,UPI,4.5,1c54225b,Restaurant_281,Mumbai,Area_B,Italian,3.8,2410,Medium,Yes
+a1c68780,2a13ac8e,2024-03-01,19:00,31,701.65,8,COD,3.2,3ef529e5,Restaurant_466,Chennai,Area_A,Mexican,3.2,4595,High,Yes
+fcfc5895,4fac9338,2024-09-27,11:43,88,1097.44,8,UPI,3.6,db7c0362,Restaurant_111,Bangalore,Area_A,Indian,4.2,1681,High,Yes
+ef4ae97e,b8845e9b,2024-08-25,4:02,24,1862.13,3,"Credit Card",3.8,b37bb876,Restaurant_335,Delhi,Area_C,Thai,4.1,3383,Medium,No
+59e87e82,afc6ef55,2024-01-03,20:07,72,253.97,8,Wallet,4.2,1ca17571,Restaurant_185,Mumbai,Area_B,Mexican,2.9,3144,Medium,Yes
+82e6cfa5,c6c9621d,2024-03-12,22:02,57,1432.16,9,COD,3.4,39189b6c,Restaurant_216,Delhi,Area_E,Indian,4,1908,High,Yes
+ca85a17c,a8a18f05,2024-01-02,20:04,16,532.99,9,Wallet,2.7,08a1f696,Restaurant_463,Kolkata,Area_E,Chinese,3.9,2772,High,Yes
+f2f8a114,9b5bc259,2024-05-02,10:59,50,675.66,8,"Credit Card",3.3,026ab181,Restaurant_357,Bangalore,Area_E,Italian,3.6,3178,Low,Yes
+ed627330,a248a474,2024-09-17,4:40,80,309.77,4,"Net Banking",3.8,b96de83c,Restaurant_345,Mumbai,Area_A,Italian,3.1,4744,Low,No
+75210689,c8081d19,2024-01-27,16:15,79,885.23,5,UPI,1.7,f5c4c840,Restaurant_38,Mumbai,Area_C,Italian,4.2,2275,Medium,Yes
+2a0dd04f,598414f2,2024-08-26,22:31,28,404.07,9,"Credit Card",4.4,c318e94b,Restaurant_237,Bangalore,Area_D,Indian,3.1,3352,Medium,No
+29a40989,378b1739,2024-11-10,22:53,51,1688.71,7,UPI,4.2,7cfc6e28,Restaurant_63,Bangalore,Area_E,Italian,4,449,High,No
+c83d39e8,f1efa418,2024-04-09,12:59,69,360.74,4,Wallet,3.1,5628c140,Restaurant_74,Bangalore,Area_A,Indian,2.8,258,Low,No
+4f9ee493,25d19d0d,2024-08-16,19:18,16,1717.11,9,Wallet,1.5,9b3e0802,Restaurant_134,Kolkata,Area_A,Italian,3.5,407,Low,No
+a24a4583,ab986518,2024-06-27,10:22,59,332.36,3,Wallet,1.5,2c89fe67,Restaurant_300,Delhi,Area_B,Chinese,3.1,3848,Low,Yes
+0e1e342d,ec24974b,2024-05-24,0:51,19,739.01,9,UPI,3,651ac35d,Restaurant_160,Chennai,Area_D,Indian,4,2615,High,No
+cfc29296,6dcf0454,2024-08-23,6:30,90,1938.17,2,"Credit Card",4.2,58def9e8,Restaurant_349,Mumbai,Area_A,Mexican,2.5,2246,High,Yes
+d4b6d6d7,726bc71f,2024-12-18,3:37,81,1865.85,3,"Credit Card",4.5,951b096d,Restaurant_82,Chennai,Area_A,Chinese,4.4,1232,Low,Yes
+41025b62,a8f7755a,2024-11-24,3:58,31,816.3,6,UPI,2.1,e222e302,Restaurant_277,Bangalore,Area_D,Thai,3.7,3242,Low,Yes
+da4ff2e8,15da8c39,2024-08-24,20:55,45,1563.92,9,"Net Banking",4.4,c19c6dfd,Restaurant_67,Chennai,Area_E,Mexican,4.7,1917,Medium,Yes
+4989df3a,a9e4fa9f,2024-08-18,6:05,48,177.05,3,"Credit Card",4.9,8f1605c1,Restaurant_170,Chennai,Area_C,Chinese,4.9,3800,Medium,Yes
+b62eab43,12fdadc1,2024-07-14,2:22,20,112.24,9,UPI,4.4,e88daa8a,Restaurant_447,Delhi,Area_B,Thai,3.1,784,Low,No
+79607013,3779326b,2024-09-13,16:51,61,1915.46,9,Wallet,4.2,10504ca1,Restaurant_426,Kolkata,Area_B,Mexican,4.4,1400,Low,No
+6d9f70f0,5ed43f49,2024-10-03,11:11,48,1796.63,6,"Net Banking",1.3,3ef529e5,Restaurant_466,Chennai,Area_A,Mexican,3.2,4595,High,Yes
+11d0601a,5c8364d1,2024-06-18,19:41,63,1258.06,2,COD,5,02b6d096,Restaurant_157,Kolkata,Area_A,Indian,2.9,3845,High,Yes
+ea70c883,cf73b9ae,2024-06-08,14:09,62,1012.22,2,"Credit Card",2.6,8060001b,Restaurant_202,Kolkata,Area_A,Italian,2.7,1939,Low,No
+6106393b,836a2cee,2024-06-22,16:26,28,665.22,2,Wallet,3.3,f5f0a3d7,Restaurant_376,Chennai,Area_E,Mexican,4.3,842,High,Yes
+d11383b1,26d940c3,2024-09-04,17:00,88,298.04,6,"Net Banking",3.6,b12c27be,Restaurant_353,Kolkata,Area_E,Thai,4.4,726,Medium,Yes
+1d088d8f,c7aff79c,2024-04-14,15:28,59,1166.3,7,"Net Banking",4.3,d2a546bc,Restaurant_258,Mumbai,Area_E,Thai,4.7,3806,High,No
+e2d2bdfb,b7d3acfc,2024-10-16,1:56,86,416.56,4,Wallet,1.7,8f988f4e,Restaurant_244,Mumbai,Area_C,Chinese,4.7,1746,High,Yes
+71716f3e,c5b86f35,2024-07-20,3:00,22,480.95,5,Wallet,4.5,c9204e90,Restaurant_405,Kolkata,Area_B,Mexican,4,1199,Medium,No
+df40aafa,52bb45ec,2024-02-09,3:47,31,121.87,4,UPI,4.4,8058c87e,Restaurant_199,Chennai,Area_D,Italian,3,3073,Low,No
+888d1975,bd672072,2024-06-19,20:41,86,1351.62,5,Wallet,1.6,ee6e78d8,Restaurant_391,Delhi,Area_E,Indian,4.4,2207,Medium,Yes
+0fdb45a9,06bbb9d6,2024-03-23,23:17,89,338.44,9,"Credit Card",2.6,5ef3c1b1,Restaurant_40,Mumbai,Area_C,Italian,2.6,4800,Low,Yes
+430ad2de,2ef6eb5d,2024-05-07,9:07,47,901.19,3,Wallet,1.4,87ba0b62,Restaurant_439,Mumbai,Area_A,Mexican,2.6,734,Low,No
+1da38e26,32526214,2024-01-26,4:24,45,728.42,1,"Credit Card",1.2,f2bb6dd3,Restaurant_151,Mumbai,Area_D,Italian,2.6,4022,Low,Yes
+e612a7b2,b679d62f,2024-08-20,14:03,60,1077.2,6,COD,2.6,344d4945,Restaurant_142,Mumbai,Area_C,Italian,3.6,386,Low,Yes
+bad4bbc2,4356dee2,2024-06-26,9:04,31,291.5,5,"Net Banking",1.4,4757a19b,Restaurant_365,Mumbai,Area_C,Thai,3.2,2688,Medium,No
+9c0c878b,48b99bfd,2024-02-05,20:23,61,1571.71,3,"Net Banking",1.2,f8088575,Restaurant_182,Delhi,Area_A,Chinese,4.5,3352,Medium,No
+56dd6d49,0a457b71,2024-07-21,2:21,81,746.07,9,Wallet,2.9,3535b075,Restaurant_460,Bangalore,Area_B,Mexican,2.7,2135,High,Yes
+0a80182a,4c604d3c,2024-07-05,21:59,59,1771.39,10,"Net Banking",1.1,8f988f4e,Restaurant_244,Mumbai,Area_C,Chinese,4.7,1746,High,Yes
+a29bd464,bced292b,2024-02-06,18:06,59,510.13,6,UPI,2.4,afad7eb5,Restaurant_410,Chennai,Area_A,Chinese,4.7,1140,Low,No
+5501ebdb,8ceb5b3a,2024-02-17,22:54,45,1138.45,3,COD,3.8,44837d80,Restaurant_344,Bangalore,Area_A,Thai,3.7,2852,Medium,No
+91428806,07645a7b,2024-03-03,17:28,29,1906.47,10,COD,1.3,78805df4,Restaurant_412,Chennai,Area_D,Mexican,3.5,4961,High,No
+5f428ee5,e69a5b2f,2024-12-27,20:59,45,675.83,5,"Net Banking",2.4,2fb269f9,Restaurant_245,Delhi,Area_E,Indian,3.9,1135,High,No
+bee9844d,3e62d976,2024-04-27,19:59,87,725.05,4,Wallet,4.8,8810c9aa,Restaurant_1,Chennai,Area_D,Italian,4.7,2847,Medium,Yes
+45af4760,2efa9f31,2024-02-11,17:32,83,1146.99,6,UPI,4.7,fc36ce35,Restaurant_12,Kolkata,Area_E,Italian,4.1,1356,Low,Yes
+9b24ae62,dcd3aa6b,2024-02-28,1:48,54,1879.58,1,"Credit Card",2.7,651ac35d,Restaurant_160,Chennai,Area_D,Indian,4,2615,High,No
+d7d47efd,6855e3ed,2024-12-17,19:05,50,1977.92,5,COD,2.5,537b38f9,Restaurant_168,Chennai,Area_B,Mexican,3,3110,High,Yes
+41180948,db1972d8,2024-10-15,12:52,87,858.46,5,"Credit Card",1.1,c977a5f5,Restaurant_117,Kolkata,Area_C,Thai,4.3,2341,High,No
+473c7c30,1704c3fd,2024-12-21,11:27,77,1686.94,8,COD,3.7,0736af8f,Restaurant_445,Kolkata,Area_C,Indian,2.9,2729,High,Yes
+d860dc71,7331888f,2024-01-19,13:14,54,562.65,2,"Net Banking",2.9,0e7248ea,Restaurant_295,Delhi,Area_C,Thai,4.4,2482,High,No
+e9a5427a,cdfd47b2,2024-07-06,3:04,44,1675.56,5,COD,1.3,3cf3f01c,Restaurant_383,Bangalore,Area_E,Italian,3.1,4929,High,Yes
+e5b03821,e840091c,2024-06-25,19:48,48,1285.47,6,"Credit Card",4.3,f75a4fd0,Restaurant_462,Delhi,Area_E,Thai,3.4,4226,High,Yes
+700eadd4,cd16a4c6,2024-03-19,17:37,46,581.08,4,UPI,1.6,4e9bfa3e,Restaurant_226,Chennai,Area_D,Thai,3.8,3113,Low,Yes
+f7afbbf9,15492f12,2024-12-10,4:23,30,755.11,8,"Net Banking",2,6fa56b71,Restaurant_91,Kolkata,Area_A,Mexican,2.9,3079,Low,Yes
+9a9ac8a7,dd707bb5,2024-09-12,15:31,35,580.33,1,UPI,1.5,bff0bb92,Restaurant_200,Chennai,Area_D,Italian,4.4,1365,High,No
+c2a41da1,3c7246f3,2024-08-12,16:34,37,970.83,1,Wallet,2.2,5a38fde9,Restaurant_101,Chennai,Area_C,Indian,4.5,1292,High,No
+8f09ba64,6ad98e51,2024-04-09,13:40,69,349.92,4,UPI,4.3,cd2a813f,Restaurant_456,Delhi,Area_D,Italian,4,1301,High,Yes
+759e1528,d7e77385,2024-03-04,19:39,15,359.09,7,COD,1.5,e11f3ddf,Restaurant_263,Bangalore,Area_B,Mexican,3.6,786,Medium,Yes
+f32532bc,5d7f2af0,2024-09-08,23:43,58,1941.94,7,"Net Banking",4.8,4d50d203,Restaurant_86,Kolkata,Area_C,Mexican,4,664,Medium,Yes
+80261cfc,22510504,2024-11-13,0:46,77,1890.63,3,UPI,1.4,4ce7afad,Restaurant_44,Bangalore,Area_E,Chinese,3.9,106,Low,Yes
+3d9e89d0,6f948a18,2024-01-09,21:31,63,343.63,1,Wallet,1.2,8b12bcad,Restaurant_406,Chennai,Area_C,Italian,3.9,4142,Medium,No
+36fed615,f4d3ccbb,2024-07-11,5:59,37,186.72,5,UPI,4.1,0e108d8b,Restaurant_236,Mumbai,Area_C,Mexican,4.9,3102,Low,No
+6288cbc5,a81d3a86,2024-12-04,11:47,89,1455.79,7,UPI,3.5,760d1a28,Restaurant_457,Mumbai,Area_E,Indian,4.1,3434,Medium,No
+de198250,44d87683,2024-07-17,19:12,15,1052.89,1,"Credit Card",4.8,fc36ce35,Restaurant_12,Kolkata,Area_E,Italian,4.1,1356,Low,Yes
+02022f66,7f0288b7,2024-12-19,22:19,61,1329.9,7,"Credit Card",4.4,5e9ad80d,Restaurant_37,Delhi,Area_C,Thai,3.6,4385,Low,No
+67e74076,40f58a14,2024-06-23,19:48,50,212.97,8,"Credit Card",3,b2dc7803,Restaurant_70,Kolkata,Area_E,Mexican,4.4,806,High,No
+3dc028e4,60cc6802,2024-03-10,17:00,22,410.74,10,Wallet,1.1,5aba5a33,Restaurant_417,Mumbai,Area_A,Thai,3.5,2022,High,No
+0028e4e6,4f12fc45,2024-01-19,17:21,56,1453.1,9,Wallet,4.1,1d9ef47d,Restaurant_266,Mumbai,Area_A,Thai,4.1,1731,Low,Yes
+4389605a,351f89ce,2024-03-20,16:03,30,272.08,8,UPI,4.2,14493b77,Restaurant_285,Delhi,Area_E,Mexican,3.2,1822,Low,No
+fe3a409a,9a53f1e9,2024-09-28,10:55,50,1141.3,7,UPI,4.3,9ff72da6,Restaurant_173,Mumbai,Area_B,Indian,4.6,2224,Medium,Yes
+e4eb8a89,202a3b38,2024-08-18,17:14,31,443.33,6,Wallet,2,6af133bb,Restaurant_146,Delhi,Area_E,Chinese,4.9,4062,Low,Yes
+0e37576c,bad3fc00,2024-05-18,2:54,17,748.49,4,"Credit Card",4,7713a3e9,Restaurant_149,Chennai,Area_C,Mexican,4.7,2033,Medium,Yes
+a490760b,790e3d80,2024-10-02,7:25,78,448.32,5,Wallet,3.9,59e6659c,Restaurant_442,Delhi,Area_C,Indian,4.2,2624,Medium,Yes
+486462bf,a5944d42,2024-06-09,10:46,69,619.68,4,UPI,3.7,228796c5,Restaurant_319,Delhi,Area_E,Indian,4,3495,Medium,Yes
+38a79788,f218628c,2024-07-08,14:53,87,375.56,5,Wallet,4.1,55c18a95,Restaurant_360,Delhi,Area_E,Indian,2.7,191,High,Yes
+6f268b13,1221087a,2024-07-14,20:33,75,289.55,6,"Net Banking",2.9,5593bbfb,Restaurant_4,Chennai,Area_C,Mexican,2.6,2769,Medium,No
+36d10de8,3496ab42,2024-09-17,19:31,38,681.6,1,Wallet,1.7,0d392883,Restaurant_291,Mumbai,Area_E,Thai,3.4,1511,High,Yes
+88cc8a16,c8811d11,2024-11-21,16:39,82,194.55,10,Wallet,1.7,668d09b6,Restaurant_468,Mumbai,Area_C,Indian,4.7,746,High,Yes
+02bca445,eb81ae95,2024-12-08,2:22,75,146.67,10,Wallet,4,2bf57503,Restaurant_255,Chennai,Area_A,Indian,3.5,4108,Low,Yes
+b7a8a2c9,83bd6b27,2024-09-05,5:11,32,190.66,3,COD,1.9,03e3a6e7,Restaurant_446,Delhi,Area_C,Indian,3.8,3892,High,Yes
+dcb3dd91,46e2ba9c,2024-03-23,13:37,80,889.43,6,Wallet,2.6,b8128f8d,Restaurant_130,Chennai,Area_C,Chinese,5,1582,High,Yes
+b9c8e02c,a8369080,2024-01-17,19:42,80,833.99,6,COD,3.5,23075295,Restaurant_314,Mumbai,Area_E,Indian,4.8,3976,Medium,No
+40732965,3d3f4567,2024-10-27,12:03,45,1551.91,10,UPI,2.7,eb174c1f,Restaurant_69,Mumbai,Area_A,Thai,2.5,484,Medium,Yes
+4490908d,4b376f95,2024-06-01,23:07,23,1074.38,2,UPI,2.4,d2c59e6e,Restaurant_66,Delhi,Area_B,Indian,4.7,1912,Medium,No
+876c6aec,8301fef5,2024-08-03,2:17,64,415.78,9,COD,4.5,220de01b,Restaurant_492,Mumbai,Area_E,Thai,3.3,2402,Low,No
+e1dcd4d8,45f0a579,2024-04-27,9:33,17,976.15,9,COD,1.3,2ca4738c,Restaurant_490,Bangalore,Area_B,Thai,4,3258,Medium,No
+cee34c22,52989b20,2024-08-01,5:16,67,390.49,2,Wallet,3.1,c71efa45,Restaurant_120,Mumbai,Area_C,Chinese,4.3,2859,Medium,No
+89255048,64646238,2024-01-02,14:17,89,267.96,10,Wallet,4.6,958d0a73,Restaurant_71,Kolkata,Area_D,Indian,2.6,632,Medium,No
+a411434c,456c6aea,2024-11-05,1:59,79,1095.03,1,UPI,4.2,eab30c2f,Restaurant_470,Chennai,Area_C,Indian,4,4628,Low,Yes
+76ddb0ff,57d08412,2024-12-26,0:20,36,353.26,8,UPI,3.5,5593bbfb,Restaurant_4,Chennai,Area_C,Mexican,2.6,2769,Medium,No
+1300e824,6a30490c,2024-05-06,21:43,18,515.13,10,"Net Banking",1.9,3de9ffca,Restaurant_448,Delhi,Area_C,Italian,4.2,2774,High,No
+41b89183,f60927b0,2024-05-27,4:49,66,1880.37,4,"Credit Card",1.1,08a1f696,Restaurant_463,Kolkata,Area_E,Chinese,3.9,2772,High,Yes
+569fee7a,6b075058,2024-02-23,23:25,64,1975.93,3,"Net Banking",2.3,71af43be,Restaurant_97,Delhi,Area_E,Thai,4.2,604,Low,No
+f8fcb938,cfb42d4b,2024-10-23,8:49,36,719.25,10,Wallet,1.2,cf8681ce,Restaurant_398,Bangalore,Area_B,Chinese,4.1,2631,Medium,Yes
+bb534cd4,ec393562,2024-06-19,15:51,38,139.31,1,UPI,3.3,b9a1968c,Restaurant_49,Mumbai,Area_B,Mexican,2.6,4705,High,No
+71a3b2c6,e458f5e4,2024-09-28,16:36,47,378.37,8,"Net Banking",4.5,8d06cc24,Restaurant_141,Delhi,Area_D,Thai,4.8,4957,High,Yes
+3a3d9e9e,64d3f4f2,2024-10-15,23:08,49,873.99,6,UPI,2.5,f4fb2de3,Restaurant_16,Mumbai,Area_E,Indian,3,2251,Low,Yes
+f5575fdd,5d27352f,2024-08-19,8:47,73,154.38,5,Wallet,4,77f59689,Restaurant_467,Delhi,Area_A,Mexican,4.5,2341,Low,No
+7c12c141,fcd31c53,2024-09-26,23:25,21,954.8,3,COD,1.4,4da1655b,Restaurant_55,Delhi,Area_A,Chinese,2.7,827,Medium,Yes
+195eccb7,f409c322,2024-07-16,9:52,63,1885.3,3,"Net Banking",1.6,0736af8f,Restaurant_445,Kolkata,Area_C,Indian,2.9,2729,High,Yes
+a4637efb,8e711dd8,2024-02-01,5:30,57,1811.41,9,"Credit Card",2.9,e222e302,Restaurant_277,Bangalore,Area_D,Thai,3.7,3242,Low,Yes
+90f95ea5,02224df2,2024-01-15,0:32,29,1436.74,2,"Credit Card",1.6,5593bbfb,Restaurant_4,Chennai,Area_C,Mexican,2.6,2769,Medium,No
+3f320cac,00402d30,2024-11-10,18:34,78,1776.8,5,"Credit Card",4.9,94e70589,Restaurant_48,Mumbai,Area_A,Chinese,4.8,2131,High,Yes
+8ec01e6d,f271a6e0,2024-11-22,15:53,86,266.66,8,UPI,4.5,5eafb4ee,Restaurant_247,Bangalore,Area_A,Italian,4.7,309,High,Yes
+7ccf3881,aebb9198,2024-04-14,10:32,39,560.69,5,COD,1.9,02b6d096,Restaurant_157,Kolkata,Area_A,Indian,2.9,3845,High,Yes
+c003d7df,a742f06e,2024-05-25,18:43,66,567.55,9,UPI,1.5,4d50d203,Restaurant_86,Kolkata,Area_C,Mexican,4,664,Medium,Yes
+b27e7dbf,f77764bd,2024-06-23,17:50,44,245.54,7,UPI,4.1,ea525a43,Restaurant_394,Kolkata,Area_D,Indian,4,3021,Low,No
+bb735e96,e54ff9cb,2024-01-22,3:30,45,1820.92,9,"Credit Card",2,2a6752ed,Restaurant_152,Delhi,Area_D,Mexican,4,4705,Low,No
+3fcfccb4,00d058d9,2024-05-04,9:13,85,319.6,9,COD,4,331effe2,Restaurant_224,Kolkata,Area_D,Italian,3.3,3452,Medium,No
+c5b37ef1,962efe6c,2024-09-18,0:11,48,121.69,5,COD,2.8,7b3b0da2,Restaurant_241,Mumbai,Area_D,Chinese,4.8,3490,High,Yes
+90264fd2,c938f109,2024-03-13,21:08,78,1722.92,9,"Net Banking",1.1,f4fb2de3,Restaurant_16,Mumbai,Area_E,Indian,3,2251,Low,Yes
+eddbe83b,c243b03e,2024-06-14,11:42,62,1409.63,10,"Credit Card",2.9,a961a847,Restaurant_183,Kolkata,Area_C,Thai,4,4835,Medium,No
+786a7098,0d415664,2024-03-03,5:33,88,654.23,9,COD,2.6,8a76a7ee,Restaurant_238,Delhi,Area_B,Italian,4.4,3314,Medium,No
+f4e5673d,4d28f8ac,2024-12-24,2:39,90,1158.91,2,"Net Banking",2.4,ba31dffb,Restaurant_8,Mumbai,Area_A,Mexican,2.9,4229,Medium,No
+e7641ee4,440f48ae,2024-01-26,12:46,57,1704.15,2,"Credit Card",2,d4eb642a,Restaurant_52,Kolkata,Area_C,Chinese,2.5,4944,Low,Yes
+c06fdbb8,7f81cd9b,2024-08-22,19:22,54,433.24,9,Wallet,1.6,da404b28,Restaurant_290,Bangalore,Area_A,Indian,4.3,1407,Medium,Yes
+b25509dc,badcf6fc,2024-10-15,11:34,77,1658.4,9,UPI,3.4,c564c624,Restaurant_230,Chennai,Area_A,Italian,3.1,2869,High,Yes
+c6cee694,d052bc84,2024-06-02,3:14,19,1192.99,10,UPI,4.4,612e24e0,Restaurant_217,Kolkata,Area_E,Italian,2.7,427,Low,Yes
+4a230cd2,68b0034a,2024-11-11,22:02,68,1487.45,10,COD,4.8,4d9244b9,Restaurant_431,Kolkata,Area_C,Chinese,2.9,4143,Low,Yes
+1bc1addc,56ec8e54,2024-07-03,1:43,68,1383.1,7,UPI,2.3,5440dc43,Restaurant_62,Kolkata,Area_D,Indian,3.6,4899,High,Yes
+87e4f436,9c9493ac,2024-03-23,2:44,53,406.66,8,COD,1.8,3988bf2c,Restaurant_162,Delhi,Area_E,Italian,4.9,2222,Medium,No
+87f5d4fa,4ed80548,2024-05-04,3:37,73,1635.55,3,UPI,1.3,d56c5b5e,Restaurant_487,Delhi,Area_C,Thai,3.9,1584,High,No
+4aa88f34,0be9ac6b,2024-08-19,4:29,64,1132.7,10,Wallet,1.8,3e7f7fbe,Restaurant_24,Bangalore,Area_C,Thai,4.7,356,Low,Yes
+49b7bdc8,ee3a6dd6,2024-12-18,1:36,58,253.71,10,"Credit Card",1.6,aef029e0,Restaurant_327,Delhi,Area_D,Thai,4.8,1226,Medium,No
+936e9b04,5514d57a,2024-08-23,13:17,87,257,8,COD,1.1,1.57E+63,Restaurant_222,Delhi,Area_D,Italian,4.1,435,Medium,Yes
+439db23a,1185f812,2024-08-14,3:21,30,306.29,4,"Net Banking",1.8,ccf81718,Restaurant_243,Kolkata,Area_D,Thai,3,4241,Medium,Yes
+57429770,310642c7,2024-08-19,22:39,51,1943.23,2,Wallet,3,d3016f90,Restaurant_14,Mumbai,Area_B,Mexican,2.5,3949,High,No
+18c696ae,4a92a74b,2024-10-11,7:47,57,1134.11,6,Wallet,1.5,f2718889,Restaurant_57,Kolkata,Area_C,Chinese,4.2,884,Low,No
+606f7406,29ab4f24,2024-10-06,9:56,37,1358.98,4,COD,2.5,3da5daa9,Restaurant_34,Mumbai,Area_D,Indian,4.7,4710,High,Yes
+a12be62c,8dc90695,2024-04-27,4:09,90,812.65,8,UPI,1,9bff4316,Restaurant_95,Bangalore,Area_D,Indian,2.7,3241,Low,Yes
+39cc6a9e,c6da1c16,2024-01-26,21:13,24,1150.15,10,UPI,2.6,ab27a46b,Restaurant_302,Bangalore,Area_A,Chinese,4.7,2260,Medium,Yes
+43bde88b,dc3d4e9c,2024-06-01,12:26,72,1910.27,5,Wallet,3.7,60723d0e,Restaurant_88,Chennai,Area_A,Thai,3.3,2168,High,No
+40fa27ee,96e2e99f,2024-07-17,13:41,28,1641.36,7,Wallet,3.6,1969672f,Restaurant_402,Chennai,Area_D,Indian,4.4,2776,Low,Yes
+dd7f4419,b0fc9f6b,2024-10-01,9:19,34,238.29,10,COD,4.8,9abef4df,Restaurant_77,Chennai,Area_A,Italian,3.2,4158,Medium,No
+211b157b,91bd0f44,2024-05-25,16:08,70,1663.78,6,UPI,1.5,67baa4fe,Restaurant_289,Delhi,Area_E,Mexican,4,122,Low,No
+177c3514,3659e16d,2024-05-14,17:32,79,571.03,10,"Credit Card",2.2,4fa55034,Restaurant_451,Bangalore,Area_A,Indian,4.9,3947,Medium,No
+755735bd,494f2388,2024-10-25,10:45,33,1842.23,3,UPI,1.6,aae64772,Restaurant_420,Chennai,Area_C,Thai,3.6,3999,High,Yes
+98724cd0,44c26072,2024-04-18,6:48,88,863.92,9,Wallet,2.4,8a11d347,Restaurant_112,Bangalore,Area_A,Thai,3.9,3041,Low,Yes
+99aee1db,6bca18f1,2024-02-13,2:01,17,528.28,6,Wallet,2.1,02b6d096,Restaurant_157,Kolkata,Area_A,Indian,2.9,3845,High,Yes
+df656e28,753b5cc2,2024-05-25,10:59,35,1462.78,7,Wallet,1.9,c867f4c3,Restaurant_326,Delhi,Area_D,Chinese,3.1,1320,Low,Yes
+23595f32,fd7d1b4d,2024-10-06,5:17,46,1137.08,3,"Credit Card",1,606db467,Restaurant_348,Delhi,Area_C,Indian,2.5,1168,Medium,Yes
+5ae08cd3,0000120c,2024-07-09,2:38,21,681.75,7,COD,4,c977a5f5,Restaurant_117,Kolkata,Area_C,Thai,4.3,2341,High,No
+c6bd608b,d62819e5,2024-10-17,2:26,88,883.42,2,UPI,4.7,89262461,Restaurant_359,Kolkata,Area_B,Thai,4,4492,Medium,Yes
+6db3c6b7,7b87e9f6,2024-06-12,19:49,65,1335.59,6,"Net Banking",4.9,bbd3019c,Restaurant_489,Delhi,Area_E,Indian,3.4,3895,Medium,Yes
+5064931,e93ddec9,2024-08-26,19:44,57,1570.57,8,COD,4.3,3cf3f01c,Restaurant_383,Bangalore,Area_E,Italian,3.1,4929,High,Yes
+2ee9984a,e1c28560,2024-10-08,22:37,72,1616.96,7,"Net Banking",2.3,1c54225b,Restaurant_281,Mumbai,Area_B,Italian,3.8,2410,Medium,Yes
+8177f2bd,0246c2cd,2024-01-02,15:58,26,1112.44,1,"Net Banking",3.5,fd7a63eb,Restaurant_214,Bangalore,Area_B,Thai,2.8,1421,Low,Yes
+6cbf3670,d0f504a9,2024-01-03,22:17,27,790.93,1,UPI,4.9,5fef57bb,Restaurant_471,Mumbai,Area_A,Italian,2.6,1936,High,No
+6dc95b41,e29a8499,2024-08-04,13:02,73,130.93,10,COD,4.1,76328ab4,Restaurant_232,Bangalore,Area_B,Italian,4.2,4660,High,Yes
+e21d87fb,eec68919,2024-06-13,6:55,34,182.67,6,UPI,3.6,5a38fde9,Restaurant_101,Chennai,Area_C,Indian,4.5,1292,High,No
+b537542c,752f852e,2024-02-03,3:56,28,434.99,8,"Net Banking",1.1,b1f2c737,Restaurant_60,Bangalore,Area_A,Mexican,3.3,2987,Medium,Yes
+9cfeabfc,e89809fe,2024-04-22,12:54,34,1508.11,3,"Net Banking",1.2,8133dda0,Restaurant_340,Chennai,Area_C,Indian,3.4,2034,Medium,Yes
+cc767181,6f2a9081,2024-05-15,3:21,68,796.43,3,"Credit Card",4.2,612e24e0,Restaurant_217,Kolkata,Area_E,Italian,2.7,427,Low,Yes
+f215c49b,75569333,2024-12-24,22:24,35,1606.5,2,COD,1,2c3cc546,Restaurant_430,Mumbai,Area_B,Mexican,3.7,161,High,No
+037810f0,97e8039f,2024-09-28,17:56,61,1995.93,6,COD,3.5,77f59689,Restaurant_467,Delhi,Area_A,Mexican,4.5,2341,Low,No
+cc76248a,10635ad9,2024-01-27,5:03,23,1592.76,10,"Credit Card",2.2,81c4c182,Restaurant_477,Bangalore,Area_A,Chinese,2.6,4436,Medium,No
+d0b5d97f,5f7fe5c0,2024-06-20,2:47,69,387.98,6,UPI,2.3,0969abfd,Restaurant_193,Chennai,Area_C,Mexican,3.4,1965,High,Yes
+1630abd4,14074a28,2024-02-13,15:39,87,174.15,2,UPI,4.4,9e422e29,Restaurant_475,Kolkata,Area_E,Italian,3.3,1198,Low,No
+080dd9a1,8a010307,2024-11-17,14:29,59,720.26,6,"Credit Card",2.5,9ff72da6,Restaurant_173,Mumbai,Area_B,Indian,4.6,2224,Medium,Yes
+efbc402c,0d985994,2024-04-22,23:14,86,1533.49,9,"Net Banking",1.3,d2a546bc,Restaurant_258,Mumbai,Area_E,Thai,4.7,3806,High,No
+608e8e31,b2668ad5,2024-06-26,3:58,17,904.07,7,UPI,1.7,67a95931,Restaurant_46,Bangalore,Area_B,Thai,5,1912,High,No
+2855c7e9,c3e478b4,2024-04-14,6:29,79,128.09,7,Wallet,1.1,78565057,Restaurant_316,Chennai,Area_E,Thai,3,3550,High,No
+bce9cd4c,7e50ed61,2024-05-15,6:41,50,279.18,5,"Credit Card",2.7,e8ffd0d6,Restaurant_444,Bangalore,Area_A,Chinese,4.6,4244,Medium,No
+cd0803d9,6b4c97be,2024-09-01,13:02,89,1250.98,2,"Credit Card",2,f2bb6dd3,Restaurant_151,Mumbai,Area_D,Italian,2.6,4022,Low,Yes
+1ae41f9a,85c3628b,2024-02-18,1:43,90,212.27,4,"Credit Card",1.1,7626f7ad,Restaurant_464,Mumbai,Area_D,Indian,2.7,3711,Medium,Yes
+3a7ab832,152a00ed,2024-05-11,0:44,55,865.08,2,Wallet,2.9,4fbd9363,Restaurant_425,Mumbai,Area_A,Italian,3,176,Medium,No
+ef2bacc5,7f9b77ca,2024-12-10,6:27,27,647.33,9,"Credit Card",2.8,da9a321e,Restaurant_303,Delhi,Area_C,Mexican,2.9,1987,Low,Yes
+67c5e8ca,de446047,2024-03-20,1:44,70,198.65,6,"Net Banking",3,3ebed339,Restaurant_225,Mumbai,Area_A,Chinese,4.9,2362,High,Yes
+3dffd068,77f89d4d,2024-03-11,3:50,89,527.5,10,"Net Banking",3.2,70f4dfa8,Restaurant_293,Chennai,Area_E,Italian,3.6,4760,Low,Yes
+3dfac971,e6c58f82,2024-01-12,10:29,51,484.76,2,UPI,1.8,24ada0ba,Restaurant_115,Chennai,Area_D,Chinese,4.8,4236,Low,No
+547068f4,6c380f4f,2024-01-20,2:13,47,211.81,2,"Net Banking",3.6,c5fe740c,Restaurant_473,Bangalore,Area_E,Mexican,3.8,4379,High,No
+e3f8a3be,572e62b5,2024-04-24,4:35,77,1939.66,8,Wallet,1.1,733a1a91,Restaurant_223,Bangalore,Area_A,Chinese,4.7,3518,Low,No
+1beb94f5,210950c7,2024-07-19,6:24,48,1842.52,4,"Credit Card",2.6,dddddf29,Restaurant_180,Kolkata,Area_D,Chinese,2.7,3242,Medium,Yes
+c5c65550,e8d6820c,2024-09-06,10:28,81,1367.95,10,UPI,1.7,f146994a,Restaurant_483,Kolkata,Area_A,Indian,4.3,4202,Medium,No
+751ba9d9,c6ac3c08,2024-09-22,17:03,67,524.41,10,UPI,2.7,03e3a6e7,Restaurant_446,Delhi,Area_C,Indian,3.8,3892,High,Yes
+cd7f8a8d,784b0c2f,2024-12-22,13:36,62,478.47,3,"Net Banking",1.6,1c1519d1,Restaurant_379,Bangalore,Area_D,Indian,4,185,High,No
+57975082,367ce69a,2024-02-11,7:02,28,424.51,8,"Credit Card",3.1,6af133bb,Restaurant_146,Delhi,Area_E,Chinese,4.9,4062,Low,Yes
+3553536e,13ca46a1,2024-09-08,18:57,34,1590.09,10,"Net Banking",1.2,8c3f5029,Restaurant_166,Delhi,Area_C,Italian,2.8,4563,Medium,No
+0cc1fd6b,d984896a,2024-12-22,20:47,43,1335.36,8,Wallet,4.2,53d1cf83,Restaurant_272,Kolkata,Area_A,Mexican,4.9,4052,Medium,No
+7e16742d,25892e3d,2024-06-13,5:46,52,773.8,10,Wallet,2.7,8133dda0,Restaurant_340,Chennai,Area_C,Indian,3.4,2034,Medium,Yes
+8e8a987d,d16a56d7,2024-08-10,19:35,61,1097.73,3,UPI,2.8,1969672f,Restaurant_402,Chennai,Area_D,Indian,4.4,2776,Low,Yes
+bd2e0aa1,ea90228e,2024-09-25,13:14,88,680.73,8,COD,2.3,3146ef85,Restaurant_323,Chennai,Area_A,Thai,3.9,3727,Medium,No
+564b3782,e27f7cb0,2024-09-01,7:54,43,1572.83,4,"Credit Card",4.7,62026a9a,Restaurant_382,Bangalore,Area_B,Thai,3.8,4439,High,No
+483492b6,99532238,2024-06-19,7:21,19,1838.87,9,Wallet,1.1,2555af08,Restaurant_474,Kolkata,Area_C,Mexican,2.8,124,High,No
+6e52b985,a0791265,2024-10-13,3:27,18,925.24,6,Wallet,1,42142ee5,Restaurant_311,Mumbai,Area_D,Mexican,3.8,2226,High,Yes
+38a82c51,e5d518a9,2024-10-27,18:12,65,198.83,8,"Credit Card",3.4,10504ca1,Restaurant_426,Kolkata,Area_B,Mexican,4.4,1400,Low,No
+057ab41e,ecdde238,2024-09-27,0:11,29,245.95,8,UPI,2.5,40dc81ce,Restaurant_254,Mumbai,Area_E,Chinese,3.9,1248,Low,No
+614eee71,d086ea67,2024-11-14,1:12,48,559.45,6,COD,2.9,2c3cc546,Restaurant_430,Mumbai,Area_B,Mexican,3.7,161,High,No
+7cc10746,29a2cf96,2024-09-21,5:30,57,329.8,6,"Net Banking",3.3,9abef4df,Restaurant_77,Chennai,Area_A,Italian,3.2,4158,Medium,No
+18b0f452,9d44d755,2024-07-10,0:27,42,754.99,8,UPI,3.9,003deee0,Restaurant_428,Bangalore,Area_C,Chinese,3.8,3387,Low,Yes
+6b60ba15,5ad97a3a,2024-03-02,5:27,46,343.83,7,UPI,3.5,651ac35d,Restaurant_160,Chennai,Area_D,Indian,4,2615,High,No
+427a1afa,a97b09c1,2024-02-15,19:25,16,336.79,2,UPI,3.5,f00f0b93,Restaurant_178,Delhi,Area_A,Indian,4.9,2399,Low,Yes
+a6d261b5,e58ca6a8,2024-04-04,21:20,64,734.19,2,Wallet,1.4,3751ee4c,Restaurant_392,Kolkata,Area_C,Italian,2.6,4828,Low,No
+ce146e17,60b6faca,2024-07-20,21:28,30,973.26,6,"Net Banking",2.7,15626d86,Restaurant_309,Delhi,Area_C,Thai,4.3,227,Low,Yes
+8f6ce9b5,631e7428,2024-01-28,9:41,21,1002.53,10,COD,2.5,fe75f9a6,Restaurant_427,Bangalore,Area_B,Mexican,3.7,2337,Low,No
+792346d6,916465a2,2024-10-21,12:52,42,946.96,4,UPI,2.1,5aae47b4,Restaurant_450,Delhi,Area_D,Mexican,3.1,3085,High,No
+3d3bc6e5,200d1a5d,2024-09-15,0:40,34,599.48,1,"Credit Card",3.3,94689fae,Restaurant_235,Chennai,Area_A,Mexican,3.9,4625,Medium,Yes
+b6778f2c,45e51b8f,2024-12-15,0:54,32,946.83,4,UPI,4.9,8f1605c1,Restaurant_170,Chennai,Area_C,Chinese,4.9,3800,Medium,Yes
+2bfcf25e,57861d4a,2024-08-21,4:57,24,120.81,4,"Credit Card",1.3,afad7eb5,Restaurant_410,Chennai,Area_A,Chinese,4.7,1140,Low,No
+e59c6e63,96e26367,2024-07-08,13:25,26,829.53,9,"Net Banking",3.7,cd2a813f,Restaurant_456,Delhi,Area_D,Italian,4,1301,High,Yes
+bfb90ee5,a5eddb27,2024-11-10,0:02,89,1420.54,7,COD,2.6,12205eb5,Restaurant_370,Chennai,Area_D,Mexican,2.7,392,High,No
+895281d3,d447eda6,2024-05-10,13:46,58,1033.63,8,COD,2.7,5e9ad80d,Restaurant_37,Delhi,Area_C,Thai,3.6,4385,Low,No
+4b9bdf16,c8797cf3,2024-05-23,11:31,56,1158.01,10,UPI,4.7,1ca17571,Restaurant_185,Mumbai,Area_B,Mexican,2.9,3144,Medium,Yes
+4778d8c9,64b74318,2024-12-15,21:34,79,395.17,9,COD,1.9,1d9ef47d,Restaurant_266,Mumbai,Area_A,Thai,4.1,1731,Low,Yes
+7097623d,b0cc20c7,2024-08-06,8:36,24,1670.03,2,COD,1.9,dbcaa61c,Restaurant_31,Bangalore,Area_D,Mexican,2.5,2851,High,No
+03d2b7b8,11488a30,2024-04-24,15:14,18,487.6,1,COD,1.7,59a3bc14,Restaurant_408,Mumbai,Area_A,Indian,4.2,3725,Low,No
+de3271e3,cc399766,2024-11-11,9:47,88,191.92,8,UPI,4.6,b9c58717,Restaurant_205,Kolkata,Area_C,Mexican,3.1,1643,High,No
+782198ba,d3224c25,2024-05-02,9:55,46,881.77,7,"Net Banking",5,6f8a9f60,Restaurant_484,Mumbai,Area_E,Thai,3.2,933,Medium,No
+42ccb33d,2d6f6028,2024-06-07,20:50,87,643.81,2,"Credit Card",1.5,e222e302,Restaurant_277,Bangalore,Area_D,Thai,3.7,3242,Low,Yes
+ff32be31,e12ba502,2024-01-04,15:11,84,712.56,9,UPI,3.9,c21dbf54,Restaurant_171,Delhi,Area_D,Chinese,3.5,1131,High,No
+9f6ce688,2fe9cc62,2024-08-09,6:58,61,1514.49,3,"Credit Card",4.9,62249dbf,Restaurant_337,Kolkata,Area_A,Italian,4.5,2651,Medium,Yes
+747067,fe9a21b8,2024-10-04,8:22,66,1534.21,4,"Net Banking",3,6fa56b71,Restaurant_91,Kolkata,Area_A,Mexican,2.9,3079,Low,Yes
+dce67bc6,713b5262,2024-01-27,14:51,16,1049.9,1,Wallet,2.1,ee9921ae,Restaurant_332,Chennai,Area_C,Indian,3.5,3220,Low,Yes
+856e79ef,fba1f64f,2024-05-12,2:29,82,409.7,9,UPI,4.3,eb85c060,Restaurant_393,Kolkata,Area_C,Thai,4.9,931,Medium,Yes
+cfcc1c92,1d32d561,2024-11-27,22:04,89,1447.74,1,"Net Banking",1.5,dfd043a7,Restaurant_218,Chennai,Area_D,Mexican,4.8,2237,High,No
+8d44b780,ab9f9bef,2024-10-02,11:23,29,968.33,2,UPI,4.4,dbcaa61c,Restaurant_31,Bangalore,Area_D,Mexican,2.5,2851,High,No
+dc378095,4446224,2024-01-05,3:43,65,835.72,5,Wallet,2.2,d56c5b5e,Restaurant_487,Delhi,Area_C,Thai,3.9,1584,High,No
+cf249bac,0a7cb4c0,2024-03-25,16:17,53,439.38,2,Wallet,1.7,4e7b5c84,Restaurant_259,Mumbai,Area_B,Mexican,4.3,3998,High,Yes
+a3051331,7f8af5d4,2024-06-07,20:12,33,1393.53,1,"Credit Card",1.6,2.74E+12,Restaurant_51,Chennai,Area_C,Mexican,3.8,2655,Medium,Yes
+9a66be59,5981c757,2024-11-10,1:18,52,635.73,7,"Credit Card",3.2,5628c140,Restaurant_74,Bangalore,Area_A,Indian,2.8,258,Low,No
+c55f1731,44bfc061,2024-04-09,19:55,53,586.33,5,COD,1.7,427b24bc,Restaurant_496,Delhi,Area_C,Mexican,3.2,804,Medium,Yes
+1ec887b2,2b29ce69,2024-05-02,0:22,33,923,3,"Credit Card",3.5,4f2f2dc8,Restaurant_3,Chennai,Area_D,Mexican,5,4172,High,Yes
+fc602401,9b6db785,2024-06-07,14:01,73,421.83,10,"Net Banking",1.9,55c18a95,Restaurant_360,Delhi,Area_E,Indian,2.7,191,High,Yes
+8283084,96309676,2024-10-04,5:46,89,331.77,7,COD,3.7,28bc6e8d,Restaurant_47,Delhi,Area_C,Mexican,2.7,2222,Medium,No
+65e6b109,68c0bd72,2024-07-25,11:48,49,911.61,10,"Net Banking",3.4,bd7c2a0c,Restaurant_56,Mumbai,Area_E,Thai,4.6,2336,Low,Yes
+b3f664eb,b234970c,2024-03-16,17:46,21,1587.3,8,COD,4,f5e8e8a9,Restaurant_458,Delhi,Area_B,Chinese,3.1,1087,Medium,Yes
+c9230b18,5f3e3c18,2024-02-03,11:11,70,1175.59,4,"Net Banking",1.5,760d1a28,Restaurant_457,Mumbai,Area_E,Indian,4.1,3434,Medium,No
+c3cab497,03f755f6,2024-06-27,20:02,59,563.51,6,Wallet,4,ee9921ae,Restaurant_332,Chennai,Area_C,Indian,3.5,3220,Low,Yes
+92626529,6df3a9b0,2024-04-08,4:35,76,640.93,10,UPI,3.8,2c3d36ef,Restaurant_317,Chennai,Area_A,Indian,3.2,4301,High,Yes
+8f37afad,fc16214d,2024-10-07,4:59,26,1144.57,3,"Credit Card",3.5,eb6fce5b,Restaurant_356,Kolkata,Area_A,Chinese,3.3,4660,Low,No
+8a998fb6,9ef1f56d,2024-09-07,1:56,39,1057.79,8,"Credit Card",4,d2a546bc,Restaurant_258,Mumbai,Area_E,Thai,4.7,3806,High,No
+ac0b5c06,8a9a4e51,2024-10-21,8:23,58,1274.72,10,UPI,3.7,8f1605c1,Restaurant_170,Chennai,Area_C,Chinese,4.9,3800,Medium,Yes
+23c0a771,881e8452,2024-02-14,5:39,63,767.31,2,COD,2.6,8a76a7ee,Restaurant_238,Delhi,Area_B,Italian,4.4,3314,Medium,No
+c102501e,56093a61,2024-08-19,15:22,62,1009.17,5,Wallet,3.7,ea525a43,Restaurant_394,Kolkata,Area_D,Indian,4,3021,Low,No
+c882e228,1a66d7db,2024-02-01,17:15,51,1048.38,2,"Net Banking",3.9,3da5daa9,Restaurant_34,Mumbai,Area_D,Indian,4.7,4710,High,Yes
+7e0dcbd3,7eaafc98,2024-01-22,22:54,19,477.85,6,"Credit Card",3.4,9409fecd,Restaurant_331,Mumbai,Area_A,Indian,3.1,2234,Medium,Yes
+47629234,64cb9c2f,2024-09-09,20:29,50,1705.39,7,"Net Banking",2.7,49c4ff0d,Restaurant_372,Delhi,Area_D,Italian,2.6,3231,Medium,Yes
+17d6f893,7538361f,2024-06-17,10:09,57,671.1,10,"Credit Card",2.4,aabdedd3,Restaurant_167,Kolkata,Area_B,Indian,3,4328,Medium,No
+e182658b,49ecbfce,2024-04-03,1:52,69,382.12,3,UPI,2.7,2ca4738c,Restaurant_490,Bangalore,Area_B,Thai,4,3258,Medium,No
+0b4aee76,e847d9f2,2024-11-09,0:26,84,660.07,7,COD,4.1,78805df4,Restaurant_412,Chennai,Area_D,Mexican,3.5,4961,High,No
+5993a526,a5e5a1ee,2024-08-21,3:11,72,1366.95,3,"Net Banking",3.6,f32a3aad,Restaurant_68,Bangalore,Area_A,Indian,4.5,2879,High,No
+aed9f9ac,b2c5eb15,2024-04-07,5:20,54,906.93,9,Wallet,1.8,44837d80,Restaurant_344,Bangalore,Area_A,Thai,3.7,2852,Medium,No
+ba3883f3,c49b8aba,2024-08-12,4:09,61,392.93,9,UPI,4.9,f8088575,Restaurant_182,Delhi,Area_A,Chinese,4.5,3352,Medium,No
+10bf5d1d,e009c482,2024-03-04,7:40,87,1044.5,8,"Net Banking",2.6,174b3d72,Restaurant_201,Kolkata,Area_D,Indian,4.6,2414,High,Yes
+5d4fb0c8,ebc34c31,2024-07-06,9:32,83,1106.18,4,UPI,4.1,4e7b5c84,Restaurant_259,Mumbai,Area_B,Mexican,4.3,3998,High,Yes
+9f7c3885,c683b220,2024-05-22,11:55,59,487.69,1,Wallet,2.4,e66a8f3a,Restaurant_211,Chennai,Area_B,Indian,4.7,519,Low,No
+3b27d347,97da9de8,2024-07-28,0:41,32,1684.55,10,UPI,4.6,abc00ee0,Restaurant_87,Bangalore,Area_A,Italian,3.9,4928,High,No
+5cc00b24,ba56c388,2024-03-19,19:35,36,1303.84,6,UPI,3.5,344d4945,Restaurant_142,Mumbai,Area_C,Italian,3.6,386,Low,Yes
+a9df2d6b,9994236,2024-02-20,3:58,79,1298.15,5,UPI,2.5,1c45fac8,Restaurant_283,Kolkata,Area_B,Thai,4.1,3805,Low,Yes
+f451c69d,c700b501,2024-04-01,21:38,72,1106.88,9,"Credit Card",1.8,71764226,Restaurant_434,Mumbai,Area_E,Italian,2.9,505,Low,No
+385f7d12,fd36b538,2024-12-18,23:38,54,799.48,8,"Credit Card",1.6,89262461,Restaurant_359,Kolkata,Area_B,Thai,4,4492,Medium,Yes
+ff1ec484,81e4ff39,2024-04-03,10:52,27,1939.11,1,Wallet,2.1,c564c624,Restaurant_230,Chennai,Area_A,Italian,3.1,2869,High,Yes
+c93ece3b,009223bf,2024-10-01,1:33,73,795.17,7,"Credit Card",1.4,7cd438d2,Restaurant_482,Kolkata,Area_D,Chinese,4.1,3285,High,No
+36e80c34,48ef5620,2024-06-17,9:06,89,1295.76,10,Wallet,3.7,b37bb876,Restaurant_335,Delhi,Area_C,Thai,4.1,3383,Medium,No
+3c0ada3f,5b47813c,2024-03-19,8:14,82,780.31,3,"Net Banking",2.9,6f8a9f60,Restaurant_484,Mumbai,Area_E,Thai,3.2,933,Medium,No
+84e121bc,6c40b76b,2024-06-02,23:58,50,996.29,10,UPI,3.7,b62af499,Restaurant_453,Mumbai,Area_E,Italian,2.8,902,Low,Yes
+395775dd,4d9b283f,2024-07-13,8:12,49,1409.06,4,"Credit Card",1.3,ce863def,Restaurant_181,Bangalore,Area_B,Thai,3.1,801,Medium,Yes
+92d3e03e,9450bcd0,2024-09-19,7:22,79,1261.75,5,Wallet,3.2,6436832c,Restaurant_187,Bangalore,Area_E,Thai,4.5,1857,Medium,Yes
+3f7f9acd,dbe01b41,2024-11-14,17:14,19,162.47,4,COD,3.3,2bf57503,Restaurant_255,Chennai,Area_A,Indian,3.5,4108,Low,Yes
+a439af13,4fd7603c,2024-12-13,18:05,72,640.56,7,"Credit Card",3.7,368c8202,Restaurant_493,Chennai,Area_B,Italian,2.6,1957,High,Yes
+8da18951,f0e1c578,2024-07-28,7:23,54,330.59,5,Wallet,3.5,8ff329e1,Restaurant_58,Kolkata,Area_C,Thai,4.2,1807,Low,Yes
+34e50684,4b34ad66,2024-01-01,2:35,57,800.47,8,UPI,3.2,bfbb1501,Restaurant_2,Mumbai,Area_A,Chinese,4.1,2773,High,No
+4aec39c0,3df025be,2024-07-07,4:26,61,765.73,3,Wallet,3,89ad80f5,Restaurant_213,Bangalore,Area_C,Chinese,4.4,2829,Low,Yes
+f7470531,8b375b73,2024-01-04,2:49,50,462.75,2,UPI,3.7,754bea84,Restaurant_366,Mumbai,Area_E,Indian,3.9,4397,High,No
+cde83170,6cd330b3,2024-10-06,5:38,81,628.12,9,"Credit Card",1.9,2c501d10,Restaurant_246,Mumbai,Area_C,Indian,3,4064,Low,Yes
+a06558a6,2d549c7b,2024-12-26,1:33,53,1956.04,2,Wallet,3.7,71764226,Restaurant_434,Mumbai,Area_E,Italian,2.9,505,Low,No
+94c76544,74a1f77a,2024-04-17,2:48,59,706.24,7,Wallet,2.5,ff28abb5,Restaurant_388,Mumbai,Area_B,Chinese,3.9,4121,Low,Yes
+a6defc59,7cf9ffbf,2024-06-19,22:55,18,693.77,4,"Credit Card",3,0dc347db,Restaurant_267,Mumbai,Area_B,Indian,4.2,1432,Medium,Yes
+77bd527f,9b9eb911,2024-02-05,10:30,52,588.1,3,UPI,1.2,122cbcc2,Restaurant_374,Mumbai,Area_E,Thai,4.9,1938,Medium,No
+cb30936b,8d443ac2,2024-05-07,10:17,85,1165.07,9,"Credit Card",4.7,8c077be2,Restaurant_485,Mumbai,Area_D,Chinese,3.2,1999,Low,Yes
+20c8685a,f593fe44,2024-03-08,10:53,90,196.32,3,UPI,2.3,ea525a43,Restaurant_394,Kolkata,Area_D,Indian,4,3021,Low,No
+a1b440f9,066b1def,2024-11-10,9:36,64,1381.47,4,Wallet,4.9,89262461,Restaurant_359,Kolkata,Area_B,Thai,4,4492,Medium,Yes
+702588d2,0e945fd6,2024-09-22,11:58,38,411.05,6,"Credit Card",2,09e5eed1,Restaurant_22,Mumbai,Area_D,Indian,4.3,188,High,Yes
+0238b918,f606ca3d,2024-04-07,10:51,52,1437.74,9,"Net Banking",1,2fb269f9,Restaurant_245,Delhi,Area_E,Indian,3.9,1135,High,No
+d50b78a9,00921b80,2024-04-10,16:37,40,858.34,9,"Credit Card",3.9,3da5daa9,Restaurant_34,Mumbai,Area_D,Indian,4.7,4710,High,Yes
+0906e80b,37aaa1fe,2024-05-02,15:12,45,500,2,"Net Banking",3.3,9c38c0b2,Restaurant_27,Delhi,Area_E,Italian,2.6,542,High,No
+5a7f191e,d2278124,2024-03-05,20:30,54,1385.8,10,"Net Banking",1.8,b05fd083,Restaurant_131,Delhi,Area_B,Indian,4.6,1664,High,Yes
+66c0c8e9,99f56b2a,2024-01-27,15:46,29,938.46,3,"Net Banking",2.4,53d1cf83,Restaurant_272,Kolkata,Area_A,Mexican,4.9,4052,Medium,No
+da44aa8c,209b022e,2024-11-18,13:40,52,207.32,4,COD,4.4,a961a847,Restaurant_183,Kolkata,Area_C,Thai,4,4835,Medium,No
+c44663ca,0193f74d,2024-04-15,11:01,45,506.76,1,COD,2,754bea84,Restaurant_366,Mumbai,Area_E,Indian,3.9,4397,High,No
+00a60e5b,651fd37c,2024-11-19,5:54,25,1683.5,7,Wallet,2.6,2c89fe67,Restaurant_300,Delhi,Area_B,Chinese,3.1,3848,Low,Yes
+f9db4a67,153dff43,2024-05-03,22:50,19,103.06,7,"Credit Card",3.3,f8088575,Restaurant_182,Delhi,Area_A,Chinese,4.5,3352,Medium,No
+75211aca,793c6a89,2024-08-08,19:33,39,648.95,7,Wallet,3.5,93ed45d5,Restaurant_80,Mumbai,Area_B,Thai,3.9,4119,High,No
+1335696d,7bcd8fa8,2024-03-24,9:02,79,238.04,1,"Credit Card",2.2,1c1519d1,Restaurant_379,Bangalore,Area_D,Indian,4,185,High,No
+6d38903f,1b437483,2024-04-13,16:30,48,545.28,4,Wallet,2,4fa55034,Restaurant_451,Bangalore,Area_A,Indian,4.9,3947,Medium,No
+d5119889,23df0b88,2024-10-27,7:55,15,1743.2,8,Wallet,2.2,b28ed1b8,Restaurant_355,Kolkata,Area_E,Italian,3.6,909,Medium,Yes
+9660101e,2f0294be,2024-02-13,1:04,36,1608.97,10,"Net Banking",3.4,df911fc2,Restaurant_362,Bangalore,Area_B,Indian,4.6,2865,Medium,No
+8799f0b8,d04cccb3,2024-07-26,9:03,41,1098.86,1,Wallet,1.5,e66a8f3a,Restaurant_211,Chennai,Area_B,Indian,4.7,519,Low,No
+9.44E+89,2ffa8c74,2024-03-15,7:16,44,946.59,6,Wallet,2.5,4fa55034,Restaurant_451,Bangalore,Area_A,Indian,4.9,3947,Medium,No
+23ed0175,0f4210f5,2024-09-06,0:43,41,1219.05,5,UPI,3.4,6fa56b71,Restaurant_91,Kolkata,Area_A,Mexican,2.9,3079,Low,Yes
+7dca9f80,a2638ce8,2024-02-09,14:17,85,1245.67,2,"Net Banking",3.9,a9239ac0,Restaurant_128,Kolkata,Area_C,Mexican,3.6,4208,Low,No
+38122551,751df855,2024-02-19,23:18,55,451.06,1,"Credit Card",2.1,8810c9aa,Restaurant_1,Chennai,Area_D,Italian,4.7,2847,Medium,Yes
+43c78768,a00ddd4e,2024-03-09,0:29,35,1626.07,1,UPI,2.3,242460cc,Restaurant_256,Mumbai,Area_B,Indian,3.9,2197,Low,No
+18929dec,1f9b1379,2024-04-20,22:16,33,1464.44,6,"Credit Card",2.8,83c9c7f5,Restaurant_436,Mumbai,Area_A,Italian,3.5,813,High,Yes
+aefdd7e9,f85c4607,2024-07-10,20:11,61,673.96,4,COD,3.5,cad4218c,Restaurant_161,Bangalore,Area_D,Chinese,4.1,3101,Low,Yes
+cf11e0b3,7c0dabfe,2024-06-28,15:54,86,289.39,8,"Net Banking",2.7,71d4a52a,Restaurant_261,Bangalore,Area_D,Mexican,3.2,3991,Medium,No
+4bb75c5e,f5a31a1c,2024-09-23,16:52,52,806.29,6,UPI,1.6,ce114fee,Restaurant_262,Bangalore,Area_D,Mexican,2.5,1388,Medium,No
+a2624af9,71aa5c6c,2024-06-21,18:40,52,1451.74,1,COD,3.4,e7e88763,Restaurant_350,Delhi,Area_B,Indian,4.1,3402,Low,Yes
+c4d607d9,2f5f21be,2024-04-20,0:21,39,540.58,6,COD,3.6,74aea7be,Restaurant_389,Chennai,Area_B,Mexican,4.3,4171,High,No
+b100b5c8,21a0688d,2024-01-20,12:10,64,1789.88,2,UPI,2.2,81aa2acc,Restaurant_478,Kolkata,Area_B,Chinese,3.8,3740,Medium,Yes
+8384e6f5,2050877e,2024-02-18,17:47,75,810.66,6,"Net Banking",3.1,b96de83c,Restaurant_345,Mumbai,Area_A,Italian,3.1,4744,Low,No
+80581e8c,5cdd54ea,2024-05-23,5:23,61,230.9,7,UPI,2.9,eb075302,Restaurant_481,Mumbai,Area_E,Italian,4.8,1222,Medium,No
+bfecc10f,83301b7d,2024-05-13,5:07,75,345.01,8,Wallet,4.8,b1f2c737,Restaurant_60,Bangalore,Area_A,Mexican,3.3,2987,Medium,Yes
+bf91245b,433ce224,2024-11-12,15:16,55,1518.18,4,"Net Banking",1,9c38c0b2,Restaurant_27,Delhi,Area_E,Italian,2.6,542,High,No
+e9789957,05d2a902,2024-05-06,17:05,63,494.18,1,Wallet,1.7,bf914634,Restaurant_387,Bangalore,Area_B,Mexican,3.7,1969,Medium,No
+eff82df9,3614981b,2024-01-28,21:11,16,693.66,9,Wallet,1.6,94e70589,Restaurant_48,Mumbai,Area_A,Chinese,4.8,2131,High,Yes
+accf3d0f,fa77202a,2024-07-28,23:22,26,1868.15,7,COD,3,04a74418,Restaurant_275,Chennai,Area_E,Thai,3.8,314,Low,Yes
+07095d76,d506aade,2024-12-05,23:28,72,1041.15,2,"Net Banking",3.4,1935fe99,Restaurant_342,Chennai,Area_C,Indian,2.8,1259,High,No
+d9accd86,ca4e0710,2024-05-24,1:01,64,1239.67,4,UPI,3,8fc1a811,Restaurant_98,Delhi,Area_A,Indian,3.5,2900,High,Yes
+75026022,5d544212,2024-11-20,9:24,77,174.6,3,Wallet,3.8,19c74ecf,Restaurant_7,Mumbai,Area_A,Indian,4.1,437,High,No
+9c5921f5,d15f41f4,2024-11-08,4:55,77,929.97,4,UPI,1.4,d15946a3,Restaurant_73,Kolkata,Area_A,Chinese,2.6,688,High,Yes
+b4377e18,e33d8f01,2024-11-16,6:39,34,1879.58,4,COD,3,c2dd51cf,Restaurant_361,Chennai,Area_D,Chinese,3.3,3385,High,No
+c607e652,f6ea3d51,2024-06-06,7:53,82,829.22,1,"Credit Card",2.8,bfbb1501,Restaurant_2,Mumbai,Area_A,Chinese,4.1,2773,High,No
+39df4765,20285296,2024-06-15,7:57,53,491.39,10,"Credit Card",2.2,3535b075,Restaurant_460,Bangalore,Area_B,Mexican,2.7,2135,High,Yes
+86b56197,4f54521d,2024-09-12,21:50,81,1396.47,8,UPI,1.4,5a38fde9,Restaurant_101,Chennai,Area_C,Indian,4.5,1292,High,No
+5d8e8823,8b4adc84,2024-04-05,3:54,19,653.97,9,COD,2.9,369bf88e,Restaurant_33,Bangalore,Area_D,Thai,3.4,1133,Low,No
+e740033a,0b00e587,2024-08-10,3:17,16,268.86,8,UPI,4.6,f00f0b93,Restaurant_178,Delhi,Area_A,Indian,4.9,2399,Low,Yes
+1df58b39,c2f91218,2024-04-02,16:40,48,624.92,3,Wallet,1.6,acf7c6f8,Restaurant_221,Delhi,Area_C,Italian,4.4,4082,High,No
+534fc46f,8ccbca99,2024-02-08,0:51,59,1246.81,10,UPI,1.9,9ac148bf,Restaurant_147,Delhi,Area_C,Mexican,2.6,1468,High,Yes
+e711786c,ad4aaea8,2024-03-17,0:50,28,831.84,2,"Credit Card",1.1,b12c27be,Restaurant_353,Kolkata,Area_E,Thai,4.4,726,Medium,Yes
+234e39bd,30de000a,2024-08-21,14:04,90,1753.65,6,Wallet,4.5,93c01c5b,Restaurant_305,Chennai,Area_A,Italian,3.1,4388,Medium,No
+0e919bb0,8f151b4f,2024-08-14,13:38,76,1104.3,3,Wallet,4.5,6436832c,Restaurant_187,Bangalore,Area_E,Thai,4.5,1857,Medium,Yes
+177fe5b5,e3436b6e,2024-06-02,1:44,53,198.84,6,COD,3.4,1ca17571,Restaurant_185,Mumbai,Area_B,Mexican,2.9,3144,Medium,Yes
+8677a1d4,df143d29,2024-12-02,14:34,53,1276.48,4,"Credit Card",4.4,8f1605c1,Restaurant_170,Chennai,Area_C,Chinese,4.9,3800,Medium,Yes
+70fbe1b7,6296f072,2024-06-25,21:11,47,538.19,10,COD,3.9,c2e70208,Restaurant_371,Delhi,Area_E,Chinese,4.8,3656,Medium,Yes
+051f37fe,3506b4aa,2024-10-19,18:15,19,150.54,2,"Credit Card",4.5,93c01c5b,Restaurant_305,Chennai,Area_A,Italian,3.1,4388,Medium,No
+52d110cb,cce0e30b,2024-04-27,19:34,88,233.16,3,COD,3,76328ab4,Restaurant_232,Bangalore,Area_B,Italian,4.2,4660,High,Yes
+cdf8ae23,8485b1a1,2024-09-16,17:19,89,1360.59,7,Wallet,4.5,bd857157,Restaurant_210,Mumbai,Area_B,Mexican,3.3,3819,High,No
+635cf3b4,9de45265,2024-12-04,23:44,79,1100.96,10,"Credit Card",2,62249dbf,Restaurant_337,Kolkata,Area_A,Italian,4.5,2651,Medium,Yes
+02dc5099,e8cbf6f0,2024-11-25,2:41,19,218.78,10,"Credit Card",4.4,032e886d,Restaurant_363,Bangalore,Area_B,Mexican,3.8,369,Medium,Yes
